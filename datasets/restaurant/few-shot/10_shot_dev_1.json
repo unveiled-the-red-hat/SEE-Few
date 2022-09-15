@@ -1,0 +1,1116 @@
+[
+    {
+        "org_id": "128",
+        "tokens": [
+            "are",
+            "there",
+            "any",
+            "burgers",
+            "and",
+            "cupcakes",
+            "locations",
+            "outside",
+            "of",
+            "manhattan"
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "Dish"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "Dish"
+            },
+            {
+                "start": 7,
+                "end": 10,
+                "type": "Location"
+            }
+        ]
+    },
+    {
+        "org_id": "2441",
+        "tokens": [
+            "how",
+            "far",
+            "am",
+            "i",
+            "from",
+            "the",
+            "best",
+            "steak",
+            "in",
+            "the",
+            "city"
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 7,
+                "type": "Rating"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "Dish"
+            },
+            {
+                "start": 8,
+                "end": 11,
+                "type": "Location"
+            }
+        ]
+    },
+    {
+        "org_id": "2058",
+        "tokens": [
+            "find",
+            "me",
+            "the",
+            "closest",
+            "hamburger",
+            "drive",
+            "thru"
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "Location"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "Dish"
+            },
+            {
+                "start": 5,
+                "end": 7,
+                "type": "Amenity"
+            }
+        ]
+    },
+    {
+        "org_id": "11",
+        "tokens": [
+            "about",
+            "how",
+            "much",
+            "is",
+            "a",
+            "midpriced",
+            "bottle",
+            "of",
+            "good",
+            "wine",
+            "at",
+            "davidos",
+            "italian",
+            "palace"
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 6,
+                "type": "Price"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "Rating"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "Rating"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "Cuisine"
+            },
+            {
+                "start": 11,
+                "end": 14,
+                "type": "Restaurant_Name"
+            }
+        ]
+    },
+    {
+        "org_id": "7435",
+        "tokens": [
+            "wheres",
+            "the",
+            "nearest",
+            "fast",
+            "food"
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "Location"
+            },
+            {
+                "start": 3,
+                "end": 5,
+                "type": "Cuisine"
+            }
+        ]
+    },
+    {
+        "org_id": "4763",
+        "tokens": [
+            "looking",
+            "for",
+            "a",
+            "restaurant",
+            "that",
+            "is",
+            "well",
+            "rated",
+            "but",
+            "not",
+            "to",
+            "costly"
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 8,
+                "type": "Rating"
+            },
+            {
+                "start": 9,
+                "end": 12,
+                "type": "Price"
+            }
+        ]
+    },
+    {
+        "org_id": "5151",
+        "tokens": [
+            "search",
+            "for",
+            "a",
+            "place",
+            "that",
+            "serves",
+            "lobster",
+            "ravioli"
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 8,
+                "type": "Dish"
+            }
+        ]
+    },
+    {
+        "org_id": "5541",
+        "tokens": [
+            "what",
+            "good",
+            "restaurants",
+            "are",
+            "around",
+            "here"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "Rating"
+            },
+            {
+                "start": 4,
+                "end": 6,
+                "type": "Location"
+            }
+        ]
+    },
+    {
+        "org_id": "1069",
+        "tokens": [
+            "directions",
+            "to",
+            "taco",
+            "bel"
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 4,
+                "type": "Restaurant_Name"
+            }
+        ]
+    },
+    {
+        "org_id": "943",
+        "tokens": [
+            "can",
+            "you",
+            "tell",
+            "me",
+            "a",
+            "restaurant",
+            "were",
+            "kids",
+            "eat",
+            "free",
+            "and",
+            "can",
+            "eat",
+            "a",
+            "descent",
+            "meal"
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 10,
+                "type": "Amenity"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "Rating"
+            }
+        ]
+    },
+    {
+        "org_id": "945",
+        "tokens": [
+            "can",
+            "you",
+            "tell",
+            "me",
+            "if",
+            "olive",
+            "garden",
+            "allows",
+            "smoking"
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 7,
+                "type": "Restaurant_Name"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "Amenity"
+            }
+        ]
+    },
+    {
+        "org_id": "6068",
+        "tokens": [
+            "whats",
+            "a",
+            "good",
+            "rice",
+            "restaurant",
+            "where",
+            "i",
+            "can",
+            "eat",
+            "at",
+            "the",
+            "bar"
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "Rating"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "Dish"
+            },
+            {
+                "start": 8,
+                "end": 10,
+                "type": "Amenity"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "Amenity"
+            }
+        ]
+    },
+    {
+        "org_id": "824",
+        "tokens": [
+            "can",
+            "you",
+            "help",
+            "me",
+            "find",
+            "a",
+            "fast",
+            "food",
+            "restaurant",
+            "with",
+            "reasonable",
+            "prices",
+            "and",
+            "that",
+            "is",
+            "open",
+            "until",
+            "at",
+            "least",
+            "11",
+            "pm"
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 8,
+                "type": "Cuisine"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "Price"
+            },
+            {
+                "start": 15,
+                "end": 21,
+                "type": "Hours"
+            }
+        ]
+    },
+    {
+        "org_id": "5816",
+        "tokens": [
+            "what",
+            "papa",
+            "johns",
+            "are",
+            "there",
+            "near",
+            "here"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "Restaurant_Name"
+            },
+            {
+                "start": 5,
+                "end": 7,
+                "type": "Location"
+            }
+        ]
+    },
+    {
+        "org_id": "6460",
+        "tokens": [
+            "where",
+            "can",
+            "i",
+            "find",
+            "good",
+            "chowder"
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "Rating"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "Dish"
+            }
+        ]
+    },
+    {
+        "org_id": "3390",
+        "tokens": [
+            "i",
+            "would",
+            "like",
+            "a",
+            "place",
+            "not",
+            "very",
+            "expensive"
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 8,
+                "type": "Price"
+            }
+        ]
+    },
+    {
+        "org_id": "6079",
+        "tokens": [
+            "whats",
+            "a",
+            "reasonably",
+            "priced",
+            "middle",
+            "eastern",
+            "joint",
+            "within",
+            "a",
+            "mile"
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "Price"
+            },
+            {
+                "start": 4,
+                "end": 6,
+                "type": "Cuisine"
+            },
+            {
+                "start": 7,
+                "end": 10,
+                "type": "Location"
+            }
+        ]
+    },
+    {
+        "org_id": "4417",
+        "tokens": [
+            "is",
+            "there",
+            "an",
+            "all",
+            "night",
+            "barbecue",
+            "place",
+            "near",
+            "government",
+            "center"
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 5,
+                "type": "Hours"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "Cuisine"
+            },
+            {
+                "start": 6,
+                "end": 10,
+                "type": "Location"
+            }
+        ]
+    },
+    {
+        "org_id": "1601",
+        "tokens": [
+            "find",
+            "a",
+            "high",
+            "rated",
+            "bar",
+            "that",
+            "serves",
+            "food",
+            "nearby"
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 4,
+                "type": "Rating"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "Amenity"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "Location"
+            }
+        ]
+    },
+    {
+        "org_id": "6083",
+        "tokens": [
+            "whats",
+            "an",
+            "average",
+            "priced",
+            "restaurant",
+            "thats",
+            "open",
+            "at",
+            "11",
+            "am"
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "Price"
+            },
+            {
+                "start": 6,
+                "end": 10,
+                "type": "Hours"
+            }
+        ]
+    },
+    {
+        "org_id": "3908",
+        "tokens": [
+            "is",
+            "shogun",
+            "a",
+            "good",
+            "restaurant"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "Restaurant_Name"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "Rating"
+            }
+        ]
+    },
+    {
+        "org_id": "6470",
+        "tokens": [
+            "where",
+            "can",
+            "i",
+            "find",
+            "lobster",
+            "in",
+            "a",
+            "very",
+            "old",
+            "building"
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "Dish"
+            },
+            {
+                "start": 7,
+                "end": 10,
+                "type": "Amenity"
+            }
+        ]
+    },
+    {
+        "org_id": "4808",
+        "tokens": [
+            "make",
+            "a",
+            "reservation",
+            "at",
+            "bouchon",
+            "for",
+            "me"
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "Restaurant_Name"
+            }
+        ]
+    },
+    {
+        "org_id": "1486",
+        "tokens": [
+            "does",
+            "the",
+            "nearby",
+            "robeks",
+            "have",
+            "relaxed",
+            "service"
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "Location"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "Restaurant_Name"
+            },
+            {
+                "start": 5,
+                "end": 7,
+                "type": "Amenity"
+            }
+        ]
+    },
+    {
+        "org_id": "6479",
+        "tokens": [
+            "where",
+            "can",
+            "i",
+            "find",
+            "satisfying",
+            "portions",
+            "before",
+            "8",
+            "am"
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 6,
+                "type": "Amenity"
+            },
+            {
+                "start": 6,
+                "end": 9,
+                "type": "Hours"
+            }
+        ]
+    },
+    {
+        "org_id": "2513",
+        "tokens": [
+            "how",
+            "late",
+            "does",
+            "the",
+            "willow",
+            "tree",
+            "bar",
+            "stay",
+            "open",
+            "on",
+            "friday"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "Hours"
+            },
+            {
+                "start": 4,
+                "end": 7,
+                "type": "Restaurant_Name"
+            },
+            {
+                "start": 7,
+                "end": 11,
+                "type": "Hours"
+            }
+        ]
+    },
+    {
+        "org_id": "7256",
+        "tokens": [
+            "where",
+            "is",
+            "the",
+            "nearest",
+            "place",
+            "to",
+            "eat",
+            "for",
+            "a",
+            "reasonable",
+            "cost"
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "Location"
+            },
+            {
+                "start": 9,
+                "end": 11,
+                "type": "Price"
+            }
+        ]
+    },
+    {
+        "org_id": "3675",
+        "tokens": [
+            "im",
+            "looking",
+            "for",
+            "a",
+            "french",
+            "restaurant",
+            "on",
+            "the",
+            "upper",
+            "east",
+            "side",
+            "that",
+            "specializes",
+            "in",
+            "alsatian",
+            "dishes"
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "Cuisine"
+            },
+            {
+                "start": 8,
+                "end": 11,
+                "type": "Location"
+            },
+            {
+                "start": 14,
+                "end": 16,
+                "type": "Dish"
+            }
+        ]
+    },
+    {
+        "org_id": "4963",
+        "tokens": [
+            "out",
+            "of",
+            "the",
+            "places",
+            "that",
+            "serve",
+            "tapas",
+            "do",
+            "any",
+            "have",
+            "live",
+            "music",
+            "after",
+            "10",
+            "pm"
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 7,
+                "type": "Cuisine"
+            },
+            {
+                "start": 10,
+                "end": 12,
+                "type": "Amenity"
+            },
+            {
+                "start": 12,
+                "end": 15,
+                "type": "Hours"
+            }
+        ]
+    },
+    {
+        "org_id": "1251",
+        "tokens": [
+            "do",
+            "you",
+            "know",
+            "where",
+            "they",
+            "sell",
+            "korean",
+            "barbeque"
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 8,
+                "type": "Cuisine"
+            }
+        ]
+    },
+    {
+        "org_id": "230",
+        "tokens": [
+            "are",
+            "there",
+            "any",
+            "highly",
+            "rated",
+            "restaurants",
+            "nearby",
+            "that",
+            "do",
+            "not",
+            "require",
+            "a",
+            "reservation"
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 5,
+                "type": "Rating"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "Location"
+            },
+            {
+                "start": 8,
+                "end": 11,
+                "type": "Amenity"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "Amenity"
+            }
+        ]
+    },
+    {
+        "org_id": "7658",
+        "tokens": [
+            "yes",
+            "we",
+            "need",
+            "to",
+            "find",
+            "a",
+            "cheap",
+            "deli",
+            "with",
+            "good",
+            "hours",
+            "for",
+            "our",
+            "childrens",
+            "lunches",
+            "dinos",
+            "is",
+            "open",
+            "all",
+            "day",
+            "5",
+            "days",
+            "a",
+            "week",
+            "score"
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 7,
+                "type": "Price"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "Cuisine"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "Rating"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "Hours"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "Amenity"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "Hours"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "Restaurant_Name"
+            },
+            {
+                "start": 20,
+                "end": 24,
+                "type": "Hours"
+            }
+        ]
+    },
+    {
+        "org_id": "876",
+        "tokens": [
+            "can",
+            "you",
+            "make",
+            "a",
+            "6",
+            "00",
+            "pm",
+            "reservation",
+            "for",
+            "lujan",
+            "at",
+            "le",
+            "blue",
+            "restaurant"
+        ],
+        "entities": [
+            {
+                "start": 11,
+                "end": 14,
+                "type": "Restaurant_Name"
+            }
+        ]
+    },
+    {
+        "org_id": "6766",
+        "tokens": [
+            "where",
+            "can",
+            "i",
+            "get",
+            "tapas"
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "Dish"
+            }
+        ]
+    },
+    {
+        "org_id": "5878",
+        "tokens": [
+            "what",
+            "restaurant",
+            "is",
+            "open",
+            "right",
+            "now"
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 6,
+                "type": "Hours"
+            }
+        ]
+    },
+    {
+        "org_id": "3704",
+        "tokens": [
+            "im",
+            "looking",
+            "for",
+            "a",
+            "not",
+            "too",
+            "espensive",
+            "restaurant",
+            "that",
+            "offers",
+            "halal",
+            "food"
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 7,
+                "type": "Price"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "Cuisine"
+            }
+        ]
+    },
+    {
+        "org_id": "6522",
+        "tokens": [
+            "where",
+            "can",
+            "i",
+            "get",
+            "a",
+            "burrito",
+            "for",
+            "less",
+            "than",
+            "5"
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 6,
+                "type": "Dish"
+            },
+            {
+                "start": 7,
+                "end": 10,
+                "type": "Price"
+            }
+        ]
+    },
+    {
+        "org_id": "2814",
+        "tokens": [
+            "i",
+            "need",
+            "a",
+            "list",
+            "of",
+            "restaurants",
+            "that",
+            "serve",
+            "entrees",
+            "for",
+            "less",
+            "than",
+            "10",
+            "00"
+        ],
+        "entities": [
+            {
+                "start": 10,
+                "end": 14,
+                "type": "Price"
+            }
+        ]
+    }
+]

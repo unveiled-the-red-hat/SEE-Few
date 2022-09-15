@@ -1,0 +1,1608 @@
+[
+    {
+        "org_id": "771",
+        "tokens": [
+            "It",
+            "is",
+            "located",
+            "in",
+            "the",
+            "Roman",
+            "Catholic",
+            "Diocese",
+            "of",
+            "Sioux",
+            "City",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 8,
+                "type": "ORG"
+            },
+            {
+                "start": 9,
+                "end": 11,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "259",
+        "tokens": [
+            "Aero",
+            "Gare",
+            "was",
+            "a",
+            "kitplane",
+            "manufacturer",
+            "founded",
+            "by",
+            "Gary",
+            "LeGare",
+            "in",
+            "Mojave",
+            ",",
+            "California",
+            "to",
+            "marketed",
+            "the",
+            "Sea",
+            "Hawker",
+            "amphibious",
+            "aircraft",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 8,
+                "end": 10,
+                "type": "PER"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "LOC"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "LOC"
+            },
+            {
+                "start": 17,
+                "end": 19,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "777",
+        "tokens": [
+            "The",
+            "Boilerhouse",
+            "Boys",
+            "is",
+            "the",
+            "stage",
+            "name",
+            "of",
+            "the",
+            "duo",
+            "Ben",
+            "Wolff",
+            "and",
+            "Andy",
+            "Dean",
+            ",",
+            "British",
+            "record",
+            "producers",
+            ",",
+            "remixers",
+            ",",
+            "DJs",
+            ",",
+            "songwriters",
+            ",",
+            "and",
+            "soundtrack",
+            "composers",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "ORG"
+            },
+            {
+                "start": 10,
+                "end": 12,
+                "type": "PER"
+            },
+            {
+                "start": 13,
+                "end": 15,
+                "type": "PER"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "907",
+        "tokens": [
+            "The",
+            "playfield",
+            "was",
+            "named",
+            "after",
+            "Bobby",
+            "Morris",
+            ",",
+            "former",
+            "King",
+            "County",
+            ",",
+            "Washington",
+            "auditor",
+            ",",
+            "in",
+            "1980",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 7,
+                "type": "PER"
+            },
+            {
+                "start": 9,
+                "end": 11,
+                "type": "LOC"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "914",
+        "tokens": [
+            "Caloi",
+            "was",
+            "founded",
+            "in",
+            "1898",
+            "by",
+            "Italian",
+            "immigrant",
+            "Luigi",
+            "Caloi",
+            "and",
+            "his",
+            "brother-in-law",
+            ",",
+            "Agenor",
+            "Poletti",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "MISC"
+            },
+            {
+                "start": 8,
+                "end": 10,
+                "type": "PER"
+            },
+            {
+                "start": 14,
+                "end": 16,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "276",
+        "tokens": [
+            "The",
+            "earliest",
+            "mention",
+            "of",
+            "them",
+            "is",
+            "in",
+            "1288",
+            ",",
+            "when",
+            "they",
+            "appear",
+            "to",
+            "have",
+            "been",
+            "called",
+            "Christiens",
+            "or",
+            "Christianos",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 16,
+                "end": 17,
+                "type": "MISC"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "927",
+        "tokens": [
+            "This",
+            "tracks",
+            "comes",
+            "off",
+            "their",
+            "1998",
+            "album",
+            ",",
+            "Electro-Shock",
+            "Blues",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 8,
+                "end": 10,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "929",
+        "tokens": [
+            "Candace",
+            "Savage",
+            "(",
+            "born",
+            "1949",
+            ")",
+            "is",
+            "a",
+            "Canadian",
+            "writer",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "291",
+        "tokens": [
+            "It",
+            "was",
+            "not",
+            "until",
+            "the",
+            "French",
+            "Revolution",
+            "that",
+            "any",
+            "steps",
+            "were",
+            "taken",
+            "to",
+            "ameliorate",
+            "their",
+            "lot",
+            ",",
+            "but",
+            "today",
+            "they",
+            "no",
+            "longer",
+            "form",
+            "a",
+            "class",
+            "and",
+            "have",
+            "been",
+            "practically",
+            "lost",
+            "sight",
+            "of",
+            "in",
+            "the",
+            "general",
+            "peasantry",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 7,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "167",
+        "tokens": [
+            "Redesignated",
+            "65",
+            "Air",
+            "Division",
+            "(",
+            "Defense",
+            ")",
+            "on",
+            "17",
+            "April",
+            "1952",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 7,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "296",
+        "tokens": [
+            "Aisby",
+            "is",
+            "a",
+            "village",
+            "in",
+            "the",
+            "English",
+            "county",
+            "of",
+            "Lincolnshire",
+            ",",
+            "known",
+            "as",
+            "Asebi",
+            "in",
+            "the",
+            "Domesday",
+            "Book",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "MISC"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "LOC"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "LOC"
+            },
+            {
+                "start": 16,
+                "end": 18,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "944",
+        "tokens": [
+            "One",
+            "major",
+            "discovery",
+            "by",
+            "Dr",
+            "Harthoorn",
+            "'s",
+            "team",
+            "was",
+            "that",
+            "different",
+            "species",
+            ",",
+            "despite",
+            "being",
+            "of",
+            "roughly",
+            "equal",
+            "size",
+            "(",
+            "for",
+            "example",
+            "the",
+            "rhinoceros",
+            "and",
+            "the",
+            "buffalo",
+            ")",
+            "needed",
+            "very",
+            "different",
+            "doses",
+            "and",
+            "spectra",
+            "of",
+            "drugs",
+            "to",
+            "safely",
+            "immobilise",
+            "them",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 6,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "567",
+        "tokens": [
+            "Li",
+            "Shimin",
+            "'s",
+            "army",
+            "avoided",
+            "conflict",
+            "until",
+            "the",
+            "troops",
+            "of",
+            "Dou",
+            "Jiande",
+            "were",
+            "exhausted",
+            "and",
+            "then",
+            "led",
+            "a",
+            "cavalry",
+            "charge",
+            ",",
+            "effectively",
+            "capturing",
+            "Dou",
+            "Jiande",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 10,
+                "end": 12,
+                "type": "PER"
+            },
+            {
+                "start": 23,
+                "end": 25,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "187",
+        "tokens": [
+            "F-94",
+            "Starfire",
+            ",",
+            "1952",
+            "--",
+            "1954",
+            ";",
+            "F-86",
+            "Sabre",
+            ",",
+            "1953",
+            "--",
+            "1954",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 7,
+                "end": 9,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "579",
+        "tokens": [
+            "The",
+            "French",
+            "met",
+            "a",
+            "strong",
+            "resistance",
+            ",",
+            "killing",
+            "2",
+            "riflemen",
+            "and",
+            "wounding",
+            "4",
+            ",",
+            "but",
+            "were",
+            "at",
+            "the",
+            "end",
+            "successful",
+            "and",
+            "forced",
+            "the",
+            "Azna",
+            "to",
+            "escape",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "451",
+        "tokens": [
+            "In",
+            "the",
+            "following",
+            "year",
+            ",",
+            "1911",
+            ",",
+            "a",
+            "law",
+            "officialized",
+            "the",
+            "status",
+            "of",
+            "\"",
+            "A",
+            "Portuguesa",
+            "\"",
+            "as",
+            "Portugal",
+            "'s",
+            "national",
+            "anthem",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 14,
+                "end": 16,
+                "type": "MISC"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "456",
+        "tokens": [
+            "It",
+            "commemorates",
+            "the",
+            "armistice",
+            "signed",
+            "between",
+            "the",
+            "Allies",
+            "and",
+            "Germany",
+            "at",
+            "Compiègn",
+            ",",
+            "Franc",
+            ",",
+            "for",
+            "the",
+            "cessation",
+            "of",
+            "hostilities",
+            "on",
+            "the",
+            "Western",
+            "Front",
+            ",",
+            "which",
+            "took",
+            "effect",
+            "at",
+            "eleven",
+            "o'clock",
+            "in",
+            "the",
+            "morning",
+            "---",
+            "the",
+            "\"",
+            "eleventh",
+            "hour",
+            "of",
+            "the",
+            "eleventh",
+            "day",
+            "of",
+            "the",
+            "eleventh",
+            "month",
+            ".",
+            "\""
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "ORG"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "LOC"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "LOC"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "LOC"
+            },
+            {
+                "start": 22,
+                "end": 24,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "462",
+        "tokens": [
+            "In",
+            "many",
+            "parts",
+            "of",
+            "the",
+            "world",
+            ",",
+            "people",
+            "take",
+            "two",
+            "minutes",
+            "of",
+            "silence",
+            "at",
+            "11:00",
+            "in",
+            "the",
+            "morning",
+            "as",
+            "a",
+            "sign",
+            "of",
+            "respect",
+            "for",
+            "the",
+            "roughly",
+            "eight",
+            "million",
+            "who",
+            "died",
+            "in",
+            "the",
+            "war",
+            ",",
+            "as",
+            "suggested",
+            "by",
+            "Edward",
+            "George",
+            "Honey",
+            "in",
+            "a",
+            "letter",
+            "to",
+            "a",
+            "British",
+            "newspaper",
+            "though",
+            "Wellesley",
+            "Tudor",
+            "Pole",
+            "established",
+            "two",
+            "ceremonial",
+            "periods",
+            "of",
+            "remembrance",
+            "based",
+            "on",
+            "events",
+            "in",
+            "1917",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 37,
+                "end": 40,
+                "type": "PER"
+            },
+            {
+                "start": 45,
+                "end": 46,
+                "type": "MISC"
+            },
+            {
+                "start": 48,
+                "end": 51,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "978",
+        "tokens": [
+            "Although",
+            "his",
+            "band",
+            "traveled",
+            "the",
+            "country",
+            "and",
+            "played",
+            "in",
+            "all",
+            "the",
+            "top",
+            "spots",
+            ",",
+            "he",
+            "made",
+            "a",
+            "particular",
+            "impact",
+            "at",
+            "the",
+            "Mark",
+            "Hopkins",
+            "Hotel",
+            "in",
+            "San",
+            "Francisco",
+            ",",
+            "which",
+            "became",
+            "a",
+            "favourite",
+            "venue",
+            ",",
+            "and",
+            "which",
+            "many",
+            "years",
+            "later",
+            ",",
+            "was",
+            "to",
+            "be",
+            "re-visited",
+            "in",
+            "the",
+            "same",
+            "way",
+            "by",
+            "George",
+            "Shearing",
+            "and",
+            "Mel",
+            "Tormé",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 21,
+                "end": 24,
+                "type": "ORG"
+            },
+            {
+                "start": 25,
+                "end": 27,
+                "type": "LOC"
+            },
+            {
+                "start": 49,
+                "end": 51,
+                "type": "PER"
+            },
+            {
+                "start": 52,
+                "end": 54,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "596",
+        "tokens": [
+            "BayCon",
+            "is",
+            "the",
+            "San",
+            "Francisco",
+            "Bay",
+            "Area",
+            "'s",
+            "main",
+            "Science",
+            "Fiction",
+            "and",
+            "Fantasy",
+            "Convention",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 3,
+                "end": 7,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "728",
+        "tokens": [
+            "Attended",
+            "James",
+            "High",
+            "School",
+            ",",
+            "in",
+            "Houston",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "730",
+        "tokens": [
+            "He",
+            "was",
+            "a",
+            "Texas",
+            "All-State",
+            "tackle",
+            "in",
+            "1966",
+            "Atessis",
+            "was",
+            "the",
+            "state",
+            "'s",
+            "number",
+            "one",
+            "lineman",
+            "in",
+            "the",
+            "recruiting",
+            "class",
+            "of",
+            "1967",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "LOC"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "219",
+        "tokens": [
+            "During",
+            "the",
+            "nineties",
+            "6PR",
+            "continued",
+            "its",
+            "dominance",
+            "in",
+            "the",
+            "talk",
+            "format",
+            "arena",
+            "with",
+            "personalities",
+            "such",
+            "as",
+            "David",
+            "Christison",
+            "&",
+            "Lee",
+            "Tate",
+            ",",
+            "Howard",
+            "Sattler",
+            ",",
+            "Jenny",
+            "Seaton",
+            "&",
+            "Gary",
+            "Carvolth",
+            ",",
+            "Liam",
+            "Bartlett",
+            ",",
+            "Harvey",
+            "Deegan",
+            "and",
+            "Graham",
+            "Mabury",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 16,
+                "end": 18,
+                "type": "PER"
+            },
+            {
+                "start": 19,
+                "end": 21,
+                "type": "PER"
+            },
+            {
+                "start": 22,
+                "end": 24,
+                "type": "PER"
+            },
+            {
+                "start": 25,
+                "end": 27,
+                "type": "PER"
+            },
+            {
+                "start": 28,
+                "end": 30,
+                "type": "PER"
+            },
+            {
+                "start": 31,
+                "end": 33,
+                "type": "PER"
+            },
+            {
+                "start": 34,
+                "end": 36,
+                "type": "PER"
+            },
+            {
+                "start": 37,
+                "end": 39,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "736",
+        "tokens": [
+            "Was",
+            "voted",
+            "Longhorn",
+            "Defensive",
+            "MVP",
+            "by",
+            "the",
+            "Dallas",
+            "Morning",
+            "News",
+            "and",
+            "Houston",
+            "Post",
+            "both",
+            "in",
+            "1969",
+            "and",
+            "1970",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 5,
+                "type": "MISC"
+            },
+            {
+                "start": 7,
+                "end": 10,
+                "type": "ORG"
+            },
+            {
+                "start": 11,
+                "end": 13,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "354",
+        "tokens": [
+            "The",
+            "hockey",
+            "club",
+            "was",
+            "adamant",
+            "about",
+            "refusing",
+            "the",
+            "trophy",
+            ",",
+            "while",
+            "the",
+            "directors",
+            "of",
+            "the",
+            "MAAA",
+            "decided",
+            "to",
+            "accept",
+            "the",
+            "trophy",
+            ",",
+            "considering",
+            "it",
+            "came",
+            "from",
+            "the",
+            "Governor",
+            "General",
+            "of",
+            "Canada",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 15,
+                "end": 16,
+                "type": "ORG"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "740",
+        "tokens": [
+            "Played",
+            "in",
+            "the",
+            "Senior",
+            "Bowl",
+            "in",
+            "Mobile",
+            ",",
+            "Alabama",
+            ",",
+            "in",
+            "January",
+            "1971",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 5,
+                "type": "MISC"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "LOC"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "100",
+        "tokens": [
+            "In",
+            "October",
+            ",",
+            "the",
+            "band",
+            "began",
+            "their",
+            "\"",
+            "Welcome",
+            "to",
+            "the",
+            "Universe",
+            "\"",
+            "tour",
+            ",",
+            "sponsored",
+            "by",
+            "MTV2",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 17,
+                "end": 18,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "368",
+        "tokens": [
+            "Andrew",
+            "Sant",
+            "(",
+            "b.",
+            "1950",
+            ")",
+            "is",
+            "an",
+            "English",
+            "born",
+            "Australian",
+            "poet",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "MISC"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "624",
+        "tokens": [
+            "Benjamin",
+            "Stoloff",
+            "(",
+            "6",
+            "October",
+            "1895",
+            "-",
+            "8",
+            "September",
+            "1960",
+            ")",
+            ",",
+            "best",
+            "known",
+            "as",
+            "Ben",
+            "Stoloff",
+            ",",
+            "was",
+            "an",
+            "American",
+            "film",
+            "director",
+            "and",
+            "producer",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 15,
+                "end": 17,
+                "type": "PER"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "370",
+        "tokens": [
+            "He",
+            "has",
+            "subsequently",
+            "lived",
+            "in",
+            "London",
+            "at",
+            "various",
+            "times",
+            ",",
+            "most",
+            "recently",
+            "from",
+            "2002-2005",
+            "during",
+            "which",
+            "time",
+            "he",
+            "was",
+            "Writing",
+            "Fellow",
+            "at",
+            "the",
+            "University",
+            "of",
+            "Leicester",
+            "and",
+            "2007-2008",
+            "while",
+            "he",
+            "was",
+            "Writing",
+            "Fellow",
+            "at",
+            "the",
+            "University",
+            "of",
+            "Chichester",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 6,
+                "type": "LOC"
+            },
+            {
+                "start": 23,
+                "end": 26,
+                "type": "ORG"
+            },
+            {
+                "start": 35,
+                "end": 38,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "498",
+        "tokens": [
+            "Doug",
+            "Anthony",
+            "led",
+            "an",
+            "effort",
+            "to",
+            "defend",
+            "the",
+            "Party",
+            "from",
+            "the",
+            "League",
+            "by",
+            "recruiting",
+            "people",
+            "who",
+            "would",
+            "vote",
+            "against",
+            "them",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "758",
+        "tokens": [
+            "William",
+            "Mailes",
+            "\"",
+            "Cowboy",
+            "\"",
+            "Cowley",
+            "(",
+            "born",
+            "June",
+            "12",
+            ",",
+            "1912",
+            "in",
+            "Bristol",
+            ",",
+            "Quebec",
+            "-",
+            "died",
+            "December",
+            "31",
+            ",",
+            "1993",
+            ")",
+            "was",
+            "a",
+            "Canadian",
+            "professional",
+            "hockey",
+            "center",
+            "who",
+            "played",
+            "13",
+            "seasons",
+            "in",
+            "the",
+            "National",
+            "Hockey",
+            "League",
+            "for",
+            "the",
+            "St.",
+            "Louis",
+            "Eagles",
+            "and",
+            "Boston",
+            "Bruins",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 6,
+                "type": "PER"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "LOC"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "type": "MISC"
+            },
+            {
+                "start": 35,
+                "end": 38,
+                "type": "ORG"
+            },
+            {
+                "start": 40,
+                "end": 43,
+                "type": "ORG"
+            },
+            {
+                "start": 44,
+                "end": 46,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "633",
+        "tokens": [
+            "His",
+            "victory",
+            "came",
+            "after",
+            "placing",
+            "second",
+            "(",
+            "narrowly",
+            "being",
+            "defeated",
+            "by",
+            "Damian",
+            "King",
+            ")",
+            "in",
+            "the",
+            "2006",
+            "Pipeline",
+            "final",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 11,
+                "end": 13,
+                "type": "PER"
+            },
+            {
+                "start": 17,
+                "end": 19,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "122",
+        "tokens": [
+            "31",
+            "other",
+            "bands",
+            "and",
+            "artists",
+            "such",
+            "as",
+            "Justin",
+            "Timberlake",
+            ",",
+            "Gwen",
+            "Stefani",
+            ",",
+            "Linkin",
+            "Park",
+            "and",
+            "Avenged",
+            "Sevenfold",
+            "were",
+            "also",
+            "included",
+            "in",
+            "the",
+            "contest",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 9,
+                "type": "PER"
+            },
+            {
+                "start": 10,
+                "end": 12,
+                "type": "PER"
+            },
+            {
+                "start": 13,
+                "end": 15,
+                "type": "ORG"
+            },
+            {
+                "start": 16,
+                "end": 18,
+                "type": "ORG"
+            }
+        ]
+    }
+]

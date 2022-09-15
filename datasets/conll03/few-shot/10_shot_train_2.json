@@ -1,0 +1,732 @@
+[
+    {
+        "org_id": "2699",
+        "tokens": [
+            "draws",
+            "for",
+            "the",
+            "UEFA",
+            "cup",
+            "and",
+            "the",
+            "cup",
+            "'s",
+            "winners",
+            "cup",
+            "involving",
+            "Greek"
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "12942",
+        "tokens": [
+            "ISS",
+            "said",
+            "that",
+            "the",
+            "deal",
+            "included",
+            "ISS",
+            "Inc",
+            "operations",
+            "in",
+            "Mexico",
+            "and",
+            "the",
+            "sale",
+            "of",
+            "ISS",
+            "Inc",
+            "interests",
+            "in",
+            "Brazil",
+            "would",
+            "be",
+            "discussed",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "ORG"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "LOC"
+            },
+            {
+                "start": 15,
+                "end": 17,
+                "type": "ORG"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "147",
+        "tokens": [
+            "Iran",
+            "heavily",
+            "bombarded",
+            "targets",
+            "in",
+            "northern",
+            "Iraq",
+            "in",
+            "July",
+            "in",
+            "pursuit",
+            "of",
+            "KDPI",
+            "guerrillas",
+            "based",
+            "in",
+            "Iraqi",
+            "Kurdish",
+            "areas",
+            "outside",
+            "the",
+            "control",
+            "of",
+            "the",
+            "government",
+            "in",
+            "Baghdad",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "LOC"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "ORG"
+            },
+            {
+                "start": 16,
+                "end": 18,
+                "type": "MISC"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "10389",
+        "tokens": [
+            "A",
+            "hijacked",
+            "Sudan",
+            "Airways",
+            "plane",
+            "carrying",
+            "199",
+            "passengers",
+            "and",
+            "crew",
+            "landed",
+            "at",
+            "Stansted",
+            "airport",
+            "just",
+            "outside",
+            "London",
+            "early",
+            "on",
+            "Tuesday",
+            "morning",
+            "after",
+            "flying",
+            "from",
+            "Cyprus",
+            ",",
+            "eyewitnesses",
+            "said",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "LOC"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "LOC"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "9499",
+        "tokens": [
+            "The",
+            "Russian",
+            "command",
+            "insisted",
+            "that",
+            "not",
+            "all",
+            "the",
+            "weapons",
+            "were",
+            "the",
+            "same",
+            "as",
+            "those",
+            "taken",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2468",
+        "tokens": [
+            "American",
+            "Olympic",
+            "champion",
+            "Gail",
+            "Devers",
+            "clocked",
+            "a",
+            "swift",
+            "10.84",
+            "seconds",
+            "on",
+            "her",
+            "way",
+            "to",
+            "victory",
+            "in",
+            "the",
+            "women",
+            "'s",
+            "100",
+            "metres",
+            ",",
+            "the",
+            "second",
+            "fastest",
+            "time",
+            "of",
+            "the",
+            "season",
+            "and",
+            "0.10",
+            "seconds",
+            "faster",
+            "than",
+            "her",
+            "winning",
+            "time",
+            "in",
+            "Atlanta",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 3,
+                "end": 5,
+                "type": "PER"
+            },
+            {
+                "start": 38,
+                "end": 39,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "9768",
+        "tokens": [
+            "Bosnian",
+            "premier",
+            "in",
+            "Turkey",
+            "for",
+            "one",
+            "day",
+            "visit",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "12987",
+        "tokens": [
+            "\"",
+            "We",
+            "agreed",
+            "that",
+            "following",
+            "detailed",
+            "scientific",
+            "analysis",
+            "using",
+            "a",
+            "methodology",
+            "which",
+            "would",
+            "take",
+            "out",
+            "the",
+            "maximum",
+            "number",
+            "of",
+            "BSE",
+            "cases",
+            "possible",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 19,
+                "end": 20,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2877",
+        "tokens": [
+            "Hapoel",
+            "Taibe",
+            "fields",
+            "four",
+            "Jewish",
+            "players",
+            "and",
+            "two",
+            "foreign",
+            "imports",
+            "--",
+            "a",
+            "Pole",
+            "and",
+            "a",
+            "Romanian",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "MISC"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "MISC"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "5822",
+        "tokens": [
+            "SOCCER",
+            "-",
+            "PORTUGUESE",
+            "FIRST",
+            "DIVISION",
+            "RESULTS",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "7106",
+        "tokens": [
+            "Hungarian",
+            "first",
+            "division"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "709",
+        "tokens": [
+            "1",
+            "-",
+            "Wang",
+            "Chen",
+            "(",
+            "China",
+            ")",
+            "beat",
+            "Cindana",
+            "(",
+            "Indonesia",
+            ")",
+            "11-3",
+            "1ama",
+            "(",
+            "Japan",
+            ")",
+            "beat",
+            "Margit",
+            "Borg",
+            "(",
+            "Sweden",
+            ")",
+            "11-6",
+            "11-6"
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "LOC"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "PER"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "LOC"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "PER"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 18,
+                "end": 20,
+                "type": "PER"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "6855",
+        "tokens": [
+            "3-12",
+            ")",
+            "and",
+            "164-4",
+            "(",
+            "P.",
+            "Weston",
+            "52",
+            ")",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 7,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "12514",
+        "tokens": [
+            "taxable",
+            "health",
+            "deal",
+            "rated",
+            "Aa2",
+            "/",
+            "VMIG-1",
+            "-",
+            "Moody",
+            "'s",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 8,
+                "end": 10,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "4834",
+        "tokens": [
+            "298",
+            "Steve",
+            "Schneiter",
+            "77",
+            "74",
+            "76",
+            "71",
+            ",",
+            "Paul",
+            "Stankowski",
+            "74",
+            "75",
+            "74",
+            "75",
+            ","
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 8,
+                "end": 10,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "7923",
+        "tokens": [
+            "Banco",
+            "de",
+            "Mexico",
+            "sought",
+            "to",
+            "inject",
+            "3.412",
+            "billion",
+            "pesos",
+            "in",
+            "the",
+            "secondary",
+            "market",
+            "on",
+            "Monday",
+            "through",
+            "three",
+            "credit",
+            "auctions",
+            ",",
+            "dealers",
+            "said",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "6517",
+        "tokens": [
+            "Zicot",
+            ",",
+            "45",
+            ",",
+            "is",
+            "a",
+            "specialist",
+            "in",
+            "tackling",
+            "vehicle",
+            "theft",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "7287",
+        "tokens": [
+            "Guarani",
+            "3",
+            "0",
+            "1",
+            "2",
+            "1",
+            "5",
+            "1"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "7417",
+        "tokens": [
+            "One",
+            "prominent",
+            "player",
+            "that",
+            "did",
+            "not",
+            "stay",
+            "for",
+            "the",
+            "Open",
+            "was",
+            "French",
+            "Open",
+            "champion",
+            "Yvegeny",
+            "Kafelnikov",
+            ",",
+            "who",
+            "after",
+            "being",
+            "dropped",
+            "three",
+            "spots",
+            "from",
+            "his",
+            "ATP",
+            "ranking",
+            "to",
+            "a",
+            "seventh",
+            "seeding",
+            ",",
+            "withdrew",
+            "and",
+            "returned",
+            "home",
+            "to",
+            "Russia",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 9,
+                "end": 10,
+                "type": "MISC"
+            },
+            {
+                "start": 11,
+                "end": 13,
+                "type": "MISC"
+            },
+            {
+                "start": 14,
+                "end": 16,
+                "type": "PER"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "type": "ORG"
+            },
+            {
+                "start": 37,
+                "end": 38,
+                "type": "LOC"
+            }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+{
+  "entities": {
+    "None": {
+      "verbose": "No Entity",
+      "short": "None",
+      "template": "不是命名实体。"
+    },
+    "GPE.NAM": {
+      "verbose": "GPE.NAM",
+      "short": "GPE.NAM",
+      "template": "是城市、国家的特指。"
+    },
+    "GPE.NOM": {
+      "verbose": "GPE.NOM",
+      "short": "GPE.NOM",
+      "template": "是城市、国家的泛指。"
+    },
+    "LOC.NAM": {
+      "verbose": "LOC.NAM",
+      "short": "LOC.NAM",
+      "template": "是地名的特指。"
+    },
+    "LOC.NOM": {
+      "verbose": "LOC.NOM",
+      "short": "LOC.NOM",
+      "template": "是地名的泛指。"
+    },
+    "ORG.NAM": {
+      "verbose": "ORG.NAM",
+      "short": "ORG.NAM",
+      "template": "是组织名的特指。"
+    },
+    "ORG.NOM": {
+      "verbose": "ORG.NOM",
+      "short": "ORG.NOM",
+      "template": "是组织名的泛指。"
+    },
+    "PER.NAM": {
+      "verbose": "PER.NAM",
+      "short": "PER.NAM",
+      "template": "是人名的特指。"
+    },
+    "PER.NOM": {
+      "verbose": "PER.NOM",
+      "short": "PER.NOM",
+      "template": "是人名的泛指。"
+    }
+  }
+}

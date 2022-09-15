@@ -1,0 +1,1650 @@
+[
+    {
+        "org_id": "8",
+        "tokens": [
+            "After",
+            "burying",
+            "the",
+            "dead",
+            "on",
+            "the",
+            "field",
+            "of",
+            "Second",
+            "Battle",
+            "of",
+            "Bull",
+            "Run",
+            ",",
+            "the",
+            "regiment",
+            "was",
+            "attached",
+            "to",
+            "Howe",
+            "'s",
+            "Brigade",
+            "of",
+            "Couch",
+            "'s",
+            "Division",
+            "of",
+            "the",
+            "IV",
+            "Corps",
+            "of",
+            "the",
+            "Army",
+            "of",
+            "the",
+            "Potomac",
+            "where",
+            "it",
+            "replaced",
+            "De",
+            "Trobriand",
+            "'s",
+            "55th",
+            "New",
+            "York",
+            ",",
+            "Gardes",
+            "Lafayette",
+            "regiment",
+            "on",
+            "September",
+            "11",
+            ",",
+            "1862",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 8,
+                "end": 13,
+                "type": "MISC"
+            },
+            {
+                "start": 19,
+                "end": 22,
+                "type": "ORG"
+            },
+            {
+                "start": 23,
+                "end": 26,
+                "type": "ORG"
+            },
+            {
+                "start": 28,
+                "end": 30,
+                "type": "ORG"
+            },
+            {
+                "start": 32,
+                "end": 36,
+                "type": "ORG"
+            },
+            {
+                "start": 39,
+                "end": 45,
+                "type": "ORG"
+            },
+            {
+                "start": 46,
+                "end": 48,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "264",
+        "tokens": [
+            "She",
+            "was",
+            "married",
+            "in",
+            "1838",
+            "to",
+            "Stanisław",
+            "Baranowski",
+            "(",
+            "1806-1843",
+            ")",
+            ",",
+            "who",
+            "was",
+            "an",
+            "officer",
+            "in",
+            "the",
+            "Polish",
+            "forces",
+            "during",
+            "the",
+            "January",
+            "Uprising",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "MISC"
+            },
+            {
+                "start": 22,
+                "end": 24,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "397",
+        "tokens": [
+            "In",
+            "the",
+            "wake",
+            "of",
+            "the",
+            "surgery",
+            ",",
+            "Carder",
+            "'s",
+            "family",
+            "and",
+            "the",
+            "American",
+            "Civil",
+            "Liberties",
+            "Union",
+            "'s",
+            "Reproductive",
+            "Freedom",
+            "Project",
+            "asked",
+            "the",
+            "D.C.",
+            "Court",
+            "of",
+            "Appeals",
+            "to",
+            "vacate",
+            "the",
+            "order",
+            "and",
+            "its",
+            "legal",
+            "precedent",
+            ",",
+            "on",
+            "grounds",
+            "that",
+            "the",
+            "order",
+            "had",
+            "violated",
+            "Carder",
+            "'s",
+            "right",
+            "to",
+            "informed",
+            "consent",
+            "and",
+            "her",
+            "constitutional",
+            "rights",
+            "of",
+            "privacy",
+            "and",
+            "bodily",
+            "integrity",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 16,
+                "type": "ORG"
+            },
+            {
+                "start": 17,
+                "end": 20,
+                "type": "ORG"
+            },
+            {
+                "start": 22,
+                "end": 26,
+                "type": "ORG"
+            },
+            {
+                "start": 42,
+                "end": 43,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "15",
+        "tokens": [
+            "Five",
+            "months",
+            "later",
+            ",",
+            "however",
+            ",",
+            "it",
+            "did",
+            "participate",
+            "in",
+            "the",
+            "2nd",
+            "Battle",
+            "of",
+            "Fredericksburg",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 11,
+                "end": 15,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "536",
+        "tokens": [
+            "People",
+            "also",
+            "get",
+            "themselves",
+            "involved",
+            "in",
+            "farming",
+            "sheep",
+            "and",
+            "goat",
+            ",",
+            "which",
+            "is",
+            "the",
+            "main",
+            "profession",
+            "of",
+            "most",
+            "Kuruba",
+            "Gowdas",
+            "who",
+            "are",
+            "a",
+            "majority",
+            "people",
+            "in",
+            "the",
+            "village",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 18,
+                "end": 20,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "411",
+        "tokens": [
+            "Although",
+            "his",
+            "acting",
+            "career",
+            "was",
+            "taking",
+            "off",
+            ",",
+            "Angelo",
+            "decided",
+            "to",
+            "also",
+            "do",
+            "business",
+            "&",
+            "create",
+            "a",
+            "social",
+            "network",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 8,
+                "end": 9,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "157",
+        "tokens": [
+            "Activated",
+            "three",
+            "years",
+            "later",
+            "it",
+            "transferred",
+            "to",
+            "Spain",
+            ",",
+            "where",
+            "it",
+            "cooperated",
+            "with",
+            "Spanish",
+            "Air",
+            "Force",
+            "units",
+            "in",
+            "the",
+            "Air",
+            "Defense",
+            "Direction",
+            "Centers",
+            "(",
+            "ADDCs",
+            ")",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            },
+            {
+                "start": 13,
+                "end": 16,
+                "type": "ORG"
+            },
+            {
+                "start": 19,
+                "end": 23,
+                "type": "ORG"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "542",
+        "tokens": [
+            "Scouting",
+            "was",
+            "founded",
+            "in",
+            "Bangladesh",
+            "as",
+            "part",
+            "of",
+            "the",
+            "British",
+            "Indian",
+            "branch",
+            "of",
+            "The",
+            "Scout",
+            "Association",
+            ",",
+            "and",
+            "continued",
+            "as",
+            "part",
+            "of",
+            "the",
+            "Pakistan",
+            "Boy",
+            "Scouts",
+            "Association",
+            "until",
+            "the",
+            "country",
+            "'s",
+            "divided",
+            "sections",
+            "split",
+            "in",
+            "1971",
+            "during",
+            "the",
+            "Bangladesh",
+            "Liberation",
+            "War",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            },
+            {
+                "start": 9,
+                "end": 11,
+                "type": "MISC"
+            },
+            {
+                "start": 13,
+                "end": 16,
+                "type": "ORG"
+            },
+            {
+                "start": 23,
+                "end": 27,
+                "type": "ORG"
+            },
+            {
+                "start": 38,
+                "end": 41,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "420",
+        "tokens": [
+            "In",
+            "2002",
+            ",",
+            "Angelo",
+            "launched",
+            "NOK",
+            "Entertainment",
+            "to",
+            "create",
+            "a",
+            "company",
+            "that",
+            "could",
+            "market",
+            ",",
+            "promote",
+            ",",
+            "produce",
+            ",",
+            "&",
+            "create",
+            "all",
+            "types",
+            "of",
+            "special",
+            "events",
+            "at",
+            "any",
+            "venue",
+            "from",
+            "Miami",
+            ",",
+            "South",
+            "Beach",
+            "to",
+            "West",
+            "Palm",
+            "Beach",
+            ",",
+            "including",
+            "L.A.",
+            ",",
+            "NYC",
+            ",",
+            "&",
+            "Vegas",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 5,
+                "end": 7,
+                "type": "ORG"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "type": "LOC"
+            },
+            {
+                "start": 32,
+                "end": 34,
+                "type": "LOC"
+            },
+            {
+                "start": 35,
+                "end": 38,
+                "type": "LOC"
+            },
+            {
+                "start": 40,
+                "end": 41,
+                "type": "LOC"
+            },
+            {
+                "start": 42,
+                "end": 43,
+                "type": "LOC"
+            },
+            {
+                "start": 45,
+                "end": 46,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "424",
+        "tokens": [
+            "He",
+            "later",
+            "moved",
+            "on",
+            "from",
+            "NOK",
+            ",",
+            "with",
+            "more",
+            "than",
+            "19",
+            "yrs",
+            "of",
+            "experience",
+            "in",
+            "so",
+            "many",
+            "different",
+            "industries",
+            "&",
+            "with",
+            "several",
+            "television",
+            "interviews",
+            ",",
+            "magazine",
+            "interviews",
+            ",",
+            "and",
+            "reality",
+            "shows",
+            "filmed",
+            "&",
+            "even",
+            "films",
+            "like",
+            "2005",
+            "Miami",
+            "Vice",
+            "being",
+            "filmed",
+            "at",
+            "his",
+            "events",
+            "the",
+            "list",
+            "of",
+            "people",
+            "wanting",
+            "to",
+            "work",
+            "with",
+            "Angelo",
+            "grew",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 6,
+                "type": "ORG"
+            },
+            {
+                "start": 37,
+                "end": 39,
+                "type": "MISC"
+            },
+            {
+                "start": 52,
+                "end": 53,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "307",
+        "tokens": [
+            "Alexander",
+            "Gradsky",
+            "(",
+            "Russian",
+            ":",
+            "Александр",
+            "Градский",
+            ",",
+            "born",
+            "November",
+            "3",
+            ",",
+            "1949",
+            ")",
+            "is",
+            "a",
+            "Russian",
+            "Rock",
+            "singer",
+            ",",
+            "bard",
+            "and",
+            "composer",
+            ",",
+            "and",
+            "has",
+            "sometimes",
+            "been",
+            "called",
+            "the",
+            "Soviet",
+            "Union",
+            "'s",
+            "most",
+            "popular",
+            "recording",
+            "artist",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "MISC"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "MISC"
+            },
+            {
+                "start": 30,
+                "end": 32,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "691",
+        "tokens": [
+            "Player",
+            "'s",
+            "been",
+            "able",
+            "to",
+            "step",
+            "away",
+            "from",
+            "the",
+            "day-to-day",
+            "business",
+            ",",
+            "but",
+            "the",
+            "magazine",
+            "is",
+            "a",
+            "venture",
+            "that",
+            "will",
+            "keep",
+            "him",
+            "firmly",
+            "rooted",
+            "in",
+            "the",
+            "sport",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "564",
+        "tokens": [
+            "The",
+            "Battle",
+            "of",
+            "Hulao",
+            "(",
+            "虎牢之戰",
+            ")",
+            "of",
+            "28",
+            "May",
+            "621",
+            ",",
+            "located",
+            "just",
+            "east",
+            "of",
+            "Luoyang",
+            ",",
+            "was",
+            "a",
+            "decisive",
+            "victory",
+            "for",
+            "Li",
+            "Shimin",
+            ",",
+            "through",
+            "which",
+            "he",
+            "was",
+            "able",
+            "to",
+            "subdue",
+            "two",
+            "warlords",
+            ",",
+            "Dou",
+            "Jiande",
+            "and",
+            "Wang",
+            "Shichong",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 4,
+                "type": "MISC"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "LOC"
+            },
+            {
+                "start": 23,
+                "end": 25,
+                "type": "PER"
+            },
+            {
+                "start": 36,
+                "end": 38,
+                "type": "PER"
+            },
+            {
+                "start": 39,
+                "end": 41,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "180",
+        "tokens": [
+            "Sixteenth",
+            "Air",
+            "Force",
+            ",",
+            "8",
+            "April",
+            "1957",
+            ";",
+            "United",
+            "States",
+            "Air",
+            "Forces",
+            "in",
+            "Europe",
+            ",",
+            "1",
+            "July",
+            "1960",
+            "--",
+            "1",
+            "January",
+            "1965",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "type": "ORG"
+            },
+            {
+                "start": 8,
+                "end": 12,
+                "type": "ORG"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "823",
+        "tokens": [
+            "There",
+            "was",
+            "no",
+            "runaround",
+            "track",
+            ";",
+            "so",
+            "southbound",
+            "B&SR",
+            "locomotives",
+            "uncoupled",
+            "their",
+            "train",
+            "on",
+            "the",
+            "main",
+            "line",
+            ",",
+            "moved",
+            "into",
+            "the",
+            "yard",
+            ",",
+            "threw",
+            "a",
+            "turnout",
+            ",",
+            "and",
+            "let",
+            "their",
+            "train",
+            "roll",
+            "past",
+            "them",
+            "into",
+            "the",
+            "yard",
+            "by",
+            "gravity",
+            "to",
+            "avoid",
+            "being",
+            "trapped",
+            "at",
+            "the",
+            "end",
+            "of",
+            "the",
+            "spur",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 8,
+                "end": 9,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "441",
+        "tokens": [
+            "A",
+            "Portuguesa",
+            "is",
+            "the",
+            "national",
+            "anthem",
+            "of",
+            "Portugal",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "954",
+        "tokens": [
+            "His",
+            "major",
+            "tournament",
+            "money",
+            "finishes",
+            "include",
+            "two",
+            "World",
+            "Series",
+            "of",
+            "Poker",
+            "(",
+            "WSOP",
+            ")",
+            "final",
+            "tables",
+            "and",
+            "2nd",
+            "place",
+            "in",
+            "the",
+            "£500",
+            "no",
+            "limit",
+            "hold'em",
+            "event",
+            "at",
+            "the",
+            "2002",
+            "European",
+            "Poker",
+            "Championships",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 11,
+                "type": "ORG"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "ORG"
+            },
+            {
+                "start": 29,
+                "end": 32,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "442",
+        "tokens": [
+            "It",
+            "was",
+            "written",
+            "by",
+            "Henrique",
+            "Lopes",
+            "de",
+            "Mendonça",
+            "(",
+            "lyrics",
+            ")",
+            "and",
+            "Alfredo",
+            "Keil",
+            "(",
+            "music",
+            ")",
+            "after",
+            "the",
+            "nationalist",
+            "resurgence",
+            "provoked",
+            "by",
+            "the",
+            "British",
+            "Ultimatum",
+            "(",
+            "for",
+            "Portuguese",
+            "troops",
+            "to",
+            "vacate",
+            "the",
+            "territory",
+            "between",
+            "Angola",
+            "and",
+            "Mozambique",
+            ")",
+            ",",
+            "was",
+            "adopted",
+            "as",
+            "a",
+            "Republican",
+            "anthem",
+            "and",
+            ",",
+            "finally",
+            ",",
+            "by",
+            "the",
+            "new",
+            "Portuguese",
+            "Republic",
+            "in",
+            "1910",
+            "as",
+            "the",
+            "national",
+            "anthem",
+            ",",
+            "replacing",
+            "\"",
+            "O",
+            "Hymno",
+            "da",
+            "Carta",
+            "\"",
+            ",",
+            "the",
+            "last",
+            "anthem",
+            "of",
+            "the",
+            "Constitutional",
+            "Monarchy",
+            "in",
+            "Portugal",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "type": "PER"
+            },
+            {
+                "start": 24,
+                "end": 26,
+                "type": "MISC"
+            },
+            {
+                "start": 28,
+                "end": 29,
+                "type": "MISC"
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "type": "LOC"
+            },
+            {
+                "start": 37,
+                "end": 38,
+                "type": "LOC"
+            },
+            {
+                "start": 44,
+                "end": 45,
+                "type": "ORG"
+            },
+            {
+                "start": 53,
+                "end": 55,
+                "type": "LOC"
+            },
+            {
+                "start": 64,
+                "end": 68,
+                "type": "MISC"
+            },
+            {
+                "start": 75,
+                "end": 77,
+                "type": "ORG"
+            },
+            {
+                "start": 78,
+                "end": 79,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "572",
+        "tokens": [
+            "One",
+            "of",
+            "the",
+            "few",
+            "to",
+            "resist",
+            "was",
+            "the",
+            "sorcerer",
+            "queen",
+            "Sarraounia",
+            ",",
+            "ruler",
+            "of",
+            "the",
+            "Azna",
+            ",",
+            "a",
+            "pagan",
+            "people",
+            "in",
+            "a",
+            "long",
+            "Islamized",
+            "region",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 10,
+                "end": 11,
+                "type": "PER"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "MISC"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "452",
+        "tokens": [
+            "The",
+            "song",
+            "consists",
+            "of",
+            "the",
+            "first",
+            "stanza",
+            "from",
+            "Mendonça",
+            "'s",
+            "poem",
+            "followed",
+            "by",
+            "a",
+            "chorus",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 8,
+                "end": 9,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "967",
+        "tokens": [
+            "Carl",
+            "Heinrich",
+            "Georg",
+            "(",
+            "es",
+            ")",
+            "von",
+            "Heyden",
+            "(",
+            "20",
+            "January",
+            "1793",
+            "Frankfurt",
+            "--",
+            "7",
+            "July",
+            "1866",
+            ")",
+            "was",
+            "a",
+            "German",
+            "Senator",
+            "and",
+            "entomologist",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "LOC"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "460",
+        "tokens": [
+            "Armistice",
+            "Day",
+            "is",
+            "an",
+            "official",
+            "holiday",
+            "in",
+            "France",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "975",
+        "tokens": [
+            "After",
+            "four",
+            "years",
+            "he",
+            "switched",
+            "to",
+            "a",
+            "series",
+            "of",
+            "other",
+            "big",
+            "bands",
+            ",",
+            "including",
+            "Rudy",
+            "Vallee",
+            "'s",
+            "in",
+            "1937",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 14,
+                "end": 16,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "987",
+        "tokens": [
+            "His",
+            "most",
+            "celebrated",
+            "film",
+            "achievement",
+            "was",
+            "playing",
+            "the",
+            "piano",
+            "music",
+            "for",
+            "actor",
+            "Tyrone",
+            "Power",
+            "'s",
+            "hands",
+            "to",
+            "mime",
+            ",",
+            "in",
+            "The",
+            "Eddy",
+            "Duchin",
+            "Story",
+            "(",
+            "1956",
+            ")",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 12,
+                "end": 14,
+                "type": "PER"
+            },
+            {
+                "start": 20,
+                "end": 24,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "738",
+        "tokens": [
+            "Was",
+            "a",
+            "consensus",
+            "1st",
+            "Team",
+            "All-American",
+            "in",
+            "1970",
+            "and",
+            "was",
+            "second",
+            "team",
+            "All-American",
+            "in",
+            "1969",
+            ".",
+            "in",
+            "1970",
+            "he",
+            "was",
+            "voted",
+            "Southwest",
+            "Conference",
+            "Co-Lineman",
+            "of",
+            "the",
+            "Year",
+            "(",
+            "with",
+            "Arkansas",
+            "All-American",
+            "Defensive",
+            "end",
+            ",",
+            "Dick",
+            "Bumpas",
+            ")",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 21,
+                "end": 27,
+                "type": "MISC"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "type": "LOC"
+            },
+            {
+                "start": 34,
+                "end": 36,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "109",
+        "tokens": [
+            "They",
+            "are",
+            "also",
+            "scheduled",
+            "to",
+            "play",
+            "Roskilde",
+            ",",
+            "Rock",
+            "am",
+            "Ring",
+            ",",
+            "Pinkpop",
+            ",",
+            "Give",
+            "It",
+            "A",
+            "Name",
+            "Festival",
+            "and",
+            "Download",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 7,
+                "type": "MISC"
+            },
+            {
+                "start": 8,
+                "end": 11,
+                "type": "MISC"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "MISC"
+            },
+            {
+                "start": 14,
+                "end": 19,
+                "type": "MISC"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "381",
+        "tokens": [
+            "Angela",
+            "later",
+            "married",
+            "and",
+            "became",
+            "pregnant",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "375",
+        "tokens": [
+            "Angela",
+            "Carder",
+            "(",
+            "née",
+            "Stone",
+            ")",
+            "was",
+            "an",
+            "American",
+            "cancer",
+            "patient",
+            "who",
+            ",",
+            "in",
+            "1987",
+            ",",
+            "was",
+            "forced",
+            "to",
+            "undergo",
+            "a",
+            "life-threatening",
+            "Caesarean",
+            "section",
+            "in",
+            "an",
+            "unsuccessful",
+            "attempt",
+            "to",
+            "save",
+            "the",
+            "life",
+            "of",
+            "her",
+            "fetus",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "PER"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "504",
+        "tokens": [
+            "(",
+            "1946",
+            ")",
+            "The",
+            "International",
+            "Jew",
+            ":",
+            "The",
+            "Truth",
+            "About",
+            "the",
+            "Protocols",
+            "of",
+            "Zion",
+            "4",
+            "^",
+            "Harcourt",
+            ",",
+            "D",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 14,
+                "type": "MISC"
+            },
+            {
+                "start": 16,
+                "end": 19,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "125",
+        "tokens": [
+            "The",
+            "logo",
+            "was",
+            "primarily",
+            "used",
+            "for",
+            "promotion",
+            "of",
+            "the",
+            "band",
+            "'s",
+            "debut",
+            ",",
+            "whereas",
+            "for",
+            "A",
+            "Beautiful",
+            "Lie",
+            ",",
+            "the",
+            "new",
+            "Trinity",
+            "logo",
+            "was",
+            "created",
+            "consisting",
+            "of",
+            "three",
+            "skulls",
+            ",",
+            "along",
+            "with",
+            "the",
+            "band",
+            "'s",
+            "name",
+            "and",
+            "motto",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 15,
+                "end": 18,
+                "type": "MISC"
+            }
+        ]
+    }
+]

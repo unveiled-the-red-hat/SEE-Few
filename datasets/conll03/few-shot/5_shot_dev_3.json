@@ -1,0 +1,304 @@
+[
+    {
+        "org_id": "2954",
+        "tokens": [
+            "They",
+            "were",
+            "accused",
+            "of",
+            "taking",
+            "over",
+            "Flight",
+            "150",
+            "which",
+            "was",
+            "flying",
+            "from",
+            "Khartoum",
+            ",",
+            "Sudan",
+            ",",
+            "to",
+            "Amman",
+            ",",
+            "Jordan",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 8,
+                "type": "MISC"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "LOC"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "LOC"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "LOC"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "2282",
+        "tokens": [
+            "9.",
+            "Mauricio",
+            "Gugelmin",
+            "(",
+            "Brazil",
+            ")",
+            ",",
+            "Reynard",
+            "Ford",
+            "Cosworth",
+            ",",
+            "54.762"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            },
+            {
+                "start": 7,
+                "end": 10,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "3155",
+        "tokens": [
+            "The",
+            "NLD",
+            "party",
+            "won",
+            "a",
+            "landslide",
+            "victory",
+            "in",
+            "a",
+            "1990",
+            "election",
+            "but",
+            "the",
+            "State",
+            "Law",
+            "and",
+            "Order",
+            "Restoration",
+            "Council",
+            "(",
+            "SLORC",
+            ")",
+            ",",
+            "which",
+            "assumed",
+            "power",
+            "in",
+            "1988",
+            "after",
+            "crushing",
+            "pro-democracy",
+            "demonstrations",
+            ",",
+            "never",
+            "recognised",
+            "the",
+            "poll",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 13,
+                "end": 19,
+                "type": "ORG"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "119",
+        "tokens": [
+            "Duran",
+            ",",
+            "45",
+            ",",
+            "takes",
+            "on",
+            "little-known",
+            "Mexican",
+            "Ariel",
+            "Cruz",
+            ",",
+            "30",
+            ",",
+            "in",
+            "a",
+            "super",
+            "middleweight",
+            "non-title",
+            "bout",
+            "in",
+            "Panama",
+            "City",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "MISC"
+            },
+            {
+                "start": 8,
+                "end": 10,
+                "type": "PER"
+            },
+            {
+                "start": 20,
+                "end": 22,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "2904",
+        "tokens": [
+            "1930",
+            "-",
+            "Belgian",
+            "King",
+            "Baudouin",
+            "I",
+            "born",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "MISC"
+            },
+            {
+                "start": 4,
+                "end": 6,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "1630",
+        "tokens": [
+            "Sletten",
+            ",",
+            "a",
+            "caretaker",
+            "who",
+            "has",
+            "lived",
+            "on",
+            "the",
+            "island",
+            "for",
+            "30",
+            "years",
+            ",",
+            "said",
+            "the",
+            "Norwegian",
+            "and",
+            "Russian",
+            "communities",
+            "visit",
+            "frequently",
+            ",",
+            "competing",
+            "at",
+            "soccer",
+            "in",
+            "the",
+            "summer",
+            "and",
+            "with",
+            "snow-scooter",
+            "races",
+            "in",
+            "the",
+            "winter",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "MISC"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2079",
+        "tokens": [
+            "East",
+            "Fife",
+            "2",
+            "0",
+            "1",
+            "1",
+            "0",
+            "4",
+            "1"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "ORG"
+            }
+        ]
+    }
+]

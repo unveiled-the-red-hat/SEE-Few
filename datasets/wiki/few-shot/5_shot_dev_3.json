@@ -1,0 +1,414 @@
+[
+    {
+        "org_id": "73",
+        "tokens": [
+            "The",
+            "strength",
+            "of",
+            "his",
+            "script",
+            "led",
+            "to",
+            "Bailey",
+            "writing",
+            "a",
+            "second",
+            "story",
+            "for",
+            "Doctor",
+            "Who",
+            "in",
+            "1983",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 13,
+                "end": 15,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "9",
+        "tokens": [
+            "The",
+            "City",
+            "Of",
+            "Hayward",
+            "opened",
+            "Centennial",
+            "Hall",
+            "in",
+            "honor",
+            "of",
+            "its",
+            "100th",
+            "Birthday",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 4,
+                "type": "LOC"
+            },
+            {
+                "start": 5,
+                "end": 7,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "266",
+        "tokens": [
+            "Two",
+            ",",
+            "Samsung",
+            "based",
+            ",",
+            "electronic",
+            "cash",
+            "registers",
+            "were",
+            "reconstructed",
+            "in",
+            "order",
+            "to",
+            "expand",
+            "their",
+            "functions",
+            "and",
+            "adapt",
+            "them",
+            "for",
+            "networking",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "205",
+        "tokens": [
+            "Their",
+            "second",
+            "single",
+            "\"",
+            "Baby",
+            "Turpentine",
+            "\"",
+            "reached",
+            "number",
+            "4",
+            "in",
+            "the",
+            "Indie",
+            "Chart",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 6,
+                "type": "MISC"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "301",
+        "tokens": [
+            "His",
+            "father",
+            "being",
+            "a",
+            "homebuilder",
+            ",",
+            "woodworking",
+            "was",
+            "a",
+            "skill",
+            "Langejans",
+            "picked",
+            "up",
+            "early",
+            "in",
+            "life",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 10,
+                "end": 11,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "77",
+        "tokens": [
+            "Christopher",
+            "Penley",
+            "(",
+            "born",
+            "circa",
+            "1990",
+            "---",
+            "January",
+            "15",
+            "2006",
+            ")",
+            "was",
+            "a",
+            "15-year-old",
+            "U.S.",
+            "schoolboy",
+            "who",
+            "was",
+            "shot",
+            "by",
+            "a",
+            "SWAT",
+            "team",
+            "on",
+            "January",
+            "13",
+            ",",
+            "2006",
+            "---",
+            "and",
+            "died",
+            "of",
+            "his",
+            "injuries",
+            "---",
+            "after",
+            "he",
+            "had",
+            "briefly",
+            "taken",
+            "another",
+            "student",
+            "hostage",
+            "in",
+            "a",
+            "classroom",
+            "and",
+            "then",
+            "later",
+            "holed",
+            "himself",
+            "up",
+            "in",
+            "an",
+            "outdoor",
+            "bathroom",
+            "at",
+            "Milwee",
+            "Middle",
+            "School",
+            "in",
+            "Longwood",
+            ",",
+            "Florida",
+            ",",
+            "with",
+            "an",
+            "Airsoft",
+            "gun",
+            "painted",
+            "entirely",
+            "black",
+            "to",
+            "disguise",
+            "it",
+            "as",
+            "a",
+            "Beretta",
+            "9mm",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "LOC"
+            },
+            {
+                "start": 57,
+                "end": 60,
+                "type": "ORG"
+            },
+            {
+                "start": 61,
+                "end": 62,
+                "type": "LOC"
+            },
+            {
+                "start": 63,
+                "end": 64,
+                "type": "LOC"
+            },
+            {
+                "start": 67,
+                "end": 68,
+                "type": "MISC"
+            },
+            {
+                "start": 77,
+                "end": 79,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "119",
+        "tokens": [
+            "Clergoux",
+            "is",
+            "a",
+            "village",
+            "and",
+            "commune",
+            "in",
+            "the",
+            "Corrèz",
+            "département",
+            "of",
+            "central",
+            "Franc",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "LOC"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "152",
+        "tokens": [
+            "Salvador",
+            "Luria",
+            "and",
+            "Max",
+            "Delbrüc",
+            "founded",
+            "the",
+            "Phage",
+            "Course",
+            "in",
+            "1948",
+            ",",
+            "a",
+            "course",
+            "that",
+            "trained",
+            "many",
+            "of",
+            "the",
+            "leaders",
+            "of",
+            "the",
+            "new",
+            "field",
+            "of",
+            "molecular",
+            "genetics",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 3,
+                "end": 5,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "31",
+        "tokens": [
+            "Although",
+            "he",
+            "pitched",
+            "well",
+            "as",
+            "a",
+            "starter",
+            "at",
+            "AAA",
+            "Syracuse",
+            ",",
+            "he",
+            "was",
+            "just",
+            "1-3",
+            "with",
+            "a",
+            "13.15",
+            "ERA",
+            "in",
+            "5",
+            "appearances",
+            "(",
+            "3",
+            "starts",
+            ")",
+            "with",
+            "the",
+            "Blue",
+            "Jays",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 8,
+                "end": 10,
+                "type": "ORG"
+            },
+            {
+                "start": 28,
+                "end": 30,
+                "type": "ORG"
+            }
+        ]
+    }
+]

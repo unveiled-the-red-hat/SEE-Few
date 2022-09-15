@@ -1,0 +1,689 @@
+[
+    {
+        "org_id": "2720",
+        "tokens": [
+            "Austria",
+            "'s",
+            "best",
+            "chance",
+            "came",
+            "in",
+            "the",
+            "63rd",
+            "minute",
+            "with",
+            "Stephan",
+            "Marasek",
+            "of",
+            "SC",
+            "Freiburg",
+            "taking",
+            "advantage",
+            "of",
+            "a",
+            "scramble",
+            "in",
+            "the",
+            "Scottish",
+            "penalty",
+            "area",
+            "but",
+            "his",
+            "shot",
+            "narrowly",
+            "passing",
+            "the",
+            "left-hand",
+            "post",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 10,
+                "end": 12,
+                "type": "PER"
+            },
+            {
+                "start": 13,
+                "end": 15,
+                "type": "ORG"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "986",
+        "tokens": [
+            "Russian",
+            "peacemaker",
+            "Alexander",
+            "Lebed",
+            "and",
+            "Chechen",
+            "separatist",
+            "military",
+            "leader",
+            "Aslan",
+            "Maskhadov",
+            "started",
+            "a",
+            "new",
+            "round",
+            "of",
+            "peace",
+            "talks",
+            "on",
+            "Friday",
+            "in",
+            "this",
+            "settlement",
+            "just",
+            "outside",
+            "the",
+            "rebel",
+            "region",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 2,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "MISC"
+            },
+            {
+                "start": 9,
+                "end": 11,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "2946",
+        "tokens": [
+            "\"",
+            "We",
+            "are",
+            "in",
+            "close",
+            "touch",
+            "with",
+            "all",
+            "our",
+            "allies",
+            ",",
+            "\"",
+            "said",
+            "the",
+            "Foreign",
+            "Office",
+            "spokesman",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 14,
+                "end": 16,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "778",
+        "tokens": [
+            "\"",
+            "The",
+            "deal",
+            "really",
+            "levels",
+            "the",
+            "seating",
+            "field",
+            "somewhat",
+            ",",
+            "\"",
+            "said",
+            "John",
+            "Casesa",
+            "of",
+            "Schroder",
+            "Wertheim",
+            "&",
+            "Co",
+            ".",
+            "\""
+        ],
+        "entities": [
+            {
+                "start": 12,
+                "end": 14,
+                "type": "PER"
+            },
+            {
+                "start": 15,
+                "end": 19,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2776",
+        "tokens": [
+            "Belgian",
+            "coach",
+            "Wilfried",
+            "Van",
+            "Moer",
+            "said",
+            "he",
+            "had",
+            "not",
+            "expected",
+            "Turkey",
+            "to",
+            "be",
+            "so",
+            "strong",
+            "and",
+            "fast",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 2,
+                "end": 5,
+                "type": "PER"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "2575",
+        "tokens": [
+            "KANSAS",
+            "CITY",
+            "61",
+            "75",
+            ".449",
+            "20"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2961",
+        "tokens": [
+            "Opposition",
+            "group",
+            "says",
+            "Iraqis",
+            "advance",
+            "in",
+            "north",
+            "Iraq",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "MISC"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "2642",
+        "tokens": [
+            "Brown",
+            "(",
+            "14-10",
+            ")",
+            "tied",
+            "Todd",
+            "Stottlemyre",
+            "of",
+            "the",
+            "Cardinals",
+            "for",
+            "the",
+            "National",
+            "League",
+            "lead",
+            "with",
+            "his",
+            "fifth",
+            "complete",
+            "game",
+            "and",
+            "lowered",
+            "his",
+            "major",
+            "league-leading",
+            "earned",
+            "run",
+            "average",
+            "from",
+            "1.96",
+            "to",
+            "1.92",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 5,
+                "end": 7,
+                "type": "PER"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "ORG"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2639",
+        "tokens": [
+            "BASEBALL",
+            "-",
+            "KEVIN",
+            "BROWN",
+            "LOWERS",
+            "ERA",
+            "AS",
+            "MARLINS",
+            "BEAT",
+            "REDS",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "MISC"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "ORG"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "3253",
+        "tokens": [
+            "A",
+            "committee",
+            "monitoring",
+            "the",
+            "ceasefire",
+            "agreement",
+            "between",
+            "Israel",
+            "and",
+            "Hizbollah",
+            "guerrillas",
+            "will",
+            "meet",
+            "in",
+            "south",
+            "Lebanon",
+            "on",
+            "Sunday",
+            "to",
+            "discuss",
+            "an",
+            "Israeli",
+            "complaint",
+            "against",
+            "the",
+            "Islamic",
+            "group",
+            ",",
+            "the",
+            "Israeli",
+            "army",
+            "said",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "ORG"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "type": "MISC"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "type": "MISC"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "182",
+        "tokens": [
+            "Results",
+            "from",
+            "the",
+            "U.S.",
+            "Open",
+            "Tennis",
+            "Championships",
+            "at",
+            "the",
+            "National",
+            "Tennis",
+            "Centre",
+            "on",
+            "Friday",
+            "(",
+            "prefix",
+            "number",
+            "denotes",
+            "seeding",
+            ")",
+            ":"
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 7,
+                "type": "MISC"
+            },
+            {
+                "start": 9,
+                "end": 12,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "1431",
+        "tokens": [
+            "The",
+            "PLO",
+            "wants",
+            "Arab",
+            "East",
+            "Jerusalem",
+            "as",
+            "the",
+            "capital",
+            "of",
+            "a",
+            "future",
+            "Palestinian",
+            "state",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 3,
+                "end": 6,
+                "type": "LOC"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2680",
+        "tokens": [
+            "In",
+            "Pittsburgh",
+            ",",
+            "Sean",
+            "Berry",
+            "tied",
+            "a",
+            "career",
+            "high",
+            "with",
+            "six",
+            "RBI",
+            "and",
+            "Donne",
+            "Wall",
+            "fired",
+            "a",
+            "seven-hitter",
+            "for",
+            "his",
+            "first",
+            "major-league",
+            "shutout",
+            "as",
+            "the",
+            "Houston",
+            "Astros",
+            "routed",
+            "the",
+            "Pirates",
+            "10-0",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "LOC"
+            },
+            {
+                "start": 3,
+                "end": 5,
+                "type": "PER"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "MISC"
+            },
+            {
+                "start": 13,
+                "end": 15,
+                "type": "PER"
+            },
+            {
+                "start": 25,
+                "end": 27,
+                "type": "ORG"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "345",
+        "tokens": [
+            "During",
+            "his",
+            "11",
+            "years",
+            "in",
+            "Philadelphia",
+            ",",
+            "Randall",
+            "was",
+            "the",
+            "cornerstone",
+            "of",
+            "the",
+            "Eagles",
+            "'",
+            "franchise",
+            "and",
+            "brought",
+            "many",
+            "great",
+            "moments",
+            "to",
+            "fans",
+            "in",
+            "Philadelphia",
+            "as",
+            "well",
+            "as",
+            "across",
+            "the",
+            "NFL",
+            ".",
+            "\""
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 6,
+                "type": "LOC"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "ORG"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "type": "LOC"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2330",
+        "tokens": [
+            "The",
+            "North",
+            "Africans",
+            "were",
+            "held",
+            "to",
+            "a",
+            "goalless",
+            "draw",
+            "by",
+            "Benin",
+            "on",
+            "Friday",
+            "after",
+            "losing",
+            "the",
+            "first",
+            "leg",
+            "of",
+            "their",
+            "qualifying",
+            "tie",
+            "4-1",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "MISC"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "LOC"
+            }
+        ]
+    }
+]

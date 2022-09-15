@@ -1,0 +1,344 @@
+[
+    {
+        "org_id": "6149",
+        "tokens": [
+            "Endt",
+            "told",
+            "Dutch",
+            "news",
+            "agency",
+            "ANP",
+            "that",
+            "Blind",
+            ",",
+            "35",
+            ",",
+            "would",
+            "no",
+            "longer",
+            "be",
+            "available",
+            "for",
+            "selection",
+            "for",
+            "the",
+            "national",
+            "squad",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "type": "MISC"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "ORG"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "12773",
+        "tokens": [
+            "The",
+            "French-educated",
+            ",",
+            "former",
+            "brother-in-law",
+            "of",
+            "Pol",
+            "Pot",
+            "was",
+            "foreign",
+            "minister",
+            "in",
+            "the",
+            "Khmer",
+            "Rouge",
+            "government",
+            "that",
+            "ruled",
+            "Cambodia",
+            "and",
+            "was",
+            "seen",
+            "as",
+            "the",
+            "group",
+            "'s",
+            "second",
+            "in",
+            "command",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 13,
+                "end": 15,
+                "type": "ORG"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "1351",
+        "tokens": [
+            "Yeltsin",
+            "shown",
+            "on",
+            "Russian",
+            "television",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "10277",
+        "tokens": [
+            "ANKARA",
+            "1996-08-27"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "14254",
+        "tokens": [
+            "Higher",
+            "spending",
+            "by",
+            "foreign",
+            "visitors",
+            "and",
+            "less",
+            "Canadian",
+            "tourist",
+            "spending",
+            "abroad",
+            "cut",
+            "the",
+            "deficit",
+            "in",
+            "Canada",
+            "'s",
+            "international",
+            "travel",
+            "account",
+            "by",
+            "26.5",
+            "percent",
+            "in",
+            "the",
+            "second",
+            "quarter",
+            ",",
+            "Statistics",
+            "Canada",
+            "said",
+            "on",
+            "Thursday",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "MISC"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 28,
+                "end": 30,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "6415",
+        "tokens": [
+            "-",
+            "Japanese",
+            "foreign",
+            "minister",
+            "arrives",
+            "for",
+            "talks",
+            "on",
+            "peace",
+            "process",
+            ",",
+            "bilateral",
+            "ties",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "376",
+        "tokens": [
+            "SOCCER",
+            "-",
+            "GLORIA",
+            "BISTRITA",
+            "BEAT",
+            "2-1",
+            "F.C.",
+            "VALLETTA",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "14427",
+        "tokens": [
+            "Clinton",
+            "arrives",
+            "in",
+            "Chicago",
+            "on",
+            "day",
+            "of",
+            "re-nomination",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "8127",
+        "tokens": [
+            "Deputy",
+            "Secretary",
+            "of",
+            "State",
+            "Strobe",
+            "Talbott",
+            "flew",
+            "to",
+            "Ottawa",
+            "on",
+            "Monday",
+            "to",
+            "meet",
+            "his",
+            "Russian",
+            "counterpart",
+            "and",
+            "discuss",
+            "a",
+            "range",
+            "of",
+            "bilateral",
+            "and",
+            "European",
+            "security",
+            "issues",
+            ",",
+            "the",
+            "State",
+            "Department",
+            "said",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 6,
+                "type": "PER"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "LOC"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "MISC"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "type": "MISC"
+            },
+            {
+                "start": 28,
+                "end": 30,
+                "type": "ORG"
+            }
+        ]
+    }
+]

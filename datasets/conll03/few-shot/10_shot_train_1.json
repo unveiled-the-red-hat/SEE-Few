@@ -1,0 +1,627 @@
+[
+    {
+        "org_id": "10594",
+        "tokens": [
+            "2.",
+            "Natalya",
+            "Voronova",
+            "(",
+            "Russia",
+            ")",
+            "11.53"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "8548",
+        "tokens": [
+            "Stocks",
+            "in",
+            "London",
+            "started",
+            "the",
+            "week",
+            "badly",
+            "after",
+            "a",
+            "three-day",
+            "weekend",
+            ",",
+            "slipping",
+            "0.3",
+            "percent",
+            ",",
+            "but",
+            "bargain-hunters",
+            "later",
+            "moved",
+            "in",
+            "and",
+            "the",
+            "FTSE",
+            "index",
+            "recovered",
+            "most",
+            "of",
+            "the",
+            "lost",
+            "ground",
+            "to",
+            "end",
+            "only",
+            "just",
+            "in",
+            "negative",
+            "ground",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "LOC"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "8934",
+        "tokens": [
+            "\"",
+            "It",
+            "'s",
+            "a",
+            "win",
+            "that",
+            "I",
+            "can",
+            "be",
+            "proud",
+            "of",
+            ",",
+            "\"",
+            "said",
+            "the",
+            "30-year-old",
+            "Swede",
+            ",",
+            "winner",
+            "of",
+            "two",
+            "U.S.",
+            "Opens",
+            "and",
+            "six",
+            "Grand",
+            "Slam",
+            "titles",
+            "in",
+            "all",
+            ".",
+            "\""
+        ],
+        "entities": [
+            {
+                "start": 16,
+                "end": 17,
+                "type": "MISC"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "type": "LOC"
+            },
+            {
+                "start": 25,
+                "end": 27,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "14951",
+        "tokens": [
+            "8.",
+            "Carlos",
+            "Checa",
+            "(",
+            "Spain",
+            ")",
+            "Honda",
+            "1:51.588"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "4745",
+        "tokens": [
+            "Most",
+            "Spaniards",
+            "back",
+            "talks",
+            "with",
+            "Basque",
+            "rebels--poll",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 6,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "11530",
+        "tokens": [
+            "V.",
+            "Kambli",
+            "run",
+            "out",
+            "18"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "5323",
+        "tokens": [
+            "Salim",
+            "Malik",
+            "not",
+            "out",
+            "100"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "748",
+        "tokens": [
+            "Jan",
+            "Kroslak",
+            "(",
+            "Slovakia",
+            ")",
+            "vs.",
+            "Chris",
+            "Woodruff",
+            "(",
+            "U.S.",
+            ")"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "LOC"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "14025",
+        "tokens": [
+            "Green",
+            "and",
+            "black",
+            "face",
+            "paint",
+            "completed",
+            "his",
+            "disguise",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "13006",
+        "tokens": [
+            "European",
+            "beef",
+            "sales",
+            "plunged",
+            "after",
+            "Britain",
+            "announced",
+            "the",
+            "discovery",
+            "of",
+            "a",
+            "likely",
+            "link",
+            "between",
+            "bovine",
+            "spongiform",
+            "encephalopathy",
+            "(",
+            "BSE",
+            ")",
+            ",",
+            "or",
+            "mad",
+            "cow",
+            "disease",
+            ",",
+            "and",
+            "its",
+            "fatal",
+            "human",
+            "equivalent",
+            "Creutzfeldt-Jakob",
+            "Disease",
+            "(",
+            "CJD",
+            ")",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "LOC"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "MISC"
+            },
+            {
+                "start": 31,
+                "end": 33,
+                "type": "MISC"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2351",
+        "tokens": [
+            "Hamburg",
+            "side",
+            "St",
+            "Pauli",
+            ",",
+            "tipped",
+            "as",
+            "prime",
+            "candidates",
+            "for",
+            "relegation",
+            ",",
+            "produced",
+            "a",
+            "stunning",
+            "second-half",
+            "fightback",
+            "to",
+            "draw",
+            "4-4",
+            "in",
+            "their",
+            "Bundesliga",
+            "clash",
+            "with",
+            "Schalke",
+            "on",
+            "Friday",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 2,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "type": "MISC"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "9353",
+        "tokens": [
+            "\"",
+            "At",
+            "the",
+            "same",
+            "time",
+            ",",
+            "it",
+            "'s",
+            "an",
+            "advantage",
+            "for",
+            "Cofinec",
+            "that",
+            "it",
+            "has",
+            "a",
+            "foreign",
+            "management",
+            "which",
+            "perhaps",
+            "understands",
+            "the",
+            "market",
+            "better",
+            ",",
+            "\"",
+            "Erdei",
+            "added",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 11,
+                "end": 12,
+                "type": "ORG"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "2674",
+        "tokens": [
+            "Midfielder",
+            "Paulo",
+            "Sousa",
+            ",",
+            "recently",
+            "transferred",
+            "to",
+            "Borussia",
+            "Dortmund",
+            "from",
+            "Italy",
+            "'s",
+            "Juventus",
+            ",",
+            "is",
+            "the",
+            "only",
+            "leading",
+            "member",
+            "of",
+            "the",
+            "Portuguese",
+            "side",
+            "from",
+            "this",
+            "year",
+            "'s",
+            "European",
+            "championships",
+            "who",
+            "will",
+            "not",
+            "make",
+            "the",
+            "trip",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 7,
+                "end": 9,
+                "type": "ORG"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "LOC"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "ORG"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "type": "MISC"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "7029",
+        "tokens": [
+            "Vorskla",
+            "Poltava",
+            "2",
+            "Nyva",
+            "Ternopil",
+            "1"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 3,
+                "end": 5,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "1436",
+        "tokens": [
+            "Palestinians",
+            "accuse",
+            "PA",
+            "of",
+            "banning",
+            "books",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "10046",
+        "tokens": [
+            "Happy",
+            "Birthday",
+            "to",
+            "our",
+            "Dearest",
+            "Mother",
+            ",",
+            "\"",
+            "read",
+            "a",
+            "placard",
+            "at",
+            "the",
+            "Shishu",
+            "Bhavan",
+            "children",
+            "'s",
+            "home",
+            "in",
+            "central",
+            "Calcutta",
+            "run",
+            "by",
+            "Mother",
+            "Teresa",
+            "'s",
+            "Missionaries",
+            "of",
+            "Charity",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 13,
+                "end": 15,
+                "type": "ORG"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "type": "LOC"
+            },
+            {
+                "start": 23,
+                "end": 25,
+                "type": "PER"
+            },
+            {
+                "start": 26,
+                "end": 29,
+                "type": "ORG"
+            }
+        ]
+    }
+]

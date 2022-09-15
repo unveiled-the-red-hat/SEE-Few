@@ -1,0 +1,388 @@
+[
+    {
+        "org_id": "193",
+        "tokens": [
+            "Davis",
+            ",",
+            "5",
+            "September",
+            "1953",
+            "--",
+            "unkn",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "967",
+        "tokens": [
+            "Carl",
+            "Heinrich",
+            "Georg",
+            "(",
+            "es",
+            ")",
+            "von",
+            "Heyden",
+            "(",
+            "20",
+            "January",
+            "1793",
+            "Frankfurt",
+            "--",
+            "7",
+            "July",
+            "1866",
+            ")",
+            "was",
+            "a",
+            "German",
+            "Senator",
+            "and",
+            "entomologist",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "LOC"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "264",
+        "tokens": [
+            "She",
+            "was",
+            "married",
+            "in",
+            "1838",
+            "to",
+            "Stanisław",
+            "Baranowski",
+            "(",
+            "1806-1843",
+            ")",
+            ",",
+            "who",
+            "was",
+            "an",
+            "officer",
+            "in",
+            "the",
+            "Polish",
+            "forces",
+            "during",
+            "the",
+            "January",
+            "Uprising",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "MISC"
+            },
+            {
+                "start": 22,
+                "end": 24,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "654",
+        "tokens": [
+            "In",
+            "the",
+            "hazy",
+            ",",
+            "backlit",
+            "conditions",
+            "of",
+            "the",
+            "late",
+            "afternoon",
+            ",",
+            "it",
+            "was",
+            "revealed",
+            "that",
+            "the",
+            "judges",
+            "had",
+            "confused",
+            "the",
+            "riders",
+            ",",
+            "awarding",
+            "Player",
+            "the",
+            "points",
+            "for",
+            "a",
+            "ride",
+            "his",
+            "opponent",
+            "had",
+            "made",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 23,
+                "end": 24,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "722",
+        "tokens": [
+            "The",
+            "chain",
+            "was",
+            "founded",
+            "by",
+            "Herman",
+            "Salling",
+            ",",
+            "but",
+            "is",
+            "now",
+            "a",
+            "part",
+            "of",
+            "Dansk",
+            "Supermarked",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 7,
+                "type": "PER"
+            },
+            {
+                "start": 14,
+                "end": 16,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "950",
+        "tokens": [
+            "Whilst",
+            "still",
+            "a",
+            "teenager",
+            ",",
+            "Citrone",
+            "opened",
+            "a",
+            "gymnasium",
+            "in",
+            "North",
+            "Shields",
+            "and",
+            "met",
+            "Sunderland",
+            "A.F.C.",
+            "footballer",
+            "Dave",
+            "Buchanan",
+            ",",
+            "with",
+            "whom",
+            "he",
+            "bought",
+            "a",
+            "health",
+            "club",
+            "in",
+            "Redcar",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 6,
+                "type": "PER"
+            },
+            {
+                "start": 10,
+                "end": 12,
+                "type": "LOC"
+            },
+            {
+                "start": 14,
+                "end": 16,
+                "type": "ORG"
+            },
+            {
+                "start": 17,
+                "end": 19,
+                "type": "PER"
+            },
+            {
+                "start": 28,
+                "end": 29,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "155",
+        "tokens": [
+            "Its",
+            "units",
+            "supported",
+            "the",
+            "Allied",
+            "invasion",
+            "of",
+            "Normandy",
+            "(",
+            "June",
+            "1944",
+            ")",
+            ";",
+            "the",
+            "Allied",
+            "ground",
+            "troops",
+            "during",
+            "the",
+            "Battle",
+            "of",
+            "the",
+            "Bulge",
+            "(",
+            "December",
+            "1944",
+            "through",
+            "January",
+            "1945",
+            ")",
+            ";",
+            "the",
+            "Allied",
+            "airborne",
+            "attack",
+            "on",
+            "Holland",
+            "(",
+            "Operation",
+            "Market",
+            "Garden",
+            ",",
+            "September",
+            "1944",
+            ")",
+            ";",
+            "the",
+            "defense",
+            "of",
+            "the",
+            "Remagen",
+            "bridgehead",
+            "against",
+            "German",
+            "air",
+            "attacks",
+            "(",
+            "March",
+            "1945",
+            ")",
+            ";",
+            "and",
+            "the",
+            "airborne",
+            "attack",
+            "across",
+            "the",
+            "Rhine",
+            "(",
+            "March",
+            "1945",
+            ")",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "ORG"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "ORG"
+            },
+            {
+                "start": 19,
+                "end": 23,
+                "type": "MISC"
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "type": "ORG"
+            },
+            {
+                "start": 36,
+                "end": 37,
+                "type": "LOC"
+            },
+            {
+                "start": 38,
+                "end": 41,
+                "type": "MISC"
+            },
+            {
+                "start": 50,
+                "end": 51,
+                "type": "LOC"
+            },
+            {
+                "start": 53,
+                "end": 54,
+                "type": "MISC"
+            },
+            {
+                "start": 67,
+                "end": 68,
+                "type": "LOC"
+            }
+        ]
+    }
+]

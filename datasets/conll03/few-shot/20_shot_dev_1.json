@@ -1,0 +1,1486 @@
+[
+    {
+        "org_id": "3",
+        "tokens": [
+            "West",
+            "Indian",
+            "all-rounder",
+            "Phil",
+            "Simmons",
+            "took",
+            "four",
+            "for",
+            "38",
+            "on",
+            "Friday",
+            "as",
+            "Leicestershire",
+            "beat",
+            "Somerset",
+            "by",
+            "an",
+            "innings",
+            "and",
+            "39",
+            "runs",
+            "in",
+            "two",
+            "days",
+            "to",
+            "take",
+            "over",
+            "at",
+            "the",
+            "head",
+            "of",
+            "the",
+            "county",
+            "championship",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 3,
+                "end": 5,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "ORG"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "1545",
+        "tokens": [
+            "In",
+            "Tokyo",
+            ",",
+            "the",
+            "key",
+            "225-share",
+            "Nikkei",
+            "average",
+            "shed",
+            "156.65",
+            "points",
+            ",",
+            "or",
+            "0.76",
+            "percent",
+            ",",
+            "to",
+            "end",
+            "at",
+            "20,553.16",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "LOC"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "781",
+        "tokens": [
+            "Magna",
+            ",",
+            "Johnson",
+            "Controls",
+            "and",
+            "Lear",
+            "have",
+            "been",
+            "working",
+            "to",
+            "build",
+            "up",
+            "their",
+            "capabilties",
+            "to",
+            "supply",
+            "complete",
+            "interiors",
+            "to",
+            "automakers",
+            ",",
+            "including",
+            "seats",
+            ",",
+            "instrument",
+            "panels",
+            ",",
+            "door",
+            "panels",
+            "carpeting",
+            "and",
+            "headliners",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 2,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "1294",
+        "tokens": [
+            "He",
+            "was",
+            "apparently",
+            "the",
+            "eighth",
+            "African",
+            "deported",
+            "from",
+            "among",
+            "210",
+            "people",
+            "evicted",
+            "from",
+            "the",
+            "church",
+            "after",
+            "a",
+            "50-day",
+            "occupation",
+            "aimed",
+            "at",
+            "securing",
+            "residence",
+            "permits",
+            ",",
+            "unions",
+            "said",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 6,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "15",
+        "tokens": [
+            "They",
+            "were",
+            "held",
+            "up",
+            "by",
+            "a",
+            "gritty",
+            "84",
+            "from",
+            "Paul",
+            "Johnson",
+            "but",
+            "ex-England",
+            "fast",
+            "bowler",
+            "Martin",
+            "McCague",
+            "took",
+            "four",
+            "for",
+            "55",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 9,
+                "end": 11,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "MISC"
+            },
+            {
+                "start": 15,
+                "end": 17,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "1555",
+        "tokens": [
+            "She",
+            "emphasised",
+            "that",
+            "the",
+            "move",
+            "was",
+            "positive",
+            "because",
+            "Pirelli",
+            "will",
+            "have",
+            "management",
+            "control",
+            "of",
+            "the",
+            "Chinese",
+            "venture",
+            ",",
+            "and",
+            "it",
+            "also",
+            "showed",
+            "another",
+            "example",
+            "of",
+            "Pirelli",
+            "exporting",
+            "its",
+            "technical",
+            "know-how",
+            "to",
+            "developing",
+            "markets",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 8,
+                "end": 9,
+                "type": "ORG"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "MISC"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2967",
+        "tokens": [
+            "He",
+            "said",
+            "damage",
+            "and",
+            "casualties",
+            "in",
+            "the",
+            "city",
+            "were",
+            "heavy",
+            "and",
+            "Kurdish",
+            "forces",
+            "were",
+            "defending",
+            "the",
+            "city",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 11,
+                "end": 12,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2073",
+        "tokens": [
+            "St",
+            "Mirren",
+            "3",
+            "1",
+            "1",
+            "1",
+            "5",
+            "4",
+            "4"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "285",
+        "tokens": [
+            "National",
+            "League"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "415",
+        "tokens": [
+            "Grand",
+            "Prix",
+            "athletics",
+            "meeting",
+            "on",
+            "Friday",
+            ":"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "3105",
+        "tokens": [
+            "Mexican",
+            "army",
+            "attacked",
+            "in",
+            "Michoacan",
+            "state",
+            "-",
+            "report",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "3112",
+        "tokens": [
+            "The",
+            "attack",
+            "comes",
+            "a",
+            "day",
+            "after",
+            "rebels",
+            "of",
+            "the",
+            "self-styled",
+            "Popular",
+            "Revolutionary",
+            "Army",
+            "(",
+            "EPR",
+            ")",
+            "launched",
+            "coordinated",
+            "attacks",
+            "in",
+            "at",
+            "least",
+            "three",
+            "Mexican",
+            "states",
+            ",",
+            "killing",
+            "up",
+            "to",
+            "14",
+            "people",
+            "and",
+            "wounding",
+            "about",
+            "20",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 10,
+                "end": 13,
+                "type": "ORG"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "ORG"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2298",
+        "tokens": [
+            "It",
+            "also",
+            "ended",
+            "a",
+            "run",
+            "of",
+            "nine",
+            "successive",
+            "victories",
+            "this",
+            "year",
+            "for",
+            "New",
+            "Zealand",
+            "but",
+            "arrived",
+            "too",
+            "late",
+            "to",
+            "prevent",
+            "a",
+            "2-1",
+            "series",
+            "defeat",
+            "and",
+            "an",
+            "historic",
+            "first",
+            "All",
+            "Black",
+            "series",
+            "triumph",
+            "on",
+            "South",
+            "African",
+            "soil",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 12,
+                "end": 14,
+                "type": "LOC"
+            },
+            {
+                "start": 28,
+                "end": 30,
+                "type": "ORG"
+            },
+            {
+                "start": 33,
+                "end": 35,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "557",
+        "tokens": [
+            "2.",
+            "Yoelvis",
+            "Quesada",
+            "(",
+            "Cuba",
+            ")",
+            "17.44"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "816",
+        "tokens": [
+            "Japanese",
+            "Goverment",
+            "Bonds",
+            "futures",
+            "which",
+            "closed",
+            "before",
+            "the",
+            "output",
+            "data",
+            ",",
+            "lost",
+            "much",
+            "of",
+            "day",
+            "'s",
+            "gains",
+            "as",
+            "Tokyo",
+            "stock",
+            "prices",
+            "recovered",
+            "from",
+            "the",
+            "day",
+            "'s",
+            "low.In",
+            "after",
+            "hours",
+            "trading",
+            "the",
+            "September",
+            "future",
+            "on",
+            "LIFFE",
+            "was",
+            "trading",
+            "at",
+            "122.53",
+            ",",
+            "up",
+            "0.26",
+            "from",
+            "Thursday",
+            "'s",
+            "settlement",
+            "price",
+            "on",
+            "the",
+            "Tokyo",
+            "Stock",
+            "Exchange",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "type": "MISC"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "LOC"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "type": "ORG"
+            },
+            {
+                "start": 49,
+                "end": 52,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2098",
+        "tokens": [
+            "Montrose",
+            "3",
+            "1",
+            "0",
+            "2",
+            "3",
+            "4",
+            "3"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "1076",
+        "tokens": [
+            "Libyans",
+            "are",
+            "dressing",
+            "up",
+            "their",
+            "capital",
+            "Tripoli",
+            "for",
+            "celebrations",
+            "on",
+            "Sunday",
+            "of",
+            "the",
+            "27th",
+            "anniversary",
+            "of",
+            "the",
+            "coup",
+            "which",
+            "brought",
+            "Muammar",
+            "Gaddafi",
+            "to",
+            "power",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "LOC"
+            },
+            {
+                "start": 20,
+                "end": 22,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "2743",
+        "tokens": [
+            "Leboeuf",
+            "was",
+            "dismissed",
+            "two",
+            "minutes",
+            "from",
+            "time",
+            "for",
+            "a",
+            "second",
+            "bookable",
+            "offence",
+            ",",
+            "fouling",
+            "Mexican",
+            "substitute",
+            "Ricardo",
+            "Pelaez",
+            "who",
+            "minutes",
+            "earlier",
+            "had",
+            "also",
+            "been",
+            "shown",
+            "the",
+            "yellow",
+            "card",
+            "for",
+            "pushing",
+            "the",
+            "Chelsea",
+            "defender",
+            "in",
+            "the",
+            "back",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "MISC"
+            },
+            {
+                "start": 16,
+                "end": 18,
+                "type": "PER"
+            },
+            {
+                "start": 31,
+                "end": 32,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "3258",
+        "tokens": [
+            "The",
+            "understandings",
+            "forbid",
+            "firing",
+            "from",
+            "or",
+            "at",
+            "civilian",
+            "targest",
+            "but",
+            "do",
+            "not",
+            "rule",
+            "out",
+            "guerrilla",
+            "attacks",
+            "on",
+            "Israeli",
+            "troops",
+            "and",
+            "their",
+            "local",
+            "militia",
+            "allies",
+            "in",
+            "south",
+            "Lebanon",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 17,
+                "end": 18,
+                "type": "MISC"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "199",
+        "tokens": [
+            "Add",
+            "Women",
+            "'s",
+            "singles",
+            ",",
+            "third",
+            "round",
+            "Linda",
+            "Wild",
+            "(",
+            "U.S.",
+            ")",
+            "beat",
+            "Barbara",
+            "Rittner",
+            "(",
+            "Germany",
+            ")",
+            "6-4",
+            "4-6",
+            "7-5",
+            "Asa",
+            "Carlsson",
+            "(",
+            "Sweden",
+            ")",
+            "beat",
+            "15",
+            "-",
+            "Gabriela",
+            "Sabatini",
+            "(",
+            "Argentina",
+            ")",
+            "7-5",
+            "3-6",
+            "6-2"
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 9,
+                "type": "PER"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "LOC"
+            },
+            {
+                "start": 13,
+                "end": 15,
+                "type": "PER"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "LOC"
+            },
+            {
+                "start": 21,
+                "end": 23,
+                "type": "PER"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "type": "LOC"
+            },
+            {
+                "start": 29,
+                "end": 31,
+                "type": "PER"
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "1612",
+        "tokens": [
+            "Sombre",
+            "mood",
+            "on",
+            "Arctic",
+            "island",
+            "after",
+            "plane",
+            "crash",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "1997",
+        "tokens": [
+            "European",
+            "Tour",
+            "after",
+            "the",
+            "British",
+            "Masters",
+            "won",
+            "by",
+            "Robert",
+            "Allenby",
+            "on"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 4,
+                "end": 6,
+                "type": "MISC"
+            },
+            {
+                "start": 8,
+                "end": 10,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "1356",
+        "tokens": [
+            "While",
+            "the",
+            "data",
+            "provided",
+            "support",
+            "for",
+            "Canadian",
+            "bonds",
+            ",",
+            "both",
+            "Canadian",
+            "and",
+            "U.S.",
+            "markets",
+            "weakened",
+            "after",
+            "the",
+            "release",
+            "of",
+            "strong",
+            "U.S.",
+            "economic",
+            "data",
+            ",",
+            "including",
+            "a",
+            "report",
+            "showing",
+            "the",
+            "Chicago",
+            "Purchasing",
+            "Managers",
+            "August",
+            "index",
+            "rose",
+            "to",
+            "60",
+            "from",
+            "51.2",
+            "in",
+            "July",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 7,
+                "type": "MISC"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "MISC"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "LOC"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "type": "LOC"
+            },
+            {
+                "start": 29,
+                "end": 32,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2252",
+        "tokens": [
+            "Middlesex",
+            "20",
+            "points",
+            ",",
+            "Hampshire",
+            "5",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2393",
+        "tokens": [
+            "Results",
+            "in",
+            "the",
+            "Trofej",
+            "Beograd",
+            "96"
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 6,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2396",
+        "tokens": [
+            "Benetton",
+            "(",
+            "Italy",
+            ")",
+            "92",
+            "Dinamo",
+            "(",
+            "Russia",
+            ")",
+            "81",
+            "(",
+            "halftime",
+            "50-28",
+            ")"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "type": "LOC"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "ORG"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "612",
+        "tokens": [
+            "COLOMBO",
+            "1996-08-30"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "2661",
+        "tokens": [
+            "The",
+            "Braves",
+            "took",
+            "the",
+            "second",
+            "game",
+            "when",
+            "Chipper",
+            "Jones",
+            "singled",
+            "home",
+            "the",
+            "tying",
+            "run",
+            "in",
+            "the",
+            "top",
+            "of",
+            "the",
+            "ninth",
+            "and",
+            "Andruw",
+            "Jones",
+            "took",
+            "advantage",
+            "of",
+            "a",
+            "poor",
+            "throw",
+            "to",
+            "score",
+            "the",
+            "go-ahead",
+            "run",
+            "on",
+            "a",
+            "sacrifice",
+            "fly",
+            "for",
+            "a",
+            "6-5",
+            "victory",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 7,
+                "end": 9,
+                "type": "PER"
+            },
+            {
+                "start": 21,
+                "end": 23,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "2282",
+        "tokens": [
+            "9.",
+            "Mauricio",
+            "Gugelmin",
+            "(",
+            "Brazil",
+            ")",
+            ",",
+            "Reynard",
+            "Ford",
+            "Cosworth",
+            ",",
+            "54.762"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            },
+            {
+                "start": 7,
+                "end": 10,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2670",
+        "tokens": [
+            "In",
+            "New",
+            "York",
+            ",",
+            "Marvin",
+            "Benard",
+            "'s",
+            "two-run",
+            "homer",
+            "snapped",
+            "a",
+            "tie",
+            "and",
+            "Shawn",
+            "Estes",
+            "came",
+            "one",
+            "out",
+            "away",
+            "from",
+            "his",
+            "first",
+            "complete",
+            "game",
+            "as",
+            "the",
+            "San",
+            "Francisco",
+            "Giants",
+            "beat",
+            "the",
+            "Mets",
+            "6-4",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "LOC"
+            },
+            {
+                "start": 4,
+                "end": 6,
+                "type": "PER"
+            },
+            {
+                "start": 13,
+                "end": 15,
+                "type": "PER"
+            },
+            {
+                "start": 26,
+                "end": 29,
+                "type": "ORG"
+            },
+            {
+                "start": 31,
+                "end": 32,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "1775",
+        "tokens": [
+            "Quinn",
+            "added",
+            "his",
+            "second",
+            "and",
+            "Ireland",
+            "'s",
+            "fifth",
+            "just",
+            "after",
+            "the",
+            "hour",
+            "to",
+            "complete",
+            "the",
+            "rout",
+            "and",
+            "give",
+            "the",
+            "Irish",
+            "their",
+            "biggest-ever",
+            "away",
+            "win",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "LOC"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2932",
+        "tokens": [
+            "Blair",
+            "once",
+            "pledged",
+            "to",
+            "set",
+            "up",
+            "a",
+            "Scottish",
+            "parliament",
+            "if",
+            "the",
+            "Labour",
+            "won",
+            "the",
+            "next",
+            "general",
+            "election",
+            ",",
+            "which",
+            "must",
+            "be",
+            "held",
+            "by",
+            "May",
+            "1997",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "MISC"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "3188",
+        "tokens": [
+            "He",
+            "submitted",
+            "a",
+            "petition",
+            "to",
+            "the",
+            "International",
+            "Red",
+            "Cross",
+            "in",
+            "1993",
+            "asking",
+            "for",
+            "his",
+            "repatriation",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 9,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "116",
+        "tokens": [
+            "BOXING",
+            "-",
+            "PANAMA",
+            "'S",
+            "ROBERTO",
+            "DURAN",
+            "FIGHTS",
+            "THE",
+            "SANDS",
+            "OF",
+            "TIME",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "LOC"
+            },
+            {
+                "start": 4,
+                "end": 6,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "1658",
+        "tokens": [
+            "AUCKLAND",
+            "1996-08-30"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "1406",
+        "tokens": [
+            "It",
+            "welcomed",
+            "the",
+            "international",
+            "criticism",
+            "of",
+            "Israel",
+            "'s",
+            "settlement",
+            "policies",
+            "but",
+            "called",
+            "for",
+            "practical",
+            "steps",
+            "to",
+            "force",
+            "the",
+            "Israeli",
+            "government",
+            "to",
+            "abandon",
+            "this",
+            "policy",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 7,
+                "type": "LOC"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "MISC"
+            }
+        ]
+    }
+]

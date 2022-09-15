@@ -1,0 +1,1323 @@
+[
+    {
+        "org_id": "131",
+        "tokens": [
+            "SQUASH",
+            "-",
+            "HONG",
+            "KONG",
+            "OPEN",
+            "QUARTER-FINAL",
+            "RESULTS",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 5,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "901",
+        "tokens": [
+            "Ruling",
+            "Moslem",
+            "party",
+            "ends",
+            "vote",
+            "boycott",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2438",
+        "tokens": [
+            "SOCCER",
+            "-",
+            "BELARUS",
+            "BEAT",
+            "ESTONIA",
+            "IN",
+            "WORLD",
+            "CUP",
+            "QUALIFIER",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "LOC"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "1159",
+        "tokens": [
+            "Mexican",
+            "avocados",
+            "not",
+            "expected",
+            "in",
+            "U.S",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "10",
+        "tokens": [
+            "At",
+            "the",
+            "Oval",
+            ",",
+            "Surrey",
+            "captain",
+            "Chris",
+            "Lewis",
+            ",",
+            "another",
+            "man",
+            "dumped",
+            "by",
+            "England",
+            ",",
+            "continued",
+            "to",
+            "silence",
+            "his",
+            "critics",
+            "as",
+            "he",
+            "followed",
+            "his",
+            "four",
+            "for",
+            "45",
+            "on",
+            "Thursday",
+            "with",
+            "80",
+            "not",
+            "out",
+            "on",
+            "Friday",
+            "in",
+            "the",
+            "match",
+            "against",
+            "Warwickshire",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "LOC"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "ORG"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "LOC"
+            },
+            {
+                "start": 39,
+                "end": 40,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2704",
+        "tokens": [
+            "\"",
+            "It",
+            "does",
+            "n't",
+            "look",
+            "all",
+            "that",
+            "bad",
+            ",",
+            "\"",
+            "Edberg",
+            "said",
+            "of",
+            "his",
+            "path",
+            "through",
+            "the",
+            "draw",
+            "starting",
+            "next",
+            "with",
+            "a",
+            "match",
+            "against",
+            "Krajicek",
+            "'s",
+            "Dutch",
+            "countryman",
+            "Paul",
+            "Haarhuis",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 10,
+                "end": 11,
+                "type": "PER"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "type": "PER"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "MISC"
+            },
+            {
+                "start": 28,
+                "end": 30,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "1296",
+        "tokens": [
+            "About",
+            "100",
+            "people",
+            "from",
+            "the",
+            "CFDT",
+            "and",
+            "the",
+            "Communist-led",
+            "CGT",
+            "unions",
+            "marched",
+            "outside",
+            "Air",
+            "France",
+            "headquarters",
+            "at",
+            "Charles",
+            "de",
+            "Gaulle",
+            "airport",
+            "north",
+            "of",
+            "Paris",
+            "against",
+            "the",
+            "use",
+            "of",
+            "civilian",
+            "jets",
+            "and",
+            "staff",
+            "in",
+            "deporting",
+            "illegal",
+            "immigrants",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 6,
+                "type": "ORG"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "MISC"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "ORG"
+            },
+            {
+                "start": 13,
+                "end": 15,
+                "type": "ORG"
+            },
+            {
+                "start": 17,
+                "end": 20,
+                "type": "LOC"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "1041",
+        "tokens": [
+            "Brunswijk",
+            ",",
+            "35",
+            ",",
+            "denied",
+            "the",
+            "charge",
+            "and",
+            "reached",
+            "an",
+            "agreement",
+            "with",
+            "Pinas",
+            "after",
+            "replacing",
+            "a",
+            "golden",
+            "necklace",
+            "lost",
+            "in",
+            "the",
+            "scuffle",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "1560",
+        "tokens": [
+            "\"",
+            "The",
+            "starting",
+            "of",
+            "this",
+            "production",
+            "base",
+            "in",
+            "China",
+            "has",
+            "for",
+            "our",
+            "group",
+            "an",
+            "undoubted",
+            "strategic",
+            "value",
+            ",",
+            "representing",
+            "an",
+            "important",
+            "enhancement",
+            "of",
+            "our",
+            "presence",
+            "in",
+            "Asia",
+            ",",
+            "\"",
+            "said",
+            "Pirelli",
+            "SpA",
+            "chairman",
+            "and",
+            "chief",
+            "executive",
+            "officer",
+            "Marco",
+            "Tonchetti",
+            "Provera",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 8,
+                "end": 9,
+                "type": "LOC"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "LOC"
+            },
+            {
+                "start": 30,
+                "end": 32,
+                "type": "ORG"
+            },
+            {
+                "start": 37,
+                "end": 40,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "2841",
+        "tokens": [
+            "SOCCER",
+            "-",
+            "KLINSMANN",
+            "TO",
+            "RETIRE",
+            "AFTER",
+            "1998",
+            "WORLD",
+            "CUP",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 6,
+                "end": 9,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "794",
+        "tokens": [
+            "The",
+            "Iraqis",
+            "claimed",
+            "they",
+            "were",
+            "\"",
+            "ordinary",
+            "people",
+            "persecuted",
+            "by",
+            "the",
+            "regime",
+            "of",
+            "Saddam",
+            "(",
+            "Hussein",
+            ")",
+            "\"",
+            "but",
+            "interior",
+            "ministry",
+            "officials",
+            "had",
+            "consistently",
+            "said",
+            "it",
+            "was",
+            "likely",
+            "the",
+            "seven",
+            "would",
+            "be",
+            "charged",
+            "with",
+            "hijack",
+            "before",
+            "any",
+            "plea",
+            "for",
+            "asylum",
+            "was",
+            "considered",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "PER"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "PER"
+            },
+            {
+                "start": 19,
+                "end": 21,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2074",
+        "tokens": [
+            "Airdrieonians",
+            "2",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "4"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2979",
+        "tokens": [
+            "Results",
+            "of",
+            "South",
+            "Korean",
+            "pro-baseball",
+            "games",
+            "played",
+            "on",
+            "Friday",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 4,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "1964",
+        "tokens": [
+            "The",
+            "Orioles",
+            "remained",
+            "tied",
+            "with",
+            "the",
+            "White",
+            "Sox",
+            "for",
+            "the",
+            "American",
+            "League",
+            "wild",
+            "card",
+            "with",
+            "the",
+            "Mariners",
+            "a",
+            "game",
+            "back",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "ORG"
+            },
+            {
+                "start": 10,
+                "end": 12,
+                "type": "MISC"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "3259",
+        "tokens": [
+            "Around",
+            "1,000",
+            "Israeli",
+            "troops",
+            "patrol",
+            "a",
+            "15",
+            "km",
+            "(",
+            "nine-mile",
+            ")",
+            "south",
+            "Lebanon",
+            "occupation",
+            "zone",
+            "which",
+            "the",
+            "Jewish",
+            "state",
+            "carved",
+            "out",
+            "in",
+            "1985",
+            "to",
+            "prevent",
+            "attacks",
+            "on",
+            "its",
+            "northern",
+            "bordder",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "MISC"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "LOC"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "3132",
+        "tokens": [
+            "Philippine",
+            "president",
+            "Fidel",
+            "Ramos",
+            "expressed",
+            "gratitude",
+            "to",
+            "Indonesian",
+            "president",
+            "Suharto",
+            "and",
+            "the",
+            "Organisation",
+            "of",
+            "Islamic",
+            "Conference",
+            "(",
+            "OIC",
+            ")",
+            "on",
+            "Saturday",
+            "for",
+            "supporting",
+            "talks",
+            "that",
+            "ended",
+            "a",
+            "conflict",
+            "with",
+            "local",
+            "Moslem",
+            "rebels",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 2,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "MISC"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 16,
+                "type": "ORG"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "ORG"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2621",
+        "tokens": [
+            "American",
+            "League"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "1990",
+        "tokens": [
+            "Warwickshire",
+            "captain",
+            "Tim",
+            "Munton",
+            "is",
+            "tipping",
+            "Surrey",
+            "to",
+            "emerge",
+            "on",
+            "top",
+            ",",
+            "impressed",
+            "by",
+            "the",
+            "positive",
+            "influence",
+            "of",
+            "Australian",
+            "coach",
+            "Dave",
+            "Gilbert",
+            ",",
+            "but",
+            "Derbyshire",
+            "'s",
+            "Australian",
+            "captain",
+            "Dean",
+            "Jones",
+            "is",
+            "conceding",
+            "nothing",
+            "as",
+            "his",
+            "side",
+            "chase",
+            "their",
+            "first",
+            "title",
+            "for",
+            "60",
+            "years",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 2,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "ORG"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "MISC"
+            },
+            {
+                "start": 20,
+                "end": 22,
+                "type": "PER"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "type": "ORG"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "MISC"
+            },
+            {
+                "start": 28,
+                "end": 30,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "82",
+        "tokens": [
+            "The",
+            "world",
+            "'s",
+            "costliest",
+            "footballer",
+            "Alan",
+            "Shearer",
+            "was",
+            "named",
+            "as",
+            "the",
+            "new",
+            "England",
+            "captain",
+            "on",
+            "Friday",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 7,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "85",
+        "tokens": [
+            "Shearer",
+            "takes",
+            "the",
+            "captaincy",
+            "on",
+            "a",
+            "trial",
+            "basis",
+            ",",
+            "but",
+            "new",
+            "coach",
+            "Glenn",
+            "Hoddle",
+            "said",
+            "he",
+            "saw",
+            "no",
+            "reason",
+            "why",
+            "the",
+            "former",
+            "Blackburn",
+            "and",
+            "Southampton",
+            "skipper",
+            "should",
+            "not",
+            "make",
+            "the",
+            "post",
+            "his",
+            "own",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "type": "PER"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "type": "ORG"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2908",
+        "tokens": [
+            "1969",
+            "-",
+            "Scottish",
+            "motor",
+            "racing",
+            "driver",
+            "Jackie",
+            "Stewart",
+            "won",
+            "the",
+            "Italian",
+            "Grand",
+            "Prix",
+            "to",
+            "secure",
+            "his",
+            "first",
+            "world",
+            "championship",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "MISC"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 10,
+                "end": 13,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2917",
+        "tokens": [
+            "1994",
+            "-",
+            "The",
+            "Stars",
+            "and",
+            "Stripes",
+            "flag",
+            "was",
+            "lowered",
+            "for",
+            "the",
+            "last",
+            "time",
+            "over",
+            "U.S.",
+            "army",
+            "headquarters",
+            "in",
+            "Berlin",
+            ",",
+            "formally",
+            "ending",
+            "the",
+            "American",
+            "presence",
+            "in",
+            "the",
+            "once-divided",
+            "city",
+            "after",
+            "nearly",
+            "half",
+            "a",
+            "century",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 6,
+                "type": "MISC"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "LOC"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "LOC"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "3433",
+        "tokens": [
+            "The",
+            "film",
+            ",",
+            "starring",
+            "Liam",
+            "Neeson",
+            "and",
+            "Julia",
+            "Roberts",
+            ",",
+            "recounts",
+            "the",
+            "life",
+            "of",
+            "Michael",
+            "Collins",
+            ",",
+            "the",
+            "Irish",
+            "Republican",
+            "Army",
+            "'s",
+            "Director",
+            "of",
+            "Intelligence",
+            "who",
+            "fought",
+            "for",
+            "Irish",
+            "independence",
+            "from",
+            "1919",
+            "to",
+            "1921",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 6,
+                "type": "PER"
+            },
+            {
+                "start": 7,
+                "end": 9,
+                "type": "PER"
+            },
+            {
+                "start": 14,
+                "end": 16,
+                "type": "PER"
+            },
+            {
+                "start": 18,
+                "end": 21,
+                "type": "ORG"
+            },
+            {
+                "start": 28,
+                "end": 29,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "3434",
+        "tokens": [
+            "Although",
+            "not",
+            "due",
+            "for",
+            "release",
+            "in",
+            "Britain",
+            "until",
+            "early",
+            "next",
+            "year",
+            ",",
+            "some",
+            "politicians",
+            "have",
+            "already",
+            "said",
+            "they",
+            "feared",
+            "it",
+            "would",
+            "fan",
+            "sectarian",
+            "tensions",
+            "in",
+            "British-ruled",
+            "Northern",
+            "Ireland",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 7,
+                "type": "LOC"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "type": "MISC"
+            },
+            {
+                "start": 26,
+                "end": 28,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "619",
+        "tokens": [
+            "World",
+            "Series",
+            "cricket",
+            "match",
+            "between",
+            "Australia",
+            "and",
+            "Sri",
+            "Lanka",
+            "on"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "LOC"
+            },
+            {
+                "start": 7,
+                "end": 9,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "2031",
+        "tokens": [
+            "Welsh",
+            "division",
+            "one"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2287",
+        "tokens": [
+            "Canada",
+            "beat",
+            "Panama",
+            "3-1",
+            "(",
+            "halftime",
+            "2-0",
+            ")",
+            "in",
+            "their",
+            "CONCACAF",
+            "semifinal",
+            "phase",
+            "qualifying",
+            "match",
+            "for",
+            "the",
+            "1998",
+            "World",
+            "Cup",
+            "on",
+            "Friday",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "type": "LOC"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "ORG"
+            },
+            {
+                "start": 18,
+                "end": 20,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2293",
+        "tokens": [
+            "RUGBY",
+            "UNION",
+            "-",
+            "SPRINGBOKS",
+            "FINALLY",
+            "BREAK",
+            "ALL",
+            "BLACK",
+            "SPELL",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "3071",
+        "tokens": [
+            "Two",
+            "consortia",
+            "--",
+            "UWP-Hachette",
+            "and",
+            "a",
+            "consortium",
+            "of",
+            "a",
+            "Polish",
+            "SPC",
+            "group",
+            "and",
+            "Swiss",
+            "firms",
+            "--",
+            "placed",
+            "initial",
+            "bids",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "MISC"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "ORG"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "MISC"
+            }
+        ]
+    }
+]

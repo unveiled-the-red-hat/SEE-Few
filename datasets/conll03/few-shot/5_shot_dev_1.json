@@ -1,0 +1,341 @@
+[
+    {
+        "org_id": "102",
+        "tokens": [
+            "Romania",
+            "beat",
+            "Lithuania",
+            "2-1",
+            "(",
+            "halftime",
+            "1-1",
+            ")",
+            "in",
+            "their",
+            "European",
+            "under-21",
+            "soccer",
+            "match",
+            "on",
+            "Friday",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "type": "LOC"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "7",
+        "tokens": [
+            "Essex",
+            ",",
+            "however",
+            ",",
+            "look",
+            "certain",
+            "to",
+            "regain",
+            "their",
+            "top",
+            "spot",
+            "after",
+            "Nasser",
+            "Hussain",
+            "and",
+            "Peter",
+            "Such",
+            "gave",
+            "them",
+            "a",
+            "firm",
+            "grip",
+            "on",
+            "their",
+            "match",
+            "against",
+            "Yorkshire",
+            "at",
+            "Headingley",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "type": "PER"
+            },
+            {
+                "start": 15,
+                "end": 17,
+                "type": "PER"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "ORG"
+            },
+            {
+                "start": 28,
+                "end": 29,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "1170",
+        "tokens": [
+            "Mexican",
+            "officials",
+            "contend",
+            "that",
+            "there",
+            "is",
+            "no",
+            "scientific",
+            "basis",
+            "for",
+            "the",
+            "ban",
+            ",",
+            "and",
+            "that",
+            "it",
+            "is",
+            "illegal",
+            "under",
+            "international",
+            "trading",
+            "rules",
+            "of",
+            "the",
+            "World",
+            "Trade",
+            "Organisation",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 24,
+                "end": 27,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "3381",
+        "tokens": [
+            "A",
+            "spokesman",
+            "said",
+            "he",
+            "could",
+            "substantially",
+            "confirm",
+            "a",
+            "report",
+            "in",
+            "the",
+            "news",
+            "weekly",
+            "Der",
+            "Spiegel",
+            ",",
+            "which",
+            "said",
+            "Iranian",
+            "secret",
+            "police",
+            "burst",
+            "in",
+            "while",
+            "attache",
+            "Jens",
+            "Gust",
+            "was",
+            "entertaining",
+            "six",
+            "Iranian",
+            "writers",
+            "and",
+            "their",
+            "wives",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 13,
+                "end": 15,
+                "type": "ORG"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "MISC"
+            },
+            {
+                "start": 25,
+                "end": 27,
+                "type": "PER"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "3416",
+        "tokens": [
+            "A",
+            "policeman",
+            "in",
+            "the",
+            "southern",
+            "Belgian",
+            "town",
+            "of",
+            "Chatelet",
+            "told",
+            "Reuters",
+            "that",
+            "thieves",
+            "used",
+            "a",
+            "car",
+            "to",
+            "ram",
+            "the",
+            "window",
+            "of",
+            "an",
+            "arms",
+            "store",
+            "in",
+            "neighbouring",
+            "Chatelineaux",
+            "last",
+            "night",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 6,
+                "type": "MISC"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "LOC"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "ORG"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "2652",
+        "tokens": [
+            "In",
+            "Philadelphia",
+            ",",
+            "Delino",
+            "DeShields",
+            "'s",
+            "triple",
+            "in",
+            "the",
+            "top",
+            "of",
+            "the",
+            "12th",
+            "off",
+            "Jeff",
+            "Parrett",
+            "(",
+            "2-3",
+            ")",
+            "scored",
+            "Chad",
+            "Curtis",
+            "and",
+            "lifted",
+            "the",
+            "Los",
+            "Angeles",
+            "Dodgers",
+            "to",
+            "a",
+            "7-6",
+            "victory",
+            "over",
+            "the",
+            "Phillies",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "LOC"
+            },
+            {
+                "start": 3,
+                "end": 5,
+                "type": "PER"
+            },
+            {
+                "start": 14,
+                "end": 16,
+                "type": "PER"
+            },
+            {
+                "start": 20,
+                "end": 22,
+                "type": "PER"
+            },
+            {
+                "start": 25,
+                "end": 28,
+                "type": "ORG"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "type": "ORG"
+            }
+        ]
+    }
+]

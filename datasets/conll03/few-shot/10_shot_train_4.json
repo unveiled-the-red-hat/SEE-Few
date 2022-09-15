@@ -1,0 +1,757 @@
+[
+    {
+        "org_id": "2784",
+        "tokens": [
+            "Commonwealth",
+            "foreign",
+            "ministers",
+            "will",
+            "meet",
+            "in",
+            "London",
+            "on",
+            "Wednesday",
+            "to",
+            "discuss",
+            "what",
+            "to",
+            "do",
+            ",",
+            "he",
+            "added",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "8225",
+        "tokens": [
+            "Pakistani",
+            "bourse",
+            "to",
+            "use",
+            "new",
+            "recomposed",
+            "index",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "896",
+        "tokens": [
+            "The",
+            "Rangers",
+            "have",
+            "won",
+            "10",
+            "of",
+            "their",
+            "last",
+            "12",
+            "games",
+            "and",
+            "six",
+            "of",
+            "nine",
+            "meetings",
+            "against",
+            "the",
+            "Indians",
+            "this",
+            "season",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "13699",
+        "tokens": [
+            "The",
+            "slain",
+            "policeman",
+            "Ejup",
+            "Bajgora",
+            ",",
+            "42",
+            ",",
+            "was",
+            "an",
+            "Albanian",
+            "who",
+            "had",
+            "served",
+            "in",
+            "the",
+            "Serbian",
+            "police",
+            "and",
+            "state",
+            "security",
+            "since",
+            "1987",
+            ",",
+            "police",
+            "told",
+            "the",
+            "Yugoslav",
+            "news",
+            "agency",
+            "Tanjug",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 5,
+                "type": "PER"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "MISC"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "MISC"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "type": "MISC"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "12676",
+        "tokens": [
+            "KERDOS"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "4",
+        "tokens": [
+            "The",
+            "European",
+            "Commission",
+            "said",
+            "on",
+            "Thursday",
+            "it",
+            "disagreed",
+            "with",
+            "German",
+            "advice",
+            "to",
+            "consumers",
+            "to",
+            "shun",
+            "British",
+            "lamb",
+            "until",
+            "scientists",
+            "determine",
+            "whether",
+            "mad",
+            "cow",
+            "disease",
+            "can",
+            "be",
+            "transmitted",
+            "to",
+            "sheep",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "ORG"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "MISC"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "6310",
+        "tokens": [
+            "As",
+            "a",
+            "result",
+            ",",
+            "separatist",
+            "Serb",
+            "authorities",
+            "have",
+            "packed",
+            "former",
+            "Moslem",
+            "majority",
+            "towns",
+            "with",
+            "refugees",
+            "of",
+            "their",
+            "own",
+            "or",
+            "registered",
+            "other",
+            "Serbs",
+            "to",
+            "vote",
+            "there",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 6,
+                "type": "MISC"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "MISC"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "11200",
+        "tokens": [
+            "SOCCER",
+            "-",
+            "MARCELO",
+            "HAT-TRICK",
+            "KEEPS",
+            "PSV",
+            "AT",
+            "TOP",
+            "OF",
+            "DUTCH",
+            "LEAGUE",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "ORG"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "8168",
+        "tokens": [
+            "His",
+            "new",
+            "style",
+            "mixed",
+            "an",
+            "assault",
+            "on",
+            "Republicans",
+            "with",
+            "what",
+            "he",
+            "sees",
+            "as",
+            "\"",
+            "productive",
+            "opportunity",
+            ",",
+            "a",
+            "vision",
+            "for",
+            "the",
+            "future",
+            "that",
+            "lifts",
+            "up",
+            "working",
+            "families",
+            ",",
+            "that",
+            "builds",
+            "Wisconsin",
+            "stronger",
+            ",",
+            "that",
+            "builds",
+            "America",
+            "stronger",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "MISC"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "type": "LOC"
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "8128",
+        "tokens": [
+            "Talbott",
+            ",",
+            "the",
+            "second-ranking",
+            "State",
+            "Department",
+            "official",
+            ",",
+            "was",
+            "to",
+            "meet",
+            "Russian",
+            "Deputy",
+            "Foreign",
+            "Minister",
+            "Georgy",
+            "Mamedov",
+            "as",
+            "part",
+            "of",
+            "a",
+            "regular",
+            "pattern",
+            "of",
+            "consultations",
+            ",",
+            "the",
+            "department",
+            "said",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 6,
+                "type": "ORG"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "MISC"
+            },
+            {
+                "start": 15,
+                "end": 17,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "14602",
+        "tokens": [
+            "An",
+            "earthquake",
+            "measuring",
+            "5.5",
+            "on",
+            "the",
+            "Richter",
+            "scale",
+            "shook",
+            "New",
+            "Zealands",
+            "upper",
+            "South",
+            "Island",
+            "on",
+            "Thursday",
+            "but",
+            "there",
+            "were",
+            "no",
+            "reports",
+            "of",
+            "injuries",
+            ",",
+            "Television",
+            "New",
+            "Zealand",
+            "said",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 7,
+                "type": "PER"
+            },
+            {
+                "start": 9,
+                "end": 11,
+                "type": "MISC"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "type": "LOC"
+            },
+            {
+                "start": 24,
+                "end": 27,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "12875",
+        "tokens": [
+            "With",
+            "307",
+            "days",
+            "to",
+            "go",
+            "before",
+            "the",
+            "British",
+            "colony",
+            "reverts",
+            "to",
+            "China",
+            ",",
+            "the",
+            "Hong",
+            "Kong",
+            "media",
+            "focused",
+            "mainly",
+            "on",
+            "domestic",
+            "issues",
+            "concerning",
+            "alleged",
+            "pressure",
+            "on",
+            "a",
+            "judge",
+            ",",
+            "cross",
+            "straights",
+            "relations",
+            "and",
+            "the",
+            "democratic",
+            "lobby",
+            "'s",
+            "relationship",
+            "with",
+            "Beijing",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "MISC"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "LOC"
+            },
+            {
+                "start": 14,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 39,
+                "end": 40,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "3536",
+        "tokens": [
+            "(",
+            "in",
+            "million",
+            "HK$",
+            "unless",
+            "stated",
+            ")"
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "5840",
+        "tokens": [
+            "Milan",
+            "'s",
+            "player",
+            "of",
+            "the",
+            "year",
+            "George",
+            "Weah",
+            "missed",
+            "a",
+            "good",
+            "first",
+            "half",
+            "opportunity",
+            "but",
+            "otherwise",
+            "looked",
+            "a",
+            "little",
+            "rusty",
+            "while",
+            "Italian",
+            "team",
+            "mate",
+            "Roberto",
+            "Baggio",
+            "did",
+            "not",
+            "play",
+            "due",
+            "to",
+            "injury",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "type": "MISC"
+            },
+            {
+                "start": 24,
+                "end": 26,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "5752",
+        "tokens": [
+            "In",
+            "Boston",
+            ",",
+            "former",
+            "Mariner",
+            "Darren",
+            "Bragg",
+            "'s",
+            "first",
+            "career",
+            "grand",
+            "slam",
+            "in",
+            "the",
+            "sixth",
+            "inning",
+            "off",
+            "reliever",
+            "Randy",
+            "Johnson",
+            "lifted",
+            "the",
+            "Boston",
+            "Red",
+            "Sox",
+            "to",
+            "their",
+            "fifth",
+            "win",
+            "in",
+            "six",
+            "games",
+            ",",
+            "a",
+            "9-5",
+            "victory",
+            "over",
+            "Seattle",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "LOC"
+            },
+            {
+                "start": 4,
+                "end": 7,
+                "type": "PER"
+            },
+            {
+                "start": 18,
+                "end": 20,
+                "type": "PER"
+            },
+            {
+                "start": 22,
+                "end": 25,
+                "type": "ORG"
+            },
+            {
+                "start": 37,
+                "end": 38,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "7650",
+        "tokens": [
+            "S.",
+            "Waugh",
+            "c",
+            "Campbell",
+            "b",
+            "Whittall",
+            "82"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "9982",
+        "tokens": [
+            "The",
+            "French",
+            "team",
+            "won",
+            "95",
+            "medals",
+            "in",
+            "Atlanta",
+            ",",
+            "35",
+            "of",
+            "them",
+            "gold",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            }
+        ]
+    }
+]

@@ -1,0 +1,852 @@
+[
+    {
+        "org_id": "802",
+        "tokens": [
+            "B&SR",
+            "then",
+            "replaced",
+            "the",
+            "original",
+            "30",
+            "#",
+            "steel",
+            "rails",
+            "from",
+            "Bridgton",
+            "Junction",
+            "to",
+            "Bridgton",
+            "with",
+            "48",
+            "#",
+            "and",
+            "50",
+            "#",
+            "steel",
+            "rails",
+            "from",
+            "1907",
+            "to",
+            "1910",
+            "before",
+            "Maine",
+            "Central",
+            "Railroad",
+            "secured",
+            "control",
+            "of",
+            "the",
+            "B&SR",
+            "in",
+            "1912",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 10,
+                "end": 12,
+                "type": "LOC"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "LOC"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "type": "LOC"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "type": "LOC"
+            },
+            {
+                "start": 27,
+                "end": 30,
+                "type": "LOC"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "485",
+        "tokens": [
+            "The",
+            "League",
+            "is",
+            "distinctive",
+            "for",
+            "asserting",
+            "that",
+            "The",
+            "Protocols",
+            "of",
+            "the",
+            "Elders",
+            "of",
+            "Zion",
+            "is",
+            "a",
+            "genuine",
+            "Jewish",
+            "document",
+            "(",
+            "the",
+            "Encyclopædi",
+            "Britannica",
+            "for",
+            "example",
+            "describes",
+            "the",
+            "Protocols",
+            "as",
+            "a",
+            "\"",
+            "fraudulent",
+            "document",
+            "that",
+            "served",
+            "as",
+            "a",
+            "pretext",
+            "and",
+            "rationale",
+            "for",
+            "anti-Semitism",
+            "in",
+            "the",
+            "early",
+            "20th",
+            "century",
+            "\"",
+            ")",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 7,
+                "end": 14,
+                "type": "MISC"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "MISC"
+            },
+            {
+                "start": 21,
+                "end": 23,
+                "type": "MISC"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "134",
+        "tokens": [
+            "\"",
+            "Revolution",
+            "\"",
+            "was",
+            "also",
+            "recorded",
+            "for",
+            "the",
+            "self-titled",
+            "album",
+            ",",
+            "but",
+            "was",
+            "n't",
+            "included",
+            "because",
+            "it",
+            "did",
+            "n't",
+            "fit",
+            "the",
+            "theme",
+            "of",
+            "the",
+            "album",
+            ",",
+            "and",
+            "because",
+            "of",
+            "fear",
+            "that",
+            "listeners",
+            "would",
+            "take",
+            "the",
+            "lyrics",
+            "too",
+            "literally",
+            ",",
+            "especially",
+            "after",
+            "the",
+            "September",
+            "11",
+            ",",
+            "2001",
+            "attacks",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 42,
+                "end": 46,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "869",
+        "tokens": [
+            "Dr.",
+            "Verna",
+            "Magee-Shepherd",
+            "is",
+            "Acting",
+            "President",
+            "of",
+            "the",
+            "Institute",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "521",
+        "tokens": [
+            "The",
+            "Inaugural",
+            "Members",
+            "were",
+            "Colonel",
+            "S",
+            "S",
+            "C",
+            "Dolby",
+            "Apd",
+            ",",
+            "Sir",
+            "George",
+            "Alan",
+            "Thomas",
+            ",",
+            "Betty",
+            "Uber",
+            "and",
+            "Herbert",
+            "A",
+            "E",
+            "Scheele",
+            "Obe",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 10,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 15,
+                "type": "PER"
+            },
+            {
+                "start": 16,
+                "end": 18,
+                "type": "PER"
+            },
+            {
+                "start": 19,
+                "end": 24,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "266",
+        "tokens": [
+            "She",
+            "had",
+            "many",
+            "friends",
+            "and",
+            "colleagues",
+            "among",
+            "the",
+            "Polish",
+            "writers",
+            "of",
+            "the",
+            "Great",
+            "Emigration",
+            ",",
+            "some",
+            "of",
+            "whom",
+            "visited",
+            "her",
+            "manor",
+            "in",
+            "Marszew",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 8,
+                "end": 9,
+                "type": "MISC"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "type": "MISC"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "460",
+        "tokens": [
+            "Armistice",
+            "Day",
+            "is",
+            "an",
+            "official",
+            "holiday",
+            "in",
+            "France",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "429",
+        "tokens": [
+            "Angelo",
+            "now",
+            "is",
+            "working",
+            "for",
+            "a",
+            "large",
+            "organization",
+            "in",
+            "Miami",
+            ",",
+            "ERJ",
+            "International",
+            ",",
+            "it",
+            "'s",
+            "a",
+            "non-profit",
+            "organization",
+            ",",
+            "he",
+            "'s",
+            "passionate",
+            "about",
+            "helping",
+            "others",
+            "&",
+            "help",
+            "better",
+            "the",
+            "lives",
+            "of",
+            "those",
+            "in",
+            "need",
+            ",",
+            "he",
+            "produces",
+            "Concerts",
+            ",",
+            "Leadership",
+            "Conferences",
+            ",",
+            "Large",
+            "or",
+            "Exclusive",
+            "events",
+            ",",
+            "he",
+            "also",
+            "develops",
+            "businesses",
+            ",",
+            "product",
+            "branding",
+            "&",
+            "marketing",
+            ",",
+            "as",
+            "well",
+            "as",
+            "taking",
+            "time",
+            "to",
+            "work",
+            "on",
+            "screen",
+            "plays",
+            "based",
+            "on",
+            "true",
+            "stories",
+            "&",
+            "a",
+            "few",
+            "books",
+            "he",
+            "is",
+            "currently",
+            "writing",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "LOC"
+            },
+            {
+                "start": 11,
+                "end": 13,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "270",
+        "tokens": [
+            "She",
+            "also",
+            "wrote",
+            "many",
+            "poems",
+            ",",
+            "some",
+            "of",
+            "which",
+            "she",
+            "dedicated",
+            "to",
+            "the",
+            "great",
+            "Polish",
+            "poet",
+            "Adam",
+            "Mickiewicz",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 14,
+                "end": 15,
+                "type": "MISC"
+            },
+            {
+                "start": 16,
+                "end": 18,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "272",
+        "tokens": [
+            "Some",
+            "of",
+            "them",
+            "were",
+            "printed",
+            "in",
+            "the",
+            "women",
+            "'s",
+            "press",
+            "(",
+            "\"",
+            "Lechu",
+            "\"",
+            ",",
+            "\"",
+            "Dwutygodniku",
+            "dla",
+            "Kobiet",
+            "\"",
+            ")",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 12,
+                "end": 13,
+                "type": "PER"
+            },
+            {
+                "start": 16,
+                "end": 19,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "464",
+        "tokens": [
+            "Since",
+            "the",
+            "1990s",
+            "a",
+            "growing",
+            "number",
+            "of",
+            "people",
+            "have",
+            "observed",
+            "a",
+            "two-minute",
+            "silence",
+            "on",
+            "11",
+            "November",
+            ",",
+            "resulting",
+            "in",
+            "both",
+            "Armistice",
+            "Day",
+            "and",
+            "Remembrance",
+            "Sunday",
+            "being",
+            "commemorated",
+            "formally",
+            "in",
+            "the",
+            "UK",
+            "(",
+            "although",
+            "in",
+            "2007",
+            "they",
+            "fell",
+            "on",
+            "the",
+            "same",
+            "day",
+            ")",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 20,
+                "end": 22,
+                "type": "MISC"
+            },
+            {
+                "start": 23,
+                "end": 25,
+                "type": "MISC"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "469",
+        "tokens": [
+            "The",
+            "ISAP",
+            ",",
+            "ILPAP",
+            "and",
+            "ETHEL",
+            "companies",
+            "belong",
+            "to",
+            "the",
+            "public",
+            "company",
+            "OASA",
+            "(",
+            "Organismos",
+            "Astikon",
+            "Syngoinonion",
+            "Athinon",
+            "/",
+            "Athens",
+            "Urban",
+            "Transport",
+            "Organisation",
+            "/",
+            "Οργανισμός",
+            "Αστικών",
+            "Συγκοινωνιών",
+            "Αθηνών",
+            ".",
+            "The",
+            "AMEL",
+            "and",
+            "Tram",
+            "companies",
+            "belong",
+            "to",
+            "Attiko",
+            "Metro",
+            "(",
+            "Αττικό",
+            "Μετρό",
+            "Α.Ε.",
+            "in",
+            "Greek",
+            ")",
+            ",",
+            "a",
+            "company",
+            "that",
+            "is",
+            "currently",
+            "wholly",
+            "owned",
+            "by",
+            "the",
+            "Greek",
+            "government",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "ORG"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "ORG"
+            },
+            {
+                "start": 14,
+                "end": 18,
+                "type": "ORG"
+            },
+            {
+                "start": 19,
+                "end": 23,
+                "type": "ORG"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "type": "ORG"
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "type": "ORG"
+            },
+            {
+                "start": 36,
+                "end": 38,
+                "type": "ORG"
+            },
+            {
+                "start": 43,
+                "end": 44,
+                "type": "MISC"
+            },
+            {
+                "start": 55,
+                "end": 57,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "412",
+        "tokens": [
+            "He",
+            "was",
+            "crafting",
+            "his",
+            "way",
+            "of",
+            "doing",
+            "business",
+            "through",
+            "Special",
+            "Events",
+            "&",
+            "networking",
+            "in",
+            "Miami",
+            "'s",
+            "nightlife",
+            "in",
+            "the",
+            "early",
+            "90",
+            "'s",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 14,
+                "end": 15,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "541",
+        "tokens": [
+            "The",
+            "Bangladesh",
+            "Scouts",
+            "are",
+            "the",
+            "national",
+            "Scouting",
+            "organization",
+            "of",
+            "Bangladesh",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "ORG"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "447",
+        "tokens": [
+            "The",
+            "words",
+            "were",
+            "set",
+            "to",
+            "a",
+            "melody",
+            "by",
+            "composer",
+            "Alfredo",
+            "Keil",
+            "and",
+            "the",
+            "song",
+            "soon",
+            "became",
+            "popular",
+            "among",
+            "people",
+            "unhappy",
+            "with",
+            "what",
+            "they",
+            "considered",
+            "a",
+            "submissive",
+            "and",
+            "humiliating",
+            "attitude",
+            "by",
+            "the",
+            "Portuguese",
+            "authorities",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 9,
+                "end": 11,
+                "type": "PER"
+            },
+            {
+                "start": 31,
+                "end": 32,
+                "type": "MISC"
+            }
+        ]
+    }
+]

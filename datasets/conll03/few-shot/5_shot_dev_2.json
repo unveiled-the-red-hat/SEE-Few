@@ -1,0 +1,401 @@
+[
+    {
+        "org_id": "3073",
+        "tokens": [
+            "Kaczmarek",
+            "said",
+            "in",
+            "May",
+            "he",
+            "was",
+            "unhappy",
+            "that",
+            "only",
+            "one",
+            "investor",
+            "ended",
+            "up",
+            "bidding",
+            "for",
+            "Ruch",
+            ",",
+            "in",
+            "which",
+            "the",
+            "government",
+            "was",
+            "initially",
+            "offering",
+            "up",
+            "to",
+            "35",
+            "percent",
+            "of",
+            "shares",
+            "with",
+            "an",
+            "option",
+            "to",
+            "extend",
+            "the",
+            "holding",
+            "after",
+            "investment",
+            "promises",
+            "are",
+            "fulfilled",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2595",
+        "tokens": [
+            "NEW",
+            "YORK",
+            "59",
+            "76",
+            ".437",
+            "25",
+            "1/2"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "388",
+        "tokens": [
+            "Phil",
+            "Mickelson",
+            ",",
+            "the",
+            "only",
+            "four-time",
+            "winner",
+            "on",
+            "the",
+            "PGA",
+            "Tour",
+            ",",
+            "skipped",
+            "the",
+            "tournament",
+            "after",
+            "winning",
+            "the",
+            "World",
+            "Series",
+            "of",
+            "Golf",
+            "last",
+            "week",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 9,
+                "end": 11,
+                "type": "MISC"
+            },
+            {
+                "start": 18,
+                "end": 22,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "3300",
+        "tokens": [
+            "-",
+            "Trade",
+            "talks",
+            "between",
+            "Tunisia",
+            "and",
+            "the",
+            "Palestinian",
+            "Authority",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            },
+            {
+                "start": 7,
+                "end": 9,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "1513",
+        "tokens": [
+            "FTSE",
+            "close",
+            "$",
+            "21.25",
+            "$",
+            "1000.0"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "554",
+        "tokens": [
+            "8.",
+            "Fita",
+            "Bayissa",
+            "(",
+            "Ethiopia",
+            ")",
+            "13:21.35"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "2159",
+        "tokens": [
+            "Wigan",
+            "4",
+            "3",
+            "1",
+            "0",
+            "9",
+            "4",
+            "10"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "3221",
+        "tokens": [
+            "Chen",
+            ",",
+            "a",
+            "former",
+            "army",
+            "secretary",
+            "of",
+            "the",
+            "Chinese",
+            "Nationalist",
+            "regime",
+            "which",
+            "fled",
+            "from",
+            "mainland",
+            "China",
+            "to",
+            "Taiwan",
+            "in",
+            "1949",
+            ",",
+            "pleaded",
+            "guilty",
+            "to",
+            "trafficking",
+            "42",
+            "kg",
+            "(",
+            "92",
+            "pounds",
+            ")",
+            "of",
+            "drugs",
+            "that",
+            "could",
+            "have",
+            "been",
+            "turned",
+            "into",
+            "25",
+            "kg",
+            "(",
+            "55",
+            "pounds",
+            ")",
+            "of",
+            "heroin",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "MISC"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "1405",
+        "tokens": [
+            "\"",
+            "Israel",
+            "could",
+            "not",
+            "confront",
+            "a",
+            "united",
+            "Arab",
+            "stand",
+            "or",
+            "usurp",
+            "their",
+            "rights",
+            "because",
+            "the",
+            "Arab",
+            "rights",
+            "could",
+            "be",
+            "regained",
+            "when",
+            "they",
+            "achieve",
+            "unity",
+            "and",
+            "solidarity",
+            ",",
+            "\"",
+            "Damascus",
+            "radio",
+            "said",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "LOC"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "MISC"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "MISC"
+            },
+            {
+                "start": 28,
+                "end": 29,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "127",
+        "tokens": [
+            "If",
+            "he",
+            "loses",
+            "Saturday",
+            ",",
+            "it",
+            "could",
+            "devalue",
+            "his",
+            "position",
+            "as",
+            "one",
+            "of",
+            "the",
+            "world",
+            "'s",
+            "great",
+            "boxers",
+            ",",
+            "\"",
+            "Panamanian",
+            "Boxing",
+            "Association",
+            "President",
+            "Ramon",
+            "Manzanares",
+            "said",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 20,
+                "end": 21,
+                "type": "MISC"
+            },
+            {
+                "start": 21,
+                "end": 23,
+                "type": "ORG"
+            },
+            {
+                "start": 24,
+                "end": 26,
+                "type": "PER"
+            }
+        ]
+    }
+]

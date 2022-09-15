@@ -1,0 +1,1453 @@
+[
+    {
+        "org_id": "262",
+        "tokens": [
+            "Born",
+            "on",
+            "April",
+            "16",
+            ",",
+            "1819",
+            "in",
+            "Gostkócity",
+            "near",
+            "Łęczyca",
+            "in",
+            "a",
+            "Polish",
+            "szlachta",
+            "family",
+            "of",
+            "Lipscy",
+            "to",
+            "Jacob",
+            "Lipski",
+            "and",
+            "Marjania",
+            "Zaluska",
+            ",",
+            "she",
+            "spent",
+            "her",
+            "life",
+            "in",
+            "the",
+            "Prussian",
+            "partition",
+            ",",
+            "including",
+            "the",
+            "Grand",
+            "Duchy",
+            "of",
+            "Poznań",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 9,
+                "end": 10,
+                "type": "LOC"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "MISC"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "LOC"
+            },
+            {
+                "start": 18,
+                "end": 20,
+                "type": "PER"
+            },
+            {
+                "start": 21,
+                "end": 23,
+                "type": "PER"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "type": "MISC"
+            },
+            {
+                "start": 35,
+                "end": 39,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "134",
+        "tokens": [
+            "\"",
+            "Revolution",
+            "\"",
+            "was",
+            "also",
+            "recorded",
+            "for",
+            "the",
+            "self-titled",
+            "album",
+            ",",
+            "but",
+            "was",
+            "n't",
+            "included",
+            "because",
+            "it",
+            "did",
+            "n't",
+            "fit",
+            "the",
+            "theme",
+            "of",
+            "the",
+            "album",
+            ",",
+            "and",
+            "because",
+            "of",
+            "fear",
+            "that",
+            "listeners",
+            "would",
+            "take",
+            "the",
+            "lyrics",
+            "too",
+            "literally",
+            ",",
+            "especially",
+            "after",
+            "the",
+            "September",
+            "11",
+            ",",
+            "2001",
+            "attacks",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 42,
+                "end": 46,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "647",
+        "tokens": [
+            "The",
+            "irony",
+            "of",
+            "that",
+            "frigid",
+            "afternoon",
+            "in",
+            "Cronulla",
+            "did",
+            "n't",
+            "dawn",
+            "on",
+            "Player",
+            "as",
+            "he",
+            "paddled",
+            "out",
+            "in",
+            "flawless",
+            ",",
+            "two-metre",
+            "waves",
+            "for",
+            "the",
+            "final",
+            "of",
+            "the",
+            "Pipeline",
+            "Pro",
+            ";",
+            "he",
+            "was",
+            "too",
+            "preoccupied",
+            "with",
+            "matters",
+            "at",
+            "hand",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "PER"
+            },
+            {
+                "start": 27,
+                "end": 29,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "521",
+        "tokens": [
+            "The",
+            "Inaugural",
+            "Members",
+            "were",
+            "Colonel",
+            "S",
+            "S",
+            "C",
+            "Dolby",
+            "Apd",
+            ",",
+            "Sir",
+            "George",
+            "Alan",
+            "Thomas",
+            ",",
+            "Betty",
+            "Uber",
+            "and",
+            "Herbert",
+            "A",
+            "E",
+            "Scheele",
+            "Obe",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 10,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 15,
+                "type": "PER"
+            },
+            {
+                "start": 16,
+                "end": 18,
+                "type": "PER"
+            },
+            {
+                "start": 19,
+                "end": 24,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "914",
+        "tokens": [
+            "Caloi",
+            "was",
+            "founded",
+            "in",
+            "1898",
+            "by",
+            "Italian",
+            "immigrant",
+            "Luigi",
+            "Caloi",
+            "and",
+            "his",
+            "brother-in-law",
+            ",",
+            "Agenor",
+            "Poletti",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "MISC"
+            },
+            {
+                "start": 8,
+                "end": 10,
+                "type": "PER"
+            },
+            {
+                "start": 14,
+                "end": 16,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "796",
+        "tokens": [
+            "The",
+            "successful",
+            "design",
+            "of",
+            "the",
+            "Bridgton",
+            "Hinkleys",
+            "was",
+            "subsequently",
+            "repeated",
+            "for",
+            "the",
+            "Monson",
+            "Railroad",
+            "and",
+            "the",
+            "Franklin",
+            "and",
+            "Megantic",
+            "Railway",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 7,
+                "type": "MISC"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "type": "LOC"
+            },
+            {
+                "start": 16,
+                "end": 20,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "926",
+        "tokens": [
+            "\"",
+            "Cancer",
+            "for",
+            "the",
+            "Cure",
+            "\"",
+            "is",
+            "a",
+            "single",
+            "released",
+            "by",
+            "American",
+            "rock",
+            "band",
+            ",",
+            "Eels",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 5,
+                "type": "MISC"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "MISC"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "927",
+        "tokens": [
+            "This",
+            "tracks",
+            "comes",
+            "off",
+            "their",
+            "1998",
+            "album",
+            ",",
+            "Electro-Shock",
+            "Blues",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 8,
+                "end": 10,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "928",
+        "tokens": [
+            "It",
+            "also",
+            "features",
+            "in",
+            "the",
+            "soundtrack",
+            "to",
+            "the",
+            "1999",
+            "film",
+            ",",
+            "American",
+            "Beauty",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 11,
+                "end": 13,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "417",
+        "tokens": [
+            "By",
+            "the",
+            "mid",
+            "to",
+            "late",
+            "90",
+            "'s",
+            "Angelo",
+            "had",
+            "become",
+            "a",
+            "house",
+            "hold",
+            "name",
+            "as",
+            "one",
+            "of",
+            "Miami",
+            "'s",
+            "elite",
+            "impresarios",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "292",
+        "tokens": [
+            "The",
+            "AGS",
+            "JH21",
+            "was",
+            "a",
+            "Formula",
+            "One",
+            "car",
+            "for",
+            "the",
+            "1986",
+            "season",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "MISC"
+            },
+            {
+                "start": 5,
+                "end": 7,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "420",
+        "tokens": [
+            "In",
+            "2002",
+            ",",
+            "Angelo",
+            "launched",
+            "NOK",
+            "Entertainment",
+            "to",
+            "create",
+            "a",
+            "company",
+            "that",
+            "could",
+            "market",
+            ",",
+            "promote",
+            ",",
+            "produce",
+            ",",
+            "&",
+            "create",
+            "all",
+            "types",
+            "of",
+            "special",
+            "events",
+            "at",
+            "any",
+            "venue",
+            "from",
+            "Miami",
+            ",",
+            "South",
+            "Beach",
+            "to",
+            "West",
+            "Palm",
+            "Beach",
+            ",",
+            "including",
+            "L.A.",
+            ",",
+            "NYC",
+            ",",
+            "&",
+            "Vegas",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 5,
+                "end": 7,
+                "type": "ORG"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "type": "LOC"
+            },
+            {
+                "start": 32,
+                "end": 34,
+                "type": "LOC"
+            },
+            {
+                "start": 35,
+                "end": 38,
+                "type": "LOC"
+            },
+            {
+                "start": 40,
+                "end": 41,
+                "type": "LOC"
+            },
+            {
+                "start": 42,
+                "end": 43,
+                "type": "LOC"
+            },
+            {
+                "start": 45,
+                "end": 46,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "433",
+        "tokens": [
+            "You",
+            "can",
+            "catch",
+            "up",
+            "with",
+            "Angelo",
+            "during",
+            "the",
+            "promotional",
+            "Campaign",
+            "of",
+            "the",
+            "new",
+            "body",
+            "fuel",
+            "Krank",
+            "'d",
+            "Body",
+            "Fuel",
+            ",",
+            "visit",
+            "online",
+            "at",
+            "www.krankd.com"
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 6,
+                "type": "PER"
+            },
+            {
+                "start": 15,
+                "end": 19,
+                "type": "MISC"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "305",
+        "tokens": [
+            "Wren",
+            "sat",
+            "with",
+            "the",
+            "Liberal",
+            "caucus",
+            "and",
+            "ran",
+            "twice",
+            "in",
+            "Ontario",
+            "Liberal",
+            "Party",
+            "leadership",
+            "conventions",
+            "coming",
+            "in",
+            "second",
+            "place",
+            "in",
+            "1954",
+            "with",
+            "162",
+            "votes",
+            "when",
+            "he",
+            "lost",
+            "to",
+            "Farquhar",
+            "Oliver",
+            "(",
+            "himself",
+            "a",
+            "former",
+            "United",
+            "Farmers",
+            "of",
+            "Ontario",
+            "MPP",
+            ")",
+            ",",
+            "and",
+            "in",
+            "last",
+            "place",
+            "with",
+            "only",
+            "seven",
+            "votes",
+            "in",
+            "1957",
+            "losing",
+            "to",
+            "John",
+            "Wintermeyer",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "ORG"
+            },
+            {
+                "start": 10,
+                "end": 13,
+                "type": "ORG"
+            },
+            {
+                "start": 28,
+                "end": 30,
+                "type": "PER"
+            },
+            {
+                "start": 34,
+                "end": 38,
+                "type": "ORG"
+            },
+            {
+                "start": 53,
+                "end": 55,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "311",
+        "tokens": [
+            "It",
+            "was",
+            "probably",
+            "first",
+            "performed",
+            "by",
+            "Gradsky",
+            "on",
+            "August",
+            "20",
+            ",",
+            "1998",
+            "on",
+            "Vasilievsky",
+            "Spusk",
+            "next",
+            "to",
+            "the",
+            "Red",
+            "Square",
+            "in",
+            "Moscow",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 7,
+                "type": "PER"
+            },
+            {
+                "start": 13,
+                "end": 15,
+                "type": "LOC"
+            },
+            {
+                "start": 18,
+                "end": 20,
+                "type": "LOC"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "568",
+        "tokens": [
+            "Afterwards",
+            ",",
+            "Wang",
+            "Shichong",
+            ",",
+            "seeing",
+            "no",
+            "other",
+            "choice",
+            ",",
+            "surrendered",
+            "Luoyang",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "71",
+        "tokens": [
+            "The",
+            "team",
+            "was",
+            "coached",
+            "by",
+            "Gregg",
+            "Brandon",
+            "and",
+            "played",
+            "their",
+            "home",
+            "games",
+            "in",
+            "Doyt",
+            "Perry",
+            "Stadium",
+            "in",
+            "Bowling",
+            "Green",
+            ",",
+            "Ohio",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 7,
+                "type": "PER"
+            },
+            {
+                "start": 13,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 17,
+                "end": 19,
+                "type": "LOC"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "591",
+        "tokens": [
+            "Belgrano",
+            "'s",
+            "army",
+            "veterans",
+            "from",
+            "the",
+            "North",
+            "contained",
+            "the",
+            "left",
+            "flank",
+            "and",
+            "center",
+            "column",
+            "of",
+            "the",
+            "realist",
+            "army",
+            "and",
+            "forced",
+            "them",
+            "to",
+            "back",
+            "down",
+            "until",
+            "Pezuela",
+            "recognized",
+            "he",
+            "was",
+            "losing",
+            "the",
+            "battle",
+            "at",
+            "Virrey",
+            "de",
+            "Lima",
+            ";",
+            "however",
+            ",",
+            "his",
+            "own",
+            "left",
+            "flank",
+            "remained",
+            "in",
+            "action",
+            "and",
+            "defeated",
+            "Belgrano",
+            "'s",
+            "right",
+            "column",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "type": "PER"
+            },
+            {
+                "start": 33,
+                "end": 36,
+                "type": "LOC"
+            },
+            {
+                "start": 48,
+                "end": 49,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "90",
+        "tokens": [
+            "30",
+            "Seconds",
+            "to",
+            "Mars",
+            "'",
+            "first",
+            ",",
+            "self-titled",
+            "album",
+            ",",
+            "produced",
+            "by",
+            "Bob",
+            "Ezrin",
+            ",",
+            "was",
+            "released",
+            "in",
+            "2002",
+            "to",
+            "mixed",
+            "reviews",
+            "and",
+            "achieved",
+            "sales",
+            "of",
+            "just",
+            "over",
+            "100,000",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "220",
+        "tokens": [
+            "During",
+            "the",
+            "Australian",
+            "Rules",
+            "Football",
+            "Season",
+            "882",
+            "6PR",
+            "is",
+            "Perth",
+            "'s",
+            "Football",
+            "Leader",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 8,
+                "type": "ORG"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "477",
+        "tokens": [
+            "The",
+            "Australian",
+            "League",
+            "of",
+            "Rights",
+            "is",
+            "a",
+            "minor",
+            "political",
+            "organisation",
+            "in",
+            "Australia",
+            "founded",
+            "by",
+            "Eric",
+            "Butler",
+            "with",
+            "its",
+            "basis",
+            "in",
+            "the",
+            "economic",
+            "theory",
+            "of",
+            "Social",
+            "Credit",
+            "expounded",
+            "by",
+            "C.",
+            "H.",
+            "Douglas",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 5,
+                "type": "ORG"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "LOC"
+            },
+            {
+                "start": 14,
+                "end": 16,
+                "type": "PER"
+            },
+            {
+                "start": 28,
+                "end": 31,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "229",
+        "tokens": [
+            "Since",
+            "the",
+            "addition",
+            "of",
+            "the",
+            "Perth",
+            "Glory",
+            "into",
+            "the",
+            "Australian",
+            "national",
+            "football",
+            "(",
+            "soccer",
+            ")",
+            "competition",
+            "(",
+            "known",
+            "then",
+            "as",
+            "the",
+            "National",
+            "Soccer",
+            "League",
+            ")",
+            "6PR",
+            "has",
+            "broadcast",
+            "almost",
+            "all",
+            "Home",
+            "&",
+            "Away",
+            "matches",
+            ",",
+            "The",
+            "coverage",
+            "was",
+            "led",
+            "by",
+            "George",
+            "Grljusich",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 7,
+                "type": "ORG"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "MISC"
+            },
+            {
+                "start": 21,
+                "end": 24,
+                "type": "ORG"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "type": "ORG"
+            },
+            {
+                "start": 40,
+                "end": 42,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "237",
+        "tokens": [
+            "883JIA",
+            "FM",
+            ",",
+            "is",
+            "a",
+            "Chinese",
+            "radio",
+            "station",
+            "of",
+            "SAFRA",
+            "Radio",
+            "in",
+            "Singapore",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "MISC"
+            },
+            {
+                "start": 9,
+                "end": 11,
+                "type": "ORG"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "495",
+        "tokens": [
+            "The",
+            "Australian",
+            "branch",
+            "of",
+            "the",
+            "B'nai",
+            "B'rith",
+            "Anti-Defamation",
+            "Commission",
+            "issued",
+            "a",
+            "press",
+            "release",
+            "that",
+            "\"",
+            "The",
+            "Co-founder",
+            "of",
+            "Australians",
+            "Against",
+            "Further",
+            "Immigration",
+            "(",
+            "AAFI",
+            ")",
+            ",",
+            "and",
+            "One",
+            "Nation",
+            "'s",
+            "Victorian",
+            "leader",
+            "Robyn",
+            "Spencer",
+            "has",
+            "addressed",
+            "numerous",
+            "League",
+            "of",
+            "Rights",
+            "meetings",
+            "as",
+            "well",
+            "as",
+            "delivered",
+            "a",
+            "speech",
+            "with",
+            "League",
+            "of",
+            "Rights",
+            ",",
+            "Advisory",
+            "National",
+            "Director",
+            "Eric",
+            "Butler",
+            ".",
+            "\""
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 5,
+                "end": 9,
+                "type": "ORG"
+            },
+            {
+                "start": 18,
+                "end": 22,
+                "type": "ORG"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "type": "ORG"
+            },
+            {
+                "start": 27,
+                "end": 29,
+                "type": "ORG"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "type": "MISC"
+            },
+            {
+                "start": 32,
+                "end": 34,
+                "type": "PER"
+            },
+            {
+                "start": 37,
+                "end": 40,
+                "type": "ORG"
+            },
+            {
+                "start": 48,
+                "end": 51,
+                "type": "ORG"
+            },
+            {
+                "start": 55,
+                "end": 57,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "242",
+        "tokens": [
+            "The",
+            "weekday",
+            "morning",
+            "drive",
+            "time",
+            "show",
+            "is",
+            "also",
+            "hosted",
+            "in",
+            "both",
+            "English",
+            "and",
+            "Chinese",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 11,
+                "end": 12,
+                "type": "MISC"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "762",
+        "tokens": [
+            "While",
+            "World",
+            "War",
+            "II",
+            "ravaged",
+            "the",
+            "Bruins",
+            "'",
+            "powerful",
+            "roster",
+            "thereafter",
+            "--",
+            "Boston",
+            "would",
+            "not",
+            "win",
+            "another",
+            "Cup",
+            "during",
+            "his",
+            "career",
+            "--",
+            "Cowley",
+            "was",
+            "the",
+            "team",
+            "'s",
+            "sole",
+            "remaining",
+            "star",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 4,
+                "type": "MISC"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "ORG"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "LOC"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "124",
+        "tokens": [
+            "Roughly",
+            "translated",
+            "from",
+            "Latin",
+            ",",
+            "this",
+            "means",
+            "\"",
+            "Launch",
+            "forth",
+            "into",
+            "the",
+            "deep",
+            "\"",
+            ";",
+            "but",
+            "a",
+            "more",
+            "stylized",
+            "version",
+            "would",
+            "be",
+            "\"",
+            "Rocket",
+            "in",
+            "(",
+            "to",
+            ")",
+            "High",
+            "(",
+            "ness",
+            ")",
+            "\"",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "MISC"
+            }
+        ]
+    }
+]

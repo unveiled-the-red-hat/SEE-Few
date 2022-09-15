@@ -1,0 +1,772 @@
+[
+    {
+        "org_id": "2851",
+        "tokens": [
+            "SOCCER",
+            "-",
+            "GERMAN",
+            "CUP",
+            "SECOND",
+            "ROUND",
+            "RESULTS",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 4,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "6",
+        "tokens": [
+            "Trailing",
+            "by",
+            "213",
+            ",",
+            "Somerset",
+            "got",
+            "a",
+            "solid",
+            "start",
+            "to",
+            "their",
+            "second",
+            "innings",
+            "before",
+            "Simmons",
+            "stepped",
+            "in",
+            "to",
+            "bundle",
+            "them",
+            "out",
+            "for",
+            "174",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "ORG"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "3019",
+        "tokens": [
+            "NATO",
+            "monitors",
+            "Moslem",
+            "move",
+            "towards",
+            "tense",
+            "village",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "3245",
+        "tokens": [
+            "U.S.",
+            "President",
+            "Bill",
+            "Clinton",
+            "has",
+            "authorised",
+            "the",
+            "repositioning",
+            "of",
+            "U.S.",
+            "firepower",
+            "in",
+            "the",
+            "Gulf",
+            "region",
+            "in",
+            "response",
+            "to",
+            "the",
+            "Iraqi",
+            "attacks",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 2,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "LOC"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "LOC"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "1741",
+        "tokens": [
+            "\"",
+            "They",
+            "asked",
+            "me",
+            "to",
+            "call",
+            "in",
+            "the",
+            "Israeli",
+            "charge",
+            "d'affaires",
+            "and",
+            "discuss",
+            "the",
+            "matter",
+            "with",
+            "him",
+            ",",
+            "\"",
+            "he",
+            "added",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 8,
+                "end": 9,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "943",
+        "tokens": [
+            "Tajik",
+            "government",
+            "troops",
+            "now",
+            "control",
+            "of",
+            "the",
+            "strategically",
+            "vital",
+            "town",
+            "of",
+            "Tavildara",
+            "after",
+            "driving",
+            "out",
+            "Islamic",
+            "rebels",
+            ",",
+            "but",
+            "sporadic",
+            "gunfire",
+            "still",
+            "echoed",
+            "in",
+            "the",
+            "nearby",
+            "Pamir",
+            "mountains",
+            "on",
+            "Friday",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "LOC"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "MISC"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "1134",
+        "tokens": [
+            "Analysts",
+            "said",
+            "the",
+            "reports",
+            "implied",
+            "the",
+            "economy",
+            "was",
+            "not",
+            "slowing",
+            "down",
+            "in",
+            "the",
+            "third",
+            "quarter",
+            "after",
+            "a",
+            "burst",
+            "of",
+            "growth",
+            "in",
+            "the",
+            "spring",
+            ",",
+            "and",
+            "that",
+            "the",
+            "lull",
+            "in",
+            "late",
+            "June",
+            "and",
+            "July",
+            "was",
+            "more",
+            "temporary",
+            "than",
+            "Federal",
+            "Reserve",
+            "policy-makers",
+            "had",
+            "wanted",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 37,
+                "end": 39,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "3387",
+        "tokens": [
+            "Relations",
+            "between",
+            "the",
+            "two",
+            "countries",
+            "are",
+            "currently",
+            "under",
+            "strain",
+            "because",
+            "of",
+            "the",
+            "testimony",
+            "in",
+            "a",
+            "Berlin",
+            "court",
+            "of",
+            "former",
+            "Iranian",
+            "president",
+            "Abolhassan",
+            "Banisadr",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 15,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "type": "MISC"
+            },
+            {
+                "start": 21,
+                "end": 23,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "2386",
+        "tokens": [
+            "Ince",
+            "was",
+            "clambering",
+            "over",
+            "a",
+            "wall",
+            "at",
+            "the",
+            "Republican",
+            "stadium",
+            "in",
+            "Chisinau",
+            "as",
+            "Glenn",
+            "Hoddle",
+            "'s",
+            "England",
+            "players",
+            "tried",
+            "to",
+            "escape",
+            "heavy",
+            "rain",
+            "during",
+            "an",
+            "under-21",
+            "clash",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "MISC"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "LOC"
+            },
+            {
+                "start": 13,
+                "end": 15,
+                "type": "PER"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "3343",
+        "tokens": [
+            "\"",
+            "Yesterday",
+            "the",
+            "president",
+            "ordered",
+            "the",
+            "Department",
+            "of",
+            "Defense",
+            "to",
+            "take",
+            "prudent",
+            "planning",
+            "steps",
+            "to",
+            "have",
+            "forces",
+            "ready",
+            "to",
+            "deploy",
+            "to",
+            "the",
+            "region",
+            "should",
+            "he",
+            "direct",
+            "us",
+            "to",
+            "do",
+            "so",
+            ",",
+            "\"",
+            "Pentagon",
+            "spokesman",
+            "Doug",
+            "Kennett",
+            "said",
+            ".",
+            "\""
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 9,
+                "type": "ORG"
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "type": "ORG"
+            },
+            {
+                "start": 34,
+                "end": 36,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "2454",
+        "tokens": [
+            "When",
+            "the",
+            "referee",
+            "called",
+            "Jansher",
+            "'s",
+            "return",
+            "good",
+            "and",
+            "the",
+            "decision",
+            "was",
+            "accepted",
+            "by",
+            "the",
+            "player",
+            ",",
+            "Hill",
+            "shrieked",
+            "at",
+            "the",
+            "Pakistani",
+            ":",
+            "\"",
+            "You",
+            "cheat",
+            ".",
+            "\""
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "PER"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "PER"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "3063",
+        "tokens": [
+            "The",
+            "consortium",
+            "wanted",
+            "40",
+            "percent",
+            "of",
+            "Ruch",
+            "'s",
+            "shares",
+            ",",
+            "the",
+            "state",
+            "would",
+            "get",
+            "20",
+            "percent",
+            "of",
+            "Ruch",
+            "and",
+            "40",
+            "percent",
+            "would",
+            "be",
+            "offered",
+            "on",
+            "the",
+            "Warsaw",
+            "stock",
+            "exchange",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 7,
+                "type": "ORG"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "ORG"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "794",
+        "tokens": [
+            "The",
+            "Iraqis",
+            "claimed",
+            "they",
+            "were",
+            "\"",
+            "ordinary",
+            "people",
+            "persecuted",
+            "by",
+            "the",
+            "regime",
+            "of",
+            "Saddam",
+            "(",
+            "Hussein",
+            ")",
+            "\"",
+            "but",
+            "interior",
+            "ministry",
+            "officials",
+            "had",
+            "consistently",
+            "said",
+            "it",
+            "was",
+            "likely",
+            "the",
+            "seven",
+            "would",
+            "be",
+            "charged",
+            "with",
+            "hijack",
+            "before",
+            "any",
+            "plea",
+            "for",
+            "asylum",
+            "was",
+            "considered",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "PER"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "PER"
+            },
+            {
+                "start": 19,
+                "end": 21,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2619",
+        "tokens": [
+            "Results",
+            "of",
+            "Major",
+            "League"
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 4,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2748",
+        "tokens": [
+            "Jacquet",
+            ",",
+            "beginning",
+            "the",
+            "22-month",
+            "countdown",
+            "to",
+            "France",
+            "'s",
+            "hosting",
+            "of",
+            "the",
+            "World",
+            "Cup",
+            "finals",
+            ",",
+            "said",
+            ":",
+            "\"",
+            "We",
+            "have",
+            "an",
+            "identity",
+            "(",
+            "as",
+            "a",
+            "team",
+            ")",
+            "which",
+            "we",
+            "are",
+            "going",
+            "to",
+            "work",
+            "on",
+            ".",
+            "\""
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "29",
+        "tokens": [
+            "Chesterfield",
+            ":",
+            "Worcestershire",
+            "238",
+            "and",
+            "133-5",
+            ",",
+            "Derbyshire",
+            "471",
+            "(",
+            "J.",
+            "Adams",
+            "123",
+            ",",
+            "T.O'Gorman",
+            "109",
+            "not",
+            "out",
+            ",",
+            "K.",
+            "Barnett",
+            "87",
+            ";",
+            "T.",
+            "Moody",
+            "6-82",
+            ")"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "type": "ORG"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "ORG"
+            },
+            {
+                "start": 10,
+                "end": 12,
+                "type": "PER"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "PER"
+            },
+            {
+                "start": 19,
+                "end": 21,
+                "type": "PER"
+            },
+            {
+                "start": 23,
+                "end": 25,
+                "type": "PER"
+            }
+        ]
+    }
+]

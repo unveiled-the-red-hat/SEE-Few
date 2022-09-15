@@ -1,0 +1,714 @@
+[
+    {
+        "org_id": "160",
+        "tokens": [
+            "The",
+            "Commonwealth",
+            "Bank",
+            "Tennis",
+            "Classic",
+            "is",
+            "a",
+            "tennis",
+            "tournament",
+            "on",
+            "the",
+            "WTA",
+            "Tour",
+            "held",
+            "in",
+            "Bali",
+            ",",
+            "Indonesia",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 5,
+                "type": "MISC"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "ORG"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "258",
+        "tokens": [
+            "Producers",
+            "already",
+            "working",
+            "with",
+            "the",
+            "quartet",
+            "include",
+            "Flood",
+            "and",
+            "Tom",
+            "Rixton",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 9,
+                "end": 11,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "34",
+        "tokens": [
+            "Gaudin",
+            "began",
+            "the",
+            "2006",
+            "season",
+            "for",
+            "the",
+            "Sacramento",
+            "River",
+            "Cats",
+            ",",
+            "the",
+            "Athletics",
+            "Triple",
+            "A",
+            "team",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 7,
+                "end": 10,
+                "type": "ORG"
+            },
+            {
+                "start": 12,
+                "end": 15,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "294",
+        "tokens": [
+            "The",
+            "Defamation",
+            "Action",
+            "League",
+            "'s",
+            "strategy",
+            "involves",
+            "\"",
+            "protesting",
+            "\"",
+            "the",
+            "companies",
+            "which",
+            "host",
+            "ripoffreport.com",
+            "and",
+            "badbusinessbureau.com",
+            "by",
+            "setting",
+            "up",
+            "\"",
+            "protest",
+            "sites",
+            "\"",
+            "and",
+            "engaging",
+            "in",
+            "annoyance",
+            "strategies",
+            "such",
+            "as",
+            "placing",
+            "classified",
+            "ads",
+            "with",
+            "the",
+            "companies",
+            "'",
+            "telephone",
+            "numbers",
+            "for",
+            "products",
+            "they",
+            "are",
+            "n't",
+            "selling",
+            "or",
+            "sending",
+            "mass",
+            "emails",
+            "to",
+            "other",
+            "customers",
+            "claiming",
+            "that",
+            "the",
+            "hosting",
+            "companies",
+            "support",
+            "child",
+            "pornography",
+            "and",
+            "are",
+            "actively",
+            "engaged",
+            "in",
+            "pedophilia",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "MISC"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "9",
+        "tokens": [
+            "The",
+            "City",
+            "Of",
+            "Hayward",
+            "opened",
+            "Centennial",
+            "Hall",
+            "in",
+            "honor",
+            "of",
+            "its",
+            "100th",
+            "Birthday",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 4,
+                "type": "LOC"
+            },
+            {
+                "start": 5,
+                "end": 7,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "237",
+        "tokens": [
+            "From",
+            "1998",
+            "to",
+            "2000",
+            "Prodan",
+            "played",
+            "in",
+            "Scotland",
+            "with",
+            "Rangers",
+            "but",
+            "made",
+            "no",
+            "first",
+            "team",
+            "appearances",
+            "due",
+            "to",
+            "a",
+            "serious",
+            "knee",
+            "injury",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "PER"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "238",
+        "tokens": [
+            "Prodan",
+            "got",
+            "54",
+            "caps",
+            "for",
+            "the",
+            "national",
+            "team",
+            "between",
+            "1992",
+            "and",
+            "1999",
+            ",",
+            "and",
+            "was",
+            "in",
+            "the",
+            "squad",
+            "for",
+            "the",
+            "1994",
+            "World",
+            "Cup",
+            "and",
+            "Euro",
+            "1996",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 21,
+                "end": 23,
+                "type": "MISC"
+            },
+            {
+                "start": 24,
+                "end": 26,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "335",
+        "tokens": [
+            "This",
+            "journey",
+            "lead",
+            "him",
+            "to",
+            "Jack",
+            "Lesmana",
+            ",",
+            "an",
+            "Indonesian",
+            "jazz",
+            "legend",
+            ",",
+            "who",
+            "introduced",
+            "him",
+            "to",
+            "other",
+            "professional",
+            "musicians",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 7,
+                "type": "PER"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "336",
+        "tokens": [
+            "Although",
+            "Jack",
+            "provided",
+            "Budjana",
+            "with",
+            "opportunities",
+            "in",
+            "his",
+            "Indonesian",
+            "music",
+            "career",
+            ",",
+            "it",
+            "was",
+            "Indra",
+            "who",
+            "first",
+            "asked",
+            "him",
+            "to",
+            "became",
+            "a",
+            "session",
+            "player",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "MISC"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "208",
+        "tokens": [
+            "They",
+            "then",
+            "released",
+            "the",
+            "Have",
+            "Love",
+            "Will",
+            "Travel",
+            "EP",
+            "(",
+            "which",
+            "reached",
+            "#",
+            "68",
+            ")",
+            "before",
+            "embarking",
+            "on",
+            "yet",
+            "another",
+            "UK",
+            "tour",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 9,
+                "type": "MISC"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "207",
+        "tokens": [
+            "The",
+            "band",
+            "embarked",
+            "on",
+            "another",
+            "UK",
+            "tour",
+            "to",
+            "promote",
+            "their",
+            "début",
+            "album",
+            "Deser",
+            "Orchid",
+            ",",
+            "released",
+            "in",
+            "Octobe",
+            "1988",
+            ",",
+            "along",
+            "with",
+            "another",
+            "single",
+            ",",
+            "\"",
+            "Rags",
+            "\"",
+            ",",
+            "and",
+            "then",
+            "toured",
+            "Europe",
+            "supporting",
+            "Iggy",
+            "Pop",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 6,
+                "type": "LOC"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "type": "MISC"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "MISC"
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "type": "LOC"
+            },
+            {
+                "start": 34,
+                "end": 36,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "49",
+        "tokens": [
+            "Both",
+            "singles",
+            "charted",
+            "in",
+            "the",
+            "French",
+            "Singles",
+            "Chart",
+            ",",
+            "but",
+            "the",
+            "album",
+            "failed",
+            "in",
+            "France",
+            ",",
+            "not",
+            "charting",
+            "in",
+            "the",
+            "top",
+            "200",
+            "at",
+            "all",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 8,
+                "type": "MISC"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "46",
+        "tokens": [
+            "Champdor",
+            "is",
+            "a",
+            "commune",
+            "in",
+            "the",
+            "French",
+            "département",
+            "of",
+            "Ai",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "MISC"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "18",
+        "tokens": [
+            "Major",
+            "clients",
+            "include",
+            "Sub-Zero",
+            ",",
+            "Herman",
+            "Miller",
+            ",",
+            "KaVo",
+            "/",
+            "Gendex",
+            ",",
+            "SHURE",
+            "and",
+            "LifeFitness",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 5,
+                "end": 7,
+                "type": "ORG"
+            },
+            {
+                "start": 8,
+                "end": 11,
+                "type": "ORG"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "ORG"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "214",
+        "tokens": [
+            "Over",
+            "the",
+            "next",
+            "few",
+            "years",
+            "Crazyhead",
+            "made",
+            "sporadic",
+            "live",
+            "appearances",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 6,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "216",
+        "tokens": [
+            "They",
+            "again",
+            "toured",
+            "the",
+            "UK",
+            ",",
+            "supporting",
+            "The",
+            "Mission",
+            "on",
+            "a",
+            "number",
+            "of",
+            "UK",
+            "dates",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            },
+            {
+                "start": 7,
+                "end": 9,
+                "type": "ORG"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "LOC"
+            }
+        ]
+    }
+]

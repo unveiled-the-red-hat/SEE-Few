@@ -1,0 +1,364 @@
+[
+    {
+        "org_id": "5410",
+        "tokens": [
+            "LOME",
+            "1996-08-25"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "163",
+        "tokens": [
+            "One-year",
+            "funds",
+            "were",
+            "at",
+            "six",
+            ",",
+            "5-7/8",
+            "percent",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "11239",
+        "tokens": [
+            "The",
+            "24-year-old",
+            "Gabrich",
+            ",",
+            "who",
+            "signed",
+            "for",
+            "an",
+            "undisclosed",
+            "fee",
+            "from",
+            "the",
+            "Argentine",
+            "side",
+            "Newell",
+            "Old",
+            "Boys",
+            ",",
+            "is",
+            "set",
+            "to",
+            "join",
+            "Dutch",
+            "international",
+            "Patrick",
+            "Kluivert",
+            "in",
+            "the",
+            "Ajax",
+            "forward",
+            "line",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "MISC"
+            },
+            {
+                "start": 14,
+                "end": 17,
+                "type": "ORG"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "type": "MISC"
+            },
+            {
+                "start": 24,
+                "end": 26,
+                "type": "PER"
+            },
+            {
+                "start": 28,
+                "end": 29,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "5674",
+        "tokens": [
+            "BASEBALL",
+            "-",
+            "MAJOR",
+            "LEAGUE",
+            "RESULTS",
+            "SUNDAY",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 4,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "6733",
+        "tokens": [
+            "SOCCER",
+            "-",
+            "SHARPE",
+            "HITS",
+            "WINNER",
+            "TO",
+            "EASE",
+            "PRESSURE",
+            "ON",
+            "LEEDS",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "7228",
+        "tokens": [
+            "Huracan",
+            "0",
+            "Lanus",
+            "0"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "10094",
+        "tokens": [
+            "--",
+            "Karachi",
+            "newsroom",
+            "9221-5685192"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "4879",
+        "tokens": [
+            "2.",
+            "Peter",
+            "Johansson",
+            "(",
+            "Sweden",
+            ")",
+            "Husqvarna"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "5298",
+        "tokens": [
+            "Norwich",
+            "2",
+            "1",
+            "0",
+            "1",
+            "3",
+            "3",
+            "3"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "466",
+        "tokens": [
+            "At",
+            "Northampton",
+            ":",
+            "Sussex",
+            "368-7",
+            "(",
+            "N.",
+            "Lenham",
+            "145",
+            ",",
+            "V.",
+            "Drakes",
+            "59",
+            "not"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "LOC"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 10,
+                "end": 12,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "11738",
+        "tokens": [
+            "Tennis",
+            "-",
+            "Philippoussis",
+            "beats",
+            "Woodforde",
+            "in",
+            "U.S.",
+            "Open",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "PER"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "1436",
+        "tokens": [
+            "Palestinians",
+            "accuse",
+            "PA",
+            "of",
+            "banning",
+            "books",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "8094",
+        "tokens": [
+            "Noranda",
+            "aluminum",
+            ",",
+            "U.S.",
+            "Midwest",
+            "(",
+            "effective",
+            "date:August",
+            "1",
+            ",",
+            "1996",
+            ")"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 3,
+                "end": 5,
+                "type": "LOC"
+            }
+        ]
+    }
+]

@@ -1,0 +1,315 @@
+[
+    {
+        "org_id": "5056",
+        "tokens": [
+            "10.",
+            "Pedro",
+            "Lamy",
+            "(",
+            "Portugal",
+            ")",
+            "Minardi",
+            "one",
+            "lap"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "10369",
+        "tokens": [
+            "Most",
+            "hostages",
+            "freed",
+            "from",
+            "hijacked",
+            "Sudanese",
+            "plane",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 6,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "683",
+        "tokens": [
+            "Under",
+            "Newcombe",
+            "'s",
+            "leadership",
+            ",",
+            "Australia",
+            "were",
+            "relegated",
+            "from",
+            "the",
+            "elite",
+            "world",
+            "group",
+            "last",
+            "year",
+            ",",
+            "the",
+            "first",
+            "time",
+            "the",
+            "26-time",
+            "Davis",
+            "Cup",
+            "winners",
+            "had",
+            "slipped",
+            "from",
+            "the",
+            "top",
+            "rank",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "LOC"
+            },
+            {
+                "start": 21,
+                "end": 23,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "8018",
+        "tokens": [
+            "Hijacked",
+            "Sudanese",
+            "plane",
+            "leaves",
+            "Cyprus",
+            "for",
+            "Britain",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "11062",
+        "tokens": [
+            "Amanda",
+            "Coetzer",
+            "(",
+            "South",
+            "Africa",
+            ")",
+            "beat",
+            "Mariaan",
+            "de",
+            "Swardt",
+            "(",
+            "South",
+            "Africa",
+            ")",
+            "6-2",
+            "7-5"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 3,
+                "end": 5,
+                "type": "LOC"
+            },
+            {
+                "start": 7,
+                "end": 10,
+                "type": "PER"
+            },
+            {
+                "start": 11,
+                "end": 13,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "3096",
+        "tokens": [
+            "WSC-India",
+            "Rice",
+            "Weather",
+            ",",
+            "Aug",
+            "23",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "1498",
+        "tokens": [
+            "Miss",
+            "Universe",
+            "hides",
+            "behind",
+            "veil",
+            "of",
+            "silence",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "5052",
+        "tokens": [
+            "6.",
+            "Gerhard",
+            "Berger",
+            "(",
+            "Austria",
+            ")",
+            "Benetton",
+            "29.896"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "3455",
+        "tokens": [
+            "Shares",
+            "in",
+            "gold",
+            "miner",
+            "Niugini",
+            "Mining",
+            "Ltd",
+            "surged",
+            "38",
+            "cents",
+            "to",
+            "A$",
+            "3.75",
+            "early",
+            "on",
+            "Friday",
+            "following",
+            "confirmation",
+            "on",
+            "Thursday",
+            "from",
+            "Battle",
+            "Mountain",
+            "Gold",
+            "that",
+            "it",
+            "was",
+            "considering",
+            "acquiring",
+            "the",
+            "49.6",
+            "percent",
+            "of",
+            "Niugini",
+            "it",
+            "did",
+            "not",
+            "already",
+            "own",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 7,
+                "type": "ORG"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "MISC"
+            },
+            {
+                "start": 21,
+                "end": 24,
+                "type": "ORG"
+            },
+            {
+                "start": 33,
+                "end": 34,
+                "type": "ORG"
+            }
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+{
+    "entities": {
+        "None": {
+            "short": "None",
+            "verbose": "No Entity",
+            "template": "is not an entity."
+        },
+        "PER": {
+            "short": "PER",
+            "verbose": "PER",
+            "template": "is a person."
+        },
+        "LOC": {
+            "short": "LOC",
+            "verbose": "LOC",
+            "template": "is a location."
+        },
+        "MISC": {
+            "short": "MISC",
+            "verbose": "MISC",
+            "template": "is a miscellaneous entity."
+        },
+        "ORG": {
+            "short": "ORG",
+            "verbose": "ORG",
+            "template": "is an organization."
+        }
+    }
+}

@@ -1,0 +1,716 @@
+[
+    {
+        "org_id": "2720",
+        "tokens": [
+            "Austria",
+            "'s",
+            "best",
+            "chance",
+            "came",
+            "in",
+            "the",
+            "63rd",
+            "minute",
+            "with",
+            "Stephan",
+            "Marasek",
+            "of",
+            "SC",
+            "Freiburg",
+            "taking",
+            "advantage",
+            "of",
+            "a",
+            "scramble",
+            "in",
+            "the",
+            "Scottish",
+            "penalty",
+            "area",
+            "but",
+            "his",
+            "shot",
+            "narrowly",
+            "passing",
+            "the",
+            "left-hand",
+            "post",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 10,
+                "end": 12,
+                "type": "PER"
+            },
+            {
+                "start": 13,
+                "end": 15,
+                "type": "ORG"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "1120",
+        "tokens": [
+            "The",
+            "Nasdaq",
+            "composite",
+            "index",
+            "closed",
+            "3.53",
+            "points",
+            "lower",
+            "Friday",
+            "at",
+            "1,141.50",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "450",
+        "tokens": [
+            "8.",
+            "Ivan",
+            "Garcia",
+            "(",
+            "Cuba",
+            ")",
+            "20.96"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "2851",
+        "tokens": [
+            "SOCCER",
+            "-",
+            "GERMAN",
+            "CUP",
+            "SECOND",
+            "ROUND",
+            "RESULTS",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 4,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2339",
+        "tokens": [
+            "Results",
+            "of",
+            "Yugoslav",
+            "league"
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "1219",
+        "tokens": [
+            "Among",
+            "those",
+            "seen",
+            "as",
+            "having",
+            "an",
+            "interest",
+            "in",
+            "buying",
+            "in",
+            "Missouri",
+            "are",
+            "Minneapolis-based",
+            "First",
+            "Bank",
+            "System",
+            "Inc.",
+            "and",
+            "Norwest",
+            "Corp.",
+            ",",
+            "Ohio-based",
+            "KeyCorp",
+            "and",
+            "Banc",
+            "One",
+            "Corp.",
+            ",",
+            "and",
+            "First",
+            "Chicago",
+            "NBD",
+            "Corp.",
+            "in",
+            "Illinois",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 10,
+                "end": 11,
+                "type": "LOC"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "MISC"
+            },
+            {
+                "start": 13,
+                "end": 17,
+                "type": "ORG"
+            },
+            {
+                "start": 18,
+                "end": 20,
+                "type": "ORG"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "type": "MISC"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "type": "ORG"
+            },
+            {
+                "start": 24,
+                "end": 27,
+                "type": "ORG"
+            },
+            {
+                "start": 29,
+                "end": 33,
+                "type": "ORG"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "3235",
+        "tokens": [
+            "Iraqi",
+            "Kurds",
+            "say",
+            "Iranian",
+            "troops",
+            "enter",
+            "north",
+            "Iraq",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "MISC"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "2919",
+        "tokens": [
+            "Escaped",
+            "British",
+            "paedophile",
+            "recaptured",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "3138",
+        "tokens": [
+            "The",
+            "war",
+            "claimed",
+            "more",
+            "than",
+            "125,000",
+            "lives",
+            "in",
+            "the",
+            "southern",
+            "Mindanao",
+            "island",
+            "over",
+            "a",
+            "quarter",
+            "of",
+            "a",
+            "century",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 10,
+                "end": 11,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "360",
+        "tokens": [
+            "67",
+            "Mark",
+            "Calcavecchia",
+            ",",
+            "Payne",
+            "Stewart",
+            ",",
+            "Billy",
+            "Mayfair",
+            ",",
+            "Ken"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 6,
+                "type": "PER"
+            },
+            {
+                "start": 7,
+                "end": 9,
+                "type": "PER"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "1739",
+        "tokens": [
+            "Responding",
+            "to",
+            "a",
+            "letter",
+            "from",
+            "the",
+            "the",
+            "Palestinian",
+            "U.N.",
+            "observer",
+            "mission",
+            ",",
+            "Security",
+            "Council",
+            "President",
+            "Tono",
+            "Eitel",
+            "of",
+            "Germany",
+            "said",
+            "that",
+            "members",
+            "asked",
+            "him",
+            "to",
+            "convey",
+            "their",
+            "views",
+            "to",
+            "Israel",
+            "'s",
+            "charge",
+            "d'affaires",
+            ",",
+            "David",
+            "Peleg",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "MISC"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "ORG"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "type": "ORG"
+            },
+            {
+                "start": 15,
+                "end": 17,
+                "type": "PER"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "LOC"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "type": "LOC"
+            },
+            {
+                "start": 34,
+                "end": 36,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "3443",
+        "tokens": [
+            "Leeson",
+            ",",
+            "the",
+            "Northern",
+            "Ireland-born",
+            "actor",
+            "who",
+            "was",
+            "nominated",
+            "for",
+            "an",
+            "Oscar",
+            "for",
+            "best",
+            "actor",
+            "for",
+            "his",
+            "performance",
+            "in",
+            "\"",
+            "Schindler",
+            "'s",
+            "List",
+            "\"",
+            ",",
+            "plays",
+            "the",
+            "lead",
+            "role",
+            "in",
+            "Jordan",
+            "'s",
+            "film",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 3,
+                "end": 5,
+                "type": "MISC"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "PER"
+            },
+            {
+                "start": 20,
+                "end": 23,
+                "type": "MISC"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "3253",
+        "tokens": [
+            "A",
+            "committee",
+            "monitoring",
+            "the",
+            "ceasefire",
+            "agreement",
+            "between",
+            "Israel",
+            "and",
+            "Hizbollah",
+            "guerrillas",
+            "will",
+            "meet",
+            "in",
+            "south",
+            "Lebanon",
+            "on",
+            "Sunday",
+            "to",
+            "discuss",
+            "an",
+            "Israeli",
+            "complaint",
+            "against",
+            "the",
+            "Islamic",
+            "group",
+            ",",
+            "the",
+            "Israeli",
+            "army",
+            "said",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "ORG"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "type": "MISC"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "type": "MISC"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "951",
+        "tokens": [
+            "Tens",
+            "of",
+            "thousands",
+            "of",
+            "people",
+            "have",
+            "been",
+            "killed",
+            "and",
+            "many",
+            "more",
+            "have",
+            "been",
+            "displaced",
+            "in",
+            "the",
+            "fighting",
+            ",",
+            "which",
+            "breached",
+            "a",
+            "shaky",
+            "United",
+            "Nations-sponsored",
+            "ceasefire",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 22,
+                "end": 24,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2488",
+        "tokens": [
+            "After",
+            "Parnevik",
+            "started",
+            "off",
+            "his",
+            "round",
+            "by",
+            "parring",
+            "the",
+            "first",
+            "hole",
+            "and",
+            "bogeying",
+            "the",
+            "second",
+            ",",
+            "the",
+            "Swede",
+            "birdied",
+            "six",
+            "of",
+            "the",
+            "next",
+            "seven",
+            "holes",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "3290",
+        "tokens": [
+            "We",
+            "have",
+            "in",
+            "no",
+            "way",
+            "seen",
+            "any",
+            "Iraqi",
+            "troops",
+            "in",
+            "the",
+            "city",
+            "or",
+            "in",
+            "its",
+            "approaches",
+            ",",
+            "\"",
+            "a",
+            "U.N.",
+            "relief",
+            "official",
+            "told",
+            "Reuters",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "MISC"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "type": "ORG"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2238",
+        "tokens": [
+            "Doncaster",
+            "3",
+            "Darlington",
+            "2"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "type": "ORG"
+            }
+        ]
+    }
+]

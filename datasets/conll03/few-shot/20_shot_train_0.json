@@ -1,0 +1,1414 @@
+[
+    {
+        "org_id": "5005",
+        "tokens": [
+            "1.",
+            "Trond",
+            "Bathel",
+            "(",
+            "Norway",
+            ")",
+            "5.60"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "13054",
+        "tokens": [
+            "7.",
+            "Maarten",
+            "den",
+            "Bakker",
+            "(",
+            "Netherlands",
+            ")",
+            "TVM",
+            "1",
+            "minute",
+            "31",
+            "seconds"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "LOC"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "4886",
+        "tokens": [
+            "2.",
+            "Martens"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "6559",
+        "tokens": [
+            "The",
+            "strikers",
+            "barricaded",
+            "streets",
+            ",",
+            "attacked",
+            "the",
+            "local",
+            "office",
+            "of",
+            "the",
+            "ruling",
+            "Awami",
+            "League",
+            ",",
+            "fought",
+            "running",
+            "battles",
+            "with",
+            "police",
+            "and",
+            "set",
+            "alight",
+            "hundreds",
+            "of",
+            "copies",
+            "of",
+            "the",
+            "popular",
+            "\"",
+            "Janakantha",
+            "\"",
+            "newspaper",
+            ",",
+            "alleging",
+            "it",
+            "was",
+            "pro-government",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 12,
+                "end": 14,
+                "type": "ORG"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "7589",
+        "tokens": [
+            "Bonds",
+            "has",
+            "been",
+            "limited",
+            "to",
+            "a",
+            "pinch-hitting",
+            "role",
+            "since",
+            "an",
+            "MRI",
+            "Friday",
+            "showed",
+            "a",
+            "mild",
+            "strain",
+            "of",
+            "his",
+            "left",
+            "hamstring",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "12583",
+        "tokens": [
+            "German",
+            "riot",
+            "police",
+            "made",
+            "Nazi",
+            "gestures",
+            "at",
+            "a",
+            "private",
+            "function",
+            "earlier",
+            "this",
+            "month",
+            "and",
+            "may",
+            "face",
+            "dismissal",
+            "for",
+            "their",
+            "actions",
+            ",",
+            "the",
+            "Bavarian",
+            "Interior",
+            "Ministry",
+            "said",
+            "on",
+            "Wednesday",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "MISC"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "type": "MISC"
+            },
+            {
+                "start": 23,
+                "end": 25,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "12972",
+        "tokens": [
+            "Provision",
+            "of",
+            "overland",
+            "transport",
+            "services",
+            "for",
+            "material",
+            "and",
+            "equipment",
+            "for",
+            "European",
+            "Commission",
+            "delegations",
+            "in",
+            "European",
+            "Third",
+            "Countries",
+            "and",
+            "in",
+            "the",
+            "New",
+            "Independent",
+            "States",
+            "(",
+            "NIS",
+            ")",
+            "Contract",
+            "notice",
+            "No",
+            "TRA",
+            "/",
+            "96",
+            "/",
+            "003",
+            "/",
+            "IAE-3",
+            "-",
+            "Open",
+            "procedure",
+            "(",
+            "96",
+            "/",
+            "C",
+            "251/08",
+            ")"
+        ],
+        "entities": [
+            {
+                "start": 10,
+                "end": 12,
+                "type": "ORG"
+            },
+            {
+                "start": 14,
+                "end": 17,
+                "type": "MISC"
+            },
+            {
+                "start": 20,
+                "end": 23,
+                "type": "MISC"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "3374",
+        "tokens": [
+            "Dutch",
+            "post",
+            "and",
+            "telecoms",
+            "group",
+            "Koninklijke",
+            "PTT",
+            "Nederland",
+            "NV",
+            "'s",
+            "(",
+            "Dutch",
+            "PTT",
+            ")",
+            "first",
+            "half",
+            "results",
+            "came",
+            "marginally",
+            "below",
+            "most",
+            "analysts",
+            "'",
+            "forecasts",
+            ",",
+            "giving",
+            "scant",
+            "grounds",
+            "to",
+            "adjust",
+            "full",
+            "year",
+            "estimates",
+            ",",
+            "analysts",
+            "said",
+            "on",
+            "Friday",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 5,
+                "end": 9,
+                "type": "ORG"
+            },
+            {
+                "start": 11,
+                "end": 13,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "6321",
+        "tokens": [
+            "We",
+            "have",
+            "to",
+            "enter",
+            "Doboj",
+            "to",
+            "free",
+            "the",
+            "Serbs",
+            "from",
+            "their",
+            "own",
+            "(",
+            "separatist",
+            ")",
+            "politics",
+            ".",
+            "\""
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "4529",
+        "tokens": [
+            "Albania",
+            "'s",
+            "opposition",
+            "Socialist",
+            "Party",
+            "began",
+            "a",
+            "two-day",
+            "congress",
+            "on",
+            "Saturday",
+            "to",
+            "discuss",
+            "major",
+            "jettisoning",
+            "its",
+            "links",
+            "with",
+            "almost",
+            "half",
+            "a",
+            "century",
+            "of",
+            "Stalinist",
+            "dictatorship",
+            "in",
+            "the",
+            "Balkan",
+            "country",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 3,
+                "end": 5,
+                "type": "ORG"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "type": "MISC"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "820",
+        "tokens": [
+            "TORONTO",
+            "58",
+            "69",
+            ".457",
+            "15"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "1719",
+        "tokens": [
+            "The",
+            "Reserve",
+            "bank",
+            "of",
+            "India",
+            "governor",
+            "C.",
+            "Rangarajan",
+            "said",
+            "on",
+            "Thursday",
+            "that",
+            "he",
+            "expected",
+            "the",
+            "cash",
+            "reserve",
+            "ratio",
+            "(",
+            "CRR",
+            ")",
+            "maintained",
+            "by",
+            "banks",
+            "to",
+            "be",
+            "reduced",
+            "over",
+            "the",
+            "medium",
+            "term",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 5,
+                "type": "ORG"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "4664",
+        "tokens": [
+            "\"",
+            "After",
+            "the",
+            "(",
+            "Bosnian",
+            ")",
+            "elections",
+            "(",
+            "on",
+            "September",
+            "14",
+            ")",
+            "the",
+            "troops",
+            "will",
+            "start",
+            "being",
+            "reduced",
+            "from",
+            "the",
+            "beginning",
+            "of",
+            "October",
+            "from",
+            "60,000",
+            "to",
+            "about",
+            "20,000",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2232",
+        "tokens": [
+            "CHICAGO",
+            "69",
+            "60",
+            ".535",
+            "8"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "3265",
+        "tokens": [
+            "Huge",
+            "Windows",
+            "95",
+            "sales",
+            "fail",
+            "to",
+            "meet",
+            "expectations",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2882",
+        "tokens": [
+            "Two",
+            "weeks",
+            "ago",
+            "Taibe",
+            ",",
+            "coached",
+            "by",
+            "Pole",
+            "Wojtek",
+            "Lazarek",
+            ",",
+            "met",
+            "Betar",
+            ",",
+            "a",
+            "club",
+            "closely",
+            "associated",
+            "with",
+            "the",
+            "right-wing",
+            "Likud",
+            "party",
+            ",",
+            "for",
+            "the",
+            "first",
+            "time",
+            "in",
+            "a",
+            "Cup",
+            "match",
+            "in",
+            "Jerusalem",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "MISC"
+            },
+            {
+                "start": 8,
+                "end": 10,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "ORG"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "type": "ORG"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "type": "MISC"
+            },
+            {
+                "start": 33,
+                "end": 34,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "12355",
+        "tokens": [
+            "Intelligence",
+            "officals",
+            "said",
+            "more",
+            "than",
+            "5,000",
+            "Tamils",
+            "were",
+            "waiting",
+            "on",
+            "the",
+            "western",
+            "coast",
+            "of",
+            "Sri",
+            "Lanka",
+            "to",
+            "cross",
+            "into",
+            "India",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 7,
+                "type": "MISC"
+            },
+            {
+                "start": 14,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "6224",
+        "tokens": [
+            "7",
+            "(",
+            "151",
+            ")",
+            "Melbourne",
+            "11.12",
+            "(",
+            "78",
+            ")"
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "86",
+        "tokens": [
+            "BORROWER",
+            "VENANTIUS",
+            "AB",
+            "(",
+            "SWEDISH",
+            "NATIONAL",
+            "MORTGAGE",
+            "AGENCY",
+            ")"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "ORG"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "730",
+        "tokens": [
+            "Mark",
+            "Woodforde",
+            "(",
+            "Australia",
+            ")",
+            "vs.",
+            "Mark",
+            "Philippoussis",
+            "(",
+            "Australia",
+            ")"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "LOC"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "13147",
+        "tokens": [
+            "LOMBARDI",
+            "WINS",
+            "THIRD",
+            "STAGE",
+            "OF",
+            "TOUR",
+            "OF",
+            "NETHERLANDS",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 5,
+                "end": 8,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "13149",
+        "tokens": [
+            "Leading",
+            "results",
+            "and",
+            "overall",
+            "standings",
+            "after",
+            "the",
+            "122",
+            "kilometre",
+            "third",
+            "stage",
+            "of",
+            "the",
+            "Tour",
+            "of",
+            "the",
+            "Netherlands",
+            "on",
+            "Thursday",
+            "between",
+            "Almere",
+            "and",
+            "Doetinchem",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 13,
+                "end": 17,
+                "type": "MISC"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "type": "LOC"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "4065",
+        "tokens": [
+            "BASEBALL",
+            "-",
+            "RESULTS",
+            "OF",
+            "S.",
+            "KOREAN",
+            "PRO-BASEBALL",
+            "GAMES",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 6,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "4716",
+        "tokens": [
+            "Among",
+            "the",
+            "revelations",
+            "are",
+            "the",
+            "fact",
+            "that",
+            "the",
+            "gendarmerie",
+            "was",
+            "running",
+            "a",
+            "surveillance",
+            "operation",
+            "codenamed",
+            "\"",
+            "Othello",
+            "\"",
+            "against",
+            "Dutroux",
+            "in",
+            "1995",
+            "--",
+            "when",
+            "both",
+            "Julie",
+            "and",
+            "Melissa",
+            "and",
+            "An",
+            "and",
+            "Eefje",
+            "were",
+            "kidnapped",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 16,
+                "end": 17,
+                "type": "MISC"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "type": "PER"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "type": "PER"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "type": "PER"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "type": "PER"
+            },
+            {
+                "start": 31,
+                "end": 32,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "620",
+        "tokens": [
+            "In",
+            "Prague",
+            ":",
+            "Sparta",
+            "Prague",
+            "(",
+            "Czech",
+            "Republic",
+            ")",
+            "8",
+            "Glentoran"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "LOC"
+            },
+            {
+                "start": 3,
+                "end": 5,
+                "type": "ORG"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "LOC"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "13294",
+        "tokens": [
+            "Jakob",
+            "Hlasek",
+            "(",
+            "Switzerland",
+            ")",
+            "beat",
+            "Alberto",
+            "Berasategui",
+            "(",
+            "Spain",
+            ")",
+            "7-6",
+            "(",
+            "7-5",
+            ")",
+            "7-6",
+            "(",
+            "9-7",
+            ")",
+            "6-0"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "LOC"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "3183",
+        "tokens": [
+            "Birnberg",
+            "told",
+            "Reuters",
+            "that",
+            "the",
+            "challenge",
+            "to",
+            "the",
+            "injunction",
+            "would",
+            "be",
+            "delayed",
+            "until",
+            "Stenning",
+            "was",
+            "released",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "type": "ORG"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "8944",
+        "tokens": [
+            "On",
+            "the",
+            "women",
+            "'s",
+            "side",
+            ",",
+            "second",
+            "seed",
+            "Monica",
+            "Seles",
+            "got",
+            "off",
+            "to",
+            "a",
+            "strong",
+            "start",
+            "by",
+            "beating",
+            "fellow-American",
+            "Anne",
+            "Miller",
+            "6-0",
+            "6-1",
+            "and",
+            "was",
+            "joined",
+            "in",
+            "the",
+            "second",
+            "round",
+            "by",
+            "Spain",
+            "'s",
+            "Arantxa",
+            "Sanchez",
+            "Vicario",
+            "(",
+            "seeded",
+            "third",
+            ")",
+            ",",
+            "Olympic",
+            "champion",
+            "Lindsay",
+            "Davenport",
+            "(",
+            "8",
+            ")",
+            "and",
+            "Karina",
+            "Habsudova",
+            "of",
+            "Slovakia",
+            "(",
+            "17",
+            ")",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 8,
+                "end": 10,
+                "type": "PER"
+            },
+            {
+                "start": 19,
+                "end": 21,
+                "type": "PER"
+            },
+            {
+                "start": 31,
+                "end": 32,
+                "type": "LOC"
+            },
+            {
+                "start": 33,
+                "end": 36,
+                "type": "PER"
+            },
+            {
+                "start": 41,
+                "end": 42,
+                "type": "MISC"
+            },
+            {
+                "start": 43,
+                "end": 45,
+                "type": "PER"
+            },
+            {
+                "start": 49,
+                "end": 51,
+                "type": "PER"
+            },
+            {
+                "start": 52,
+                "end": 53,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "1265",
+        "tokens": [
+            "Faction",
+            "leaders",
+            "who",
+            "agreed",
+            "a",
+            "new",
+            "peace",
+            "deal",
+            "in",
+            "the",
+            "Nigerian",
+            "capital",
+            "Abuja",
+            "on",
+            "Saturday",
+            "have",
+            "accused",
+            "each",
+            "other",
+            "of",
+            "breaking",
+            "the",
+            "ceasefire",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 10,
+                "end": 11,
+                "type": "MISC"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "13683",
+        "tokens": [
+            "A",
+            "stake",
+            "of",
+            "10",
+            "million",
+            "shares",
+            "in",
+            "Russian",
+            "gas",
+            "monopoly",
+            "RAO",
+            "Gazprom",
+            "was",
+            "sold",
+            "at",
+            "auction",
+            "on",
+            "Thursday",
+            "at",
+            "an",
+            "average",
+            "2,901.48",
+            "roubles",
+            "a",
+            "share",
+            ",",
+            "up",
+            "from",
+            "2,891.00",
+            "roubles",
+            "a",
+            "week",
+            "ago",
+            ",",
+            "the",
+            "Federal",
+            "Securities",
+            "Corporation",
+            "(",
+            "FFK",
+            ")",
+            "said",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "MISC"
+            },
+            {
+                "start": 10,
+                "end": 12,
+                "type": "ORG"
+            },
+            {
+                "start": 35,
+                "end": 38,
+                "type": "ORG"
+            },
+            {
+                "start": 39,
+                "end": 40,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "12404",
+        "tokens": [
+            "Better-than-expected",
+            "British",
+            "trade",
+            "figures",
+            "had",
+            "little",
+            "impact",
+            "on",
+            "equities",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "10614",
+        "tokens": [
+            "2.",
+            "Letitia",
+            "Vriesde",
+            "(",
+            "Surinam",
+            ")",
+            "2:00.39"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "3579",
+        "tokens": [
+            "IRISH",
+            "INDEPENDENT"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "9598",
+        "tokens": [
+            "But",
+            "Meri",
+            "'s",
+            "support",
+            "was",
+            "not",
+            "enough",
+            "for",
+            "the",
+            "68",
+            "needed",
+            "for",
+            "election",
+            "and",
+            "a",
+            "third",
+            "secret",
+            "ballot",
+            "will",
+            "take",
+            "place",
+            "later",
+            "in",
+            "the",
+            "day",
+            "(",
+            "1300",
+            "GMT",
+            ")",
+            ",",
+            "parliamentary",
+            "officials",
+            "said",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "type": "MISC"
+            }
+        ]
+    }
+]

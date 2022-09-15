@@ -1,0 +1,377 @@
+[
+    {
+        "org_id": "480",
+        "tokens": [
+            "5.",
+            "Chryste",
+            "Gaines",
+            "(",
+            "U.S.",
+            ")",
+            "11.20"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "3013",
+        "tokens": [
+            "Zairean",
+            "Prime",
+            "Minister",
+            "Kengo",
+            "wa",
+            "Dondo",
+            "said",
+            "at",
+            "the",
+            "end",
+            "of",
+            "a",
+            "visit",
+            "to",
+            "Rwanda",
+            "last",
+            "week",
+            "that",
+            "the",
+            "Zairean",
+            "and",
+            "Rwandan",
+            "governments",
+            "agreed",
+            "on",
+            "an",
+            "\"",
+            "organised",
+            ",",
+            "massive",
+            "and",
+            "unconditional",
+            "repatriation",
+            "\"",
+            "of",
+            "the",
+            "1.1",
+            "million",
+            "Rwandan",
+            "refugees",
+            "in",
+            "Zaire",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 3,
+                "end": 6,
+                "type": "PER"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "LOC"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "type": "MISC"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "type": "MISC"
+            },
+            {
+                "start": 38,
+                "end": 39,
+                "type": "MISC"
+            },
+            {
+                "start": 41,
+                "end": 42,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "2890",
+        "tokens": [
+            "1822",
+            "-",
+            "Brazil",
+            "proclaimed",
+            "independence",
+            "from",
+            "Portugal",
+            "and",
+            "Pedro",
+            "I",
+            "became",
+            "first",
+            "Emperor",
+            "of",
+            "Brazil",
+            "in",
+            "December",
+            "1822",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "LOC"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "LOC"
+            },
+            {
+                "start": 8,
+                "end": 10,
+                "type": "PER"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "1802",
+        "tokens": [
+            "Slovakia",
+            "-",
+            "Lubomir",
+            "Moravcik",
+            "(",
+            "13th",
+            ")",
+            ",",
+            "Peter",
+            "Dubovsky",
+            "(",
+            "88th",
+            ")"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 2,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 8,
+                "end": 10,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "1964",
+        "tokens": [
+            "The",
+            "Orioles",
+            "remained",
+            "tied",
+            "with",
+            "the",
+            "White",
+            "Sox",
+            "for",
+            "the",
+            "American",
+            "League",
+            "wild",
+            "card",
+            "with",
+            "the",
+            "Mariners",
+            "a",
+            "game",
+            "back",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "ORG"
+            },
+            {
+                "start": 10,
+                "end": 12,
+                "type": "MISC"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "1363",
+        "tokens": [
+            "The",
+            "three-month",
+            "cash",
+            "bill",
+            "traded",
+            "at",
+            "4.04",
+            "percent",
+            "against",
+            "the",
+            "U.S.",
+            "three-month",
+            "bill",
+            "at",
+            "5.26",
+            "percent",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 10,
+                "end": 11,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "3286",
+        "tokens": [
+            "United",
+            "Nations",
+            "relief",
+            "officials",
+            "said",
+            "on",
+            "Saturday",
+            "the",
+            "fighting",
+            "in",
+            "Arbil",
+            "in",
+            "northern",
+            "Iraq",
+            "was",
+            "between",
+            "rival",
+            "Kurdish",
+            "factions",
+            "and",
+            "they",
+            "were",
+            "not",
+            "aware",
+            "of",
+            "any",
+            "Iraqi",
+            "military",
+            "advance",
+            "on",
+            "the",
+            "city",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "LOC"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "LOC"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "MISC"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2838",
+        "tokens": [
+            "Britain",
+            "by",
+            "Richard",
+            "Hannon",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 2,
+                "end": 4,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "2367",
+        "tokens": [
+            "Sutjeska",
+            "1",
+            "Loznica",
+            "0"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "type": "ORG"
+            }
+        ]
+    }
+]

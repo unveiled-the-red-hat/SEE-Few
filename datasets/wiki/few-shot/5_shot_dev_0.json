@@ -1,0 +1,542 @@
+[
+    {
+        "org_id": "256",
+        "tokens": [
+            "With",
+            "the",
+            "release",
+            "of",
+            "their",
+            "debut",
+            "EP",
+            ",",
+            "Dead",
+            "Start",
+            "Program",
+            "on",
+            "October",
+            "12",
+            "2007",
+            ",",
+            "the",
+            "band",
+            "embarked",
+            "on",
+            "a",
+            "nationwide",
+            "tour",
+            "which",
+            "began",
+            "with",
+            "gigs",
+            "at",
+            "Cyprus",
+            "Avenue",
+            "in",
+            "Cork",
+            "on",
+            "October",
+            "9",
+            ",",
+            "Spirit",
+            "Store",
+            "in",
+            "Dundalk",
+            "on",
+            "October",
+            "10",
+            ",",
+            "Tower",
+            "Records",
+            "(",
+            "2pm",
+            ")",
+            "/",
+            "Crawdaddy",
+            "in",
+            "Dublin",
+            "on",
+            "Saturday",
+            "October",
+            "13",
+            "and",
+            "Roisin",
+            "Dubh",
+            "in",
+            "Galway",
+            "on",
+            "Thursday",
+            "October",
+            "18",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 8,
+                "end": 11,
+                "type": "MISC"
+            },
+            {
+                "start": 28,
+                "end": 30,
+                "type": "ORG"
+            },
+            {
+                "start": 31,
+                "end": 32,
+                "type": "LOC"
+            },
+            {
+                "start": 36,
+                "end": 38,
+                "type": "ORG"
+            },
+            {
+                "start": 39,
+                "end": 40,
+                "type": "LOC"
+            },
+            {
+                "start": 44,
+                "end": 46,
+                "type": "ORG"
+            },
+            {
+                "start": 50,
+                "end": 51,
+                "type": "ORG"
+            },
+            {
+                "start": 52,
+                "end": 53,
+                "type": "LOC"
+            },
+            {
+                "start": 58,
+                "end": 60,
+                "type": "ORG"
+            },
+            {
+                "start": 61,
+                "end": 62,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "294",
+        "tokens": [
+            "The",
+            "Defamation",
+            "Action",
+            "League",
+            "'s",
+            "strategy",
+            "involves",
+            "\"",
+            "protesting",
+            "\"",
+            "the",
+            "companies",
+            "which",
+            "host",
+            "ripoffreport.com",
+            "and",
+            "badbusinessbureau.com",
+            "by",
+            "setting",
+            "up",
+            "\"",
+            "protest",
+            "sites",
+            "\"",
+            "and",
+            "engaging",
+            "in",
+            "annoyance",
+            "strategies",
+            "such",
+            "as",
+            "placing",
+            "classified",
+            "ads",
+            "with",
+            "the",
+            "companies",
+            "'",
+            "telephone",
+            "numbers",
+            "for",
+            "products",
+            "they",
+            "are",
+            "n't",
+            "selling",
+            "or",
+            "sending",
+            "mass",
+            "emails",
+            "to",
+            "other",
+            "customers",
+            "claiming",
+            "that",
+            "the",
+            "hosting",
+            "companies",
+            "support",
+            "child",
+            "pornography",
+            "and",
+            "are",
+            "actively",
+            "engaged",
+            "in",
+            "pedophilia",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "MISC"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "296",
+        "tokens": [
+            "June",
+            "21",
+            ",",
+            "2007",
+            "preliminary",
+            "injunction",
+            "was",
+            "granted",
+            "against",
+            "DefamationAction.com",
+            "and",
+            "ComplaintRemover.com",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 9,
+                "end": 10,
+                "type": "MISC"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "237",
+        "tokens": [
+            "From",
+            "1998",
+            "to",
+            "2000",
+            "Prodan",
+            "played",
+            "in",
+            "Scotland",
+            "with",
+            "Rangers",
+            "but",
+            "made",
+            "no",
+            "first",
+            "team",
+            "appearances",
+            "due",
+            "to",
+            "a",
+            "serious",
+            "knee",
+            "injury",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "PER"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "178",
+        "tokens": [
+            "Winners",
+            "of",
+            "Classic",
+            "Lotto",
+            "(",
+            "jackpot",
+            "or",
+            "otherwise",
+            ")",
+            "have",
+            "one",
+            "year",
+            "to",
+            "claim",
+            "their",
+            "prizes",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 4,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "279",
+        "tokens": [
+            "In",
+            "2004",
+            "co-authored",
+            "an",
+            "article",
+            ",",
+            "with",
+            "Michael",
+            "Behe",
+            ",",
+            "a",
+            "senior",
+            "fellow",
+            "of",
+            "the",
+            "Discovery",
+            "Institute",
+            "'s",
+            "Center",
+            "for",
+            "Science",
+            "and",
+            "Culture",
+            ",",
+            "in",
+            "the",
+            "scientific",
+            "journal",
+            "Protein",
+            "Science",
+            ",",
+            "which",
+            "received",
+            "widespread",
+            "criticism",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 9,
+                "type": "PER"
+            },
+            {
+                "start": 15,
+                "end": 17,
+                "type": "ORG"
+            },
+            {
+                "start": 18,
+                "end": 23,
+                "type": "ORG"
+            },
+            {
+                "start": 28,
+                "end": 30,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "280",
+        "tokens": [
+            "Behe",
+            "has",
+            "stated",
+            "that",
+            "the",
+            "results",
+            "of",
+            "the",
+            "paper",
+            "support",
+            "his",
+            "notion",
+            "of",
+            "irreducible",
+            "complexity",
+            ",",
+            "based",
+            "on",
+            "the",
+            "calculation",
+            "of",
+            "the",
+            "probability",
+            "of",
+            "mutations",
+            "required",
+            "for",
+            "evolution",
+            "to",
+            "succeed",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "249",
+        "tokens": [
+            "The",
+            "three",
+            "founding",
+            "members",
+            ",",
+            "Ronan",
+            "Gaughan",
+            ",",
+            "Ruairi",
+            "Ferrie",
+            "and",
+            "former",
+            "drummer",
+            "Ruairi",
+            "Cavanagh",
+            "originally",
+            "hail",
+            "from",
+            "Galway",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 7,
+                "type": "PER"
+            },
+            {
+                "start": 8,
+                "end": 10,
+                "type": "PER"
+            },
+            {
+                "start": 13,
+                "end": 15,
+                "type": "PER"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "124",
+        "tokens": [
+            "It",
+            "is",
+            "located",
+            "in",
+            "the",
+            "Bijeli",
+            "Brijeg",
+            "neighbourhood",
+            "of",
+            "the",
+            "city",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 7,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "152",
+        "tokens": [
+            "Salvador",
+            "Luria",
+            "and",
+            "Max",
+            "Delbrüc",
+            "founded",
+            "the",
+            "Phage",
+            "Course",
+            "in",
+            "1948",
+            ",",
+            "a",
+            "course",
+            "that",
+            "trained",
+            "many",
+            "of",
+            "the",
+            "leaders",
+            "of",
+            "the",
+            "new",
+            "field",
+            "of",
+            "molecular",
+            "genetics",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 3,
+                "end": 5,
+                "type": "PER"
+            }
+        ]
+    }
+]

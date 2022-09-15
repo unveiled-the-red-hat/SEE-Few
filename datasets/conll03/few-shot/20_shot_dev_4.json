@@ -1,0 +1,1401 @@
+[
+    {
+        "org_id": "3200",
+        "tokens": [
+            "The",
+            "group",
+            "demanded",
+            "Wang",
+            "'s",
+            "release",
+            "and",
+            "said",
+            "his",
+            "detention",
+            "was",
+            "a",
+            "dangerous",
+            "signal",
+            "China",
+            "was",
+            "returning",
+            "to",
+            "its",
+            "Cultural",
+            "Revolution",
+            "days",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "LOC"
+            },
+            {
+                "start": 19,
+                "end": 21,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2055",
+        "tokens": [
+            "RUGBY",
+            "UNION",
+            "-",
+            "LYNAGH",
+            "SEALS",
+            "VICTORY",
+            "OVER",
+            "DWYER",
+            "AND",
+            "LEICESTER",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "ORG"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "3087",
+        "tokens": [
+            "The",
+            "book",
+            ",",
+            "which",
+            "has",
+            "been",
+            "translated",
+            "into",
+            "40",
+            "languages",
+            ",",
+            "deals",
+            "with",
+            "a",
+            "day",
+            "in",
+            "the",
+            "life",
+            "of",
+            "Santiago",
+            "de",
+            "Cuba",
+            ",",
+            "Puig",
+            "'s",
+            "native",
+            "city",
+            ",",
+            "under",
+            "the",
+            "pre-Castro",
+            "government",
+            "of",
+            "Fulgencio",
+            "Batista",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 19,
+                "end": 22,
+                "type": "LOC"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "type": "PER"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "type": "MISC"
+            },
+            {
+                "start": 33,
+                "end": 35,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "272",
+        "tokens": [
+            "HOUSTON",
+            "AT",
+            "PITTSBURGH"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "1558",
+        "tokens": [
+            "This",
+            "will",
+            "be",
+            "Pirelli",
+            "'s",
+            "first",
+            "industrial",
+            "involvement",
+            "in",
+            "a",
+            "Chinese",
+            "market",
+            "where",
+            "demand",
+            "for",
+            "telecommunication",
+            "networks",
+            "is",
+            "expected",
+            "to",
+            "grow",
+            "to",
+            "80-100",
+            "million",
+            "new",
+            "lines",
+            "between",
+            "1996",
+            "and",
+            "2000",
+            ",",
+            "doubling",
+            "demand",
+            "for",
+            "optical",
+            "cables",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "1430",
+        "tokens": [
+            "And",
+            "Israeli",
+            "checkpoints",
+            "have",
+            "circled",
+            "Jerusalem",
+            "since",
+            "1993",
+            ",",
+            "a",
+            "concrete",
+            "and",
+            "constant",
+            "reminder",
+            "of",
+            "Israel",
+            "'s",
+            "hold",
+            "on",
+            "a",
+            "city",
+            "it",
+            "considers",
+            "its",
+            "eternal",
+            "capital",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "LOC"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "1179",
+        "tokens": [
+            "\"",
+            "It",
+            "'s",
+            "a",
+            "very",
+            "complicated",
+            "issue",
+            ",",
+            "\"",
+            "said",
+            "the",
+            "Agriculture",
+            "Department",
+            "'s",
+            "Drazek",
+            ".",
+            "\""
+        ],
+        "entities": [
+            {
+                "start": 11,
+                "end": 13,
+                "type": "ORG"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "1565",
+        "tokens": [
+            "Dutch",
+            "bond",
+            "futures",
+            "revival",
+            "delayed",
+            "-",
+            "EOE",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "3237",
+        "tokens": [
+            "Iranian",
+            "troops",
+            "on",
+            "Saturday",
+            "entered",
+            "Kurdish-controlled",
+            "northern",
+            "Iraq",
+            "in",
+            "the",
+            "wake",
+            "of",
+            "an",
+            "assault",
+            "backed",
+            "by",
+            "Baghdad",
+            "into",
+            "the",
+            "region",
+            ",",
+            "an",
+            "Iraqi",
+            "Kurdish",
+            "group",
+            "told",
+            "Reuters",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "MISC"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "LOC"
+            },
+            {
+                "start": 22,
+                "end": 24,
+                "type": "MISC"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "421",
+        "tokens": [
+            "5.",
+            "Dionne",
+            "Rose",
+            "(",
+            "Jamaica",
+            ")",
+            "12.92"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "2985",
+        "tokens": [
+            "Ssangbangwool",
+            "60",
+            "2",
+            "49",
+            ".550",
+            "5"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2217",
+        "tokens": [
+            "Port",
+            "Vale",
+            "2",
+            "Oxford",
+            "0"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "1067",
+        "tokens": [
+            "Dealers",
+            "said",
+            "the",
+            "precious",
+            "metal",
+            "eased",
+            "on",
+            "a",
+            "report",
+            "that",
+            "the",
+            "International",
+            "Monetary",
+            "Fund",
+            "might",
+            "sell",
+            "some",
+            "of",
+            "its",
+            "gold",
+            "to",
+            "reduce",
+            "the",
+            "debts",
+            "of",
+            "the",
+            "poorest",
+            "developing",
+            "countries",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 11,
+                "end": 14,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2988",
+        "tokens": [
+            "Samsung",
+            "49",
+            "5",
+            "57",
+            ".464",
+            "14",
+            "1/2"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2092",
+        "tokens": [
+            "Albion",
+            "3",
+            "3",
+            "0",
+            "0",
+            "5",
+            "0",
+            "9"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "3246",
+        "tokens": [
+            "The",
+            "KDP",
+            "charges",
+            "that",
+            "the",
+            "rival",
+            "Patriotic",
+            "Union",
+            "of",
+            "Kurdistan",
+            ",",
+            "which",
+            "took",
+            "control",
+            "of",
+            "Arbil",
+            "in",
+            "fighting",
+            "in",
+            "December",
+            "1994",
+            ",",
+            "has",
+            "backing",
+            "from",
+            "Iran",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 6,
+                "end": 10,
+                "type": "ORG"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "815",
+        "tokens": [
+            "JAPAN",
+            "-",
+            "Yield",
+            "for",
+            "benchmark",
+            "182nd",
+            "cash",
+            "bond",
+            "fell",
+            "on",
+            "buy-backs",
+            "following",
+            "weaker-than-expected",
+            "industrial",
+            "output",
+            "data",
+            ",",
+            "which",
+            "convinced",
+            "traders",
+            "the",
+            "BOJ",
+            "would",
+            "not",
+            "raise",
+            "interest",
+            "rates",
+            "soon",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "1203",
+        "tokens": [
+            "This",
+            "month",
+            ",",
+            "he",
+            "announced",
+            "that",
+            "he",
+            "would",
+            "oversee",
+            "a",
+            "series",
+            "of",
+            "conferences",
+            "to",
+            "find",
+            "\"",
+            "common",
+            "ground",
+            "\"",
+            "among",
+            "American",
+            "Catholics",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 20,
+                "end": 22,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2119",
+        "tokens": [
+            "Ipswich",
+            "4",
+            "1",
+            "2",
+            "1",
+            "9",
+            "7",
+            "5"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "970",
+        "tokens": [
+            "Poland",
+            "revived",
+            "diplomatic",
+            "ties",
+            "at",
+            "ambassadorial",
+            "level",
+            "with",
+            "Yugoslavia",
+            "in",
+            "April",
+            "but",
+            "economic",
+            "links",
+            "are",
+            "almost",
+            "moribund",
+            ",",
+            "despite",
+            "the",
+            "end",
+            "of",
+            "a",
+            "three-year",
+            "U.N.",
+            "trade",
+            "embargo",
+            "imposed",
+            "to",
+            "punish",
+            "Belgrade",
+            "for",
+            "its",
+            "support",
+            "of",
+            "Bosnian",
+            "Serbs",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "LOC"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "type": "ORG"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "type": "LOC"
+            },
+            {
+                "start": 35,
+                "end": 37,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2891",
+        "tokens": [
+            "1836",
+            "-",
+            "Scottish",
+            "politician",
+            "Sir",
+            "Henry",
+            "Campbell-Bannerman",
+            "born",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "MISC"
+            },
+            {
+                "start": 5,
+                "end": 7,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "1867",
+        "tokens": [
+            "Saqlain",
+            "Mushtaq",
+            "b",
+            "Hollioake",
+            "0"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "3025",
+        "tokens": [
+            "Mahala",
+            "is",
+            "a",
+            "Moslem",
+            "village",
+            "on",
+            "Bosnian",
+            "Serb",
+            "republic",
+            "territory",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "MISC"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2641",
+        "tokens": [
+            "Major",
+            "league",
+            "ERA",
+            "leader",
+            "Kevin",
+            "Brown",
+            "threw",
+            "an",
+            "eight-hitter",
+            "and",
+            "Devon",
+            "White",
+            "'s",
+            "RBI",
+            "double",
+            "snapped",
+            "a",
+            "fifth-inning",
+            "tie",
+            "as",
+            "the",
+            "Florida",
+            "Marlins",
+            "beat",
+            "the",
+            "Cincinnati",
+            "Reds",
+            "3-1",
+            "for",
+            "their",
+            "seventh",
+            "straight",
+            "win",
+            "Friday",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "MISC"
+            },
+            {
+                "start": 4,
+                "end": 6,
+                "type": "PER"
+            },
+            {
+                "start": 10,
+                "end": 12,
+                "type": "PER"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "MISC"
+            },
+            {
+                "start": 21,
+                "end": 23,
+                "type": "ORG"
+            },
+            {
+                "start": 25,
+                "end": 27,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2393",
+        "tokens": [
+            "Results",
+            "in",
+            "the",
+            "Trofej",
+            "Beograd",
+            "96"
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 6,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2916",
+        "tokens": [
+            "1993",
+            "-",
+            "Six",
+            "former",
+            "Soviet",
+            "republics",
+            ",",
+            "Russia",
+            ",",
+            "Belarus",
+            ",",
+            "Kazakhstan",
+            ",",
+            "Uzbekistan",
+            ",",
+            "Armenia",
+            "and",
+            "Tajikistan",
+            ",",
+            "signed",
+            "framework",
+            "agreement",
+            "to",
+            "keep",
+            "the",
+            "Russian",
+            "rouble",
+            "as",
+            "their",
+            "common",
+            "currency",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "MISC"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "LOC"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "LOC"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "LOC"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "LOC"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2276",
+        "tokens": [
+            "3.",
+            "Bobby",
+            "Rahal",
+            "(",
+            "U.S.",
+            ")",
+            ",",
+            "Reynard",
+            "Mercedes-Benz",
+            ",",
+            "54.507"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            },
+            {
+                "start": 7,
+                "end": 9,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2662",
+        "tokens": [
+            "Cubs",
+            "shortstop",
+            "Jose",
+            "Hernandez",
+            "committed",
+            "three",
+            "of",
+            "Chicago",
+            "'s",
+            "four",
+            "errors",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 2,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "491",
+        "tokens": [
+            "7.",
+            "Pauline",
+            "Konga",
+            "(",
+            "Kenya",
+            ")",
+            "15:09.74"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "3189",
+        "tokens": [
+            "The",
+            "domestic",
+            "Yonhap",
+            "news",
+            "agency",
+            "said",
+            "the",
+            "South",
+            "Korean",
+            "government",
+            "would",
+            "consider",
+            "the",
+            "northern",
+            "demand",
+            "only",
+            "if",
+            "the",
+            "North",
+            "accepted",
+            "Seoul",
+            "'s",
+            "requests",
+            ",",
+            "which",
+            "include",
+            "regular",
+            "reunions",
+            "of",
+            "families",
+            "split",
+            "by",
+            "the",
+            "Korean",
+            "War",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "ORG"
+            },
+            {
+                "start": 7,
+                "end": 9,
+                "type": "MISC"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "LOC"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "type": "LOC"
+            },
+            {
+                "start": 33,
+                "end": 34,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "1909",
+        "tokens": [
+            "13.",
+            "Rita",
+            "Razmaite",
+            "(",
+            "Lithuania",
+            ")",
+            "38.546"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "631",
+        "tokens": [
+            "D.",
+            "Fleming",
+            "c",
+            "Chandana",
+            "b",
+            "Jayasuriya",
+            "3"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "1276",
+        "tokens": [
+            "Israel",
+            "announced",
+            "this",
+            "week",
+            "the",
+            "expansion",
+            "of",
+            "Jewish",
+            "West",
+            "Bank",
+            "settlements",
+            "surrounding",
+            "Jerusalem",
+            "and",
+            "the",
+            "demolition",
+            "of",
+            "an",
+            "Arab",
+            "community",
+            "centre",
+            "in",
+            "East",
+            "Jerusalem",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "MISC"
+            },
+            {
+                "start": 8,
+                "end": 10,
+                "type": "LOC"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "LOC"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "MISC"
+            },
+            {
+                "start": 22,
+                "end": 24,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "382",
+        "tokens": [
+            "Henke",
+            ",",
+            "who",
+            "came",
+            "within",
+            "one",
+            "shot",
+            "of",
+            "the",
+            "course",
+            "record",
+            "set",
+            "by",
+            "Andrew",
+            "Magee",
+            "during",
+            "Wednesday",
+            "'s",
+            "pro-am",
+            ",",
+            "has",
+            "three",
+            "career",
+            "PGA",
+            "Tour",
+            "victories",
+            ",",
+            "but",
+            "none",
+            "since",
+            "the",
+            "1993",
+            "BellSouth",
+            "Classic",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 13,
+                "end": 15,
+                "type": "PER"
+            },
+            {
+                "start": 23,
+                "end": 25,
+                "type": "MISC"
+            },
+            {
+                "start": 32,
+                "end": 34,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "127",
+        "tokens": [
+            "If",
+            "he",
+            "loses",
+            "Saturday",
+            ",",
+            "it",
+            "could",
+            "devalue",
+            "his",
+            "position",
+            "as",
+            "one",
+            "of",
+            "the",
+            "world",
+            "'s",
+            "great",
+            "boxers",
+            ",",
+            "\"",
+            "Panamanian",
+            "Boxing",
+            "Association",
+            "President",
+            "Ramon",
+            "Manzanares",
+            "said",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 20,
+                "end": 21,
+                "type": "MISC"
+            },
+            {
+                "start": 21,
+                "end": 23,
+                "type": "ORG"
+            },
+            {
+                "start": 24,
+                "end": 26,
+                "type": "PER"
+            }
+        ]
+    }
+]

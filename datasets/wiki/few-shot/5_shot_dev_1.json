@@ -1,0 +1,430 @@
+[
+    {
+        "org_id": "102",
+        "tokens": [
+            "In",
+            "1995",
+            ",",
+            "CPZ",
+            "got",
+            "the",
+            "\"",
+            "A",
+            "Status",
+            "\"",
+            "of",
+            "the",
+            "Dutch",
+            "government",
+            "and",
+            "began",
+            "building",
+            "an",
+            "international",
+            "Grand",
+            "Prix",
+            "Circuit",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "MISC"
+            },
+            {
+                "start": 19,
+                "end": 21,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "203",
+        "tokens": [
+            "Formed",
+            "in",
+            "1986",
+            ",",
+            "they",
+            "signed",
+            "to",
+            "independent",
+            "label",
+            "Food",
+            "later",
+            "that",
+            "year",
+            "and",
+            "their",
+            "début",
+            "single",
+            "\"",
+            "Wha",
+            "Gives",
+            "You",
+            "The",
+            "Idea",
+            "That",
+            "You",
+            "'re",
+            "So",
+            "Amazing",
+            ",",
+            "Baby",
+            "?",
+            "\"",
+            "reached",
+            "number",
+            "2",
+            "in",
+            "the",
+            "UK",
+            "Indie",
+            "Chart",
+            "in",
+            "March",
+            "1983",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 9,
+                "end": 10,
+                "type": "ORG"
+            },
+            {
+                "start": 18,
+                "end": 31,
+                "type": "MISC"
+            },
+            {
+                "start": 37,
+                "end": 38,
+                "type": "LOC"
+            },
+            {
+                "start": 38,
+                "end": 40,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "46",
+        "tokens": [
+            "Champdor",
+            "is",
+            "a",
+            "commune",
+            "in",
+            "the",
+            "French",
+            "département",
+            "of",
+            "Ai",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "MISC"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "303",
+        "tokens": [
+            "During",
+            "his",
+            "time",
+            "in",
+            "the",
+            "US",
+            "Navy",
+            ",",
+            "Langejans",
+            "made",
+            "regular",
+            "practice",
+            "of",
+            "entertaining",
+            "his",
+            "fellow",
+            "sailors",
+            "with",
+            "his",
+            "accordion",
+            "and",
+            "guitar",
+            "talents",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 7,
+                "type": "ORG"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "19",
+        "tokens": [
+            "Chad",
+            "Edward",
+            "Gaudin",
+            "(",
+            "pronounced",
+            "go-DAN",
+            ")",
+            "(",
+            "born",
+            "March",
+            "24",
+            ",",
+            "1983",
+            "in",
+            "New",
+            "Orleans",
+            ",",
+            "Louisiana",
+            ")",
+            "is",
+            "a",
+            "right-handed",
+            "starting",
+            "pitcher",
+            "for",
+            "the",
+            "Oakland",
+            "Athletics",
+            "of",
+            "Major",
+            "League",
+            "Baseball",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 14,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "LOC"
+            },
+            {
+                "start": 26,
+                "end": 28,
+                "type": "ORG"
+            },
+            {
+                "start": 29,
+                "end": 32,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "278",
+        "tokens": [
+            "Snoke",
+            "was",
+            "elected",
+            "a",
+            "Fellow",
+            "of",
+            "the",
+            "American",
+            "Scientific",
+            "Affiliation",
+            "in",
+            "2006",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 7,
+                "end": 10,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "280",
+        "tokens": [
+            "Behe",
+            "has",
+            "stated",
+            "that",
+            "the",
+            "results",
+            "of",
+            "the",
+            "paper",
+            "support",
+            "his",
+            "notion",
+            "of",
+            "irreducible",
+            "complexity",
+            ",",
+            "based",
+            "on",
+            "the",
+            "calculation",
+            "of",
+            "the",
+            "probability",
+            "of",
+            "mutations",
+            "required",
+            "for",
+            "evolution",
+            "to",
+            "succeed",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "152",
+        "tokens": [
+            "Salvador",
+            "Luria",
+            "and",
+            "Max",
+            "Delbrüc",
+            "founded",
+            "the",
+            "Phage",
+            "Course",
+            "in",
+            "1948",
+            ",",
+            "a",
+            "course",
+            "that",
+            "trained",
+            "many",
+            "of",
+            "the",
+            "leaders",
+            "of",
+            "the",
+            "new",
+            "field",
+            "of",
+            "molecular",
+            "genetics",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 3,
+                "end": 5,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "286",
+        "tokens": [
+            "In",
+            "fact",
+            ",",
+            "Professor",
+            "Behe",
+            "admitted",
+            "that",
+            "the",
+            "study",
+            "which",
+            "forms",
+            "the",
+            "basis",
+            "for",
+            "the",
+            "article",
+            "did",
+            "not",
+            "rule",
+            "out",
+            "many",
+            "known",
+            "evolutionary",
+            "mechanisms",
+            "and",
+            "that",
+            "the",
+            "research",
+            "actually",
+            "might",
+            "support",
+            "evolutionary",
+            "pathways",
+            "if",
+            "a",
+            "biologically",
+            "realistic",
+            "population",
+            "size",
+            "were",
+            "used",
+            ".",
+            "\""
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "PER"
+            }
+        ]
+    }
+]

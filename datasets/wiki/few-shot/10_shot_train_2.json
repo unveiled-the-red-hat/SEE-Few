@@ -1,0 +1,768 @@
+[
+    {
+        "org_id": "3",
+        "tokens": [
+            "XXX",
+            "can",
+            "of",
+            "This",
+            "had",
+            "a",
+            "different",
+            "meaning",
+            ",",
+            "and",
+            "most",
+            "people",
+            "did",
+            "n't",
+            "understand",
+            "what",
+            "the",
+            "song",
+            "was",
+            "about",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 4,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "869",
+        "tokens": [
+            "Dr.",
+            "Verna",
+            "Magee-Shepherd",
+            "is",
+            "Acting",
+            "President",
+            "of",
+            "the",
+            "Institute",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "357",
+        "tokens": [
+            "In",
+            "the",
+            "end",
+            ",",
+            "the",
+            "MAAA",
+            "investigated",
+            "into",
+            "why",
+            "its",
+            "hockey",
+            "club",
+            "wanted",
+            "to",
+            "refuse",
+            "and",
+            "return",
+            "the",
+            "trophy",
+            ",",
+            "even",
+            "though",
+            "such",
+            "an",
+            "action",
+            "would",
+            "damage",
+            "the",
+            "reputation",
+            "of",
+            "the",
+            "MAAA",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 6,
+                "type": "ORG"
+            },
+            {
+                "start": 31,
+                "end": 32,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "583",
+        "tokens": [
+            "Despite",
+            "having",
+            "malaria",
+            "and",
+            "having",
+            "to",
+            "command",
+            "a",
+            "company",
+            "of",
+            "new",
+            "conscripts",
+            "with",
+            "insufficient",
+            "artillery",
+            ",",
+            "Belgrano",
+            "accepted",
+            "the",
+            "commanding",
+            "post",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 16,
+                "end": 17,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "526",
+        "tokens": [
+            "Its",
+            "current",
+            "president",
+            "is",
+            "Kang",
+            "Young",
+            "Joong",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 7,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "368",
+        "tokens": [
+            "Andrew",
+            "Sant",
+            "(",
+            "b.",
+            "1950",
+            ")",
+            "is",
+            "an",
+            "English",
+            "born",
+            "Australian",
+            "poet",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "MISC"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "561",
+        "tokens": [
+            "In",
+            "addition",
+            ",",
+            "there",
+            "are",
+            "American",
+            "Boy",
+            "Scouts",
+            "in",
+            "Dhaka",
+            ",",
+            "linked",
+            "to",
+            "the",
+            "Direct",
+            "Service",
+            "branch",
+            "of",
+            "the",
+            "Boy",
+            "Scouts",
+            "of",
+            "America",
+            ",",
+            "which",
+            "supports",
+            "units",
+            "around",
+            "the",
+            "world",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 8,
+                "type": "ORG"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "LOC"
+            },
+            {
+                "start": 19,
+                "end": 23,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "275",
+        "tokens": [
+            "They",
+            "have",
+            "been",
+            "also",
+            "known",
+            "by",
+            "other",
+            "names",
+            ":",
+            "Cagots",
+            ",",
+            "Gahets",
+            ",",
+            "Gafets",
+            "in",
+            "France",
+            ";",
+            "Agotes",
+            ",",
+            "Gafos",
+            "in",
+            "Spain",
+            ";",
+            "and",
+            "Cacons",
+            ",",
+            "Cahets",
+            ",",
+            "Caqueux",
+            "and",
+            "Caquins",
+            "in",
+            "Brittany",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 9,
+                "end": 10,
+                "type": "MISC"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "MISC"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "MISC"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "MISC"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "type": "MISC"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "type": "LOC"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "type": "MISC"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "MISC"
+            },
+            {
+                "start": 28,
+                "end": 29,
+                "type": "MISC"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "type": "MISC"
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "404",
+        "tokens": [
+            "Angelo",
+            "Fresquet",
+            ",",
+            "\"",
+            "Made",
+            "in",
+            "Miami",
+            "\""
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "179",
+        "tokens": [
+            "Iceland",
+            "Air",
+            "Defense",
+            "Force",
+            ",",
+            "24",
+            "April",
+            "1952",
+            "--",
+            "8",
+            "March",
+            "1954",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 4,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "756",
+        "tokens": [
+            "Signed",
+            "as",
+            "a",
+            "defensive",
+            "tackle",
+            "by",
+            "the",
+            "Jets",
+            "for",
+            "the",
+            "1973",
+            "season",
+            "yet",
+            "was",
+            "cut",
+            "in",
+            "training",
+            "camp",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "787",
+        "tokens": [
+            "It",
+            "consists",
+            "of",
+            "the",
+            "Mayor",
+            "of",
+            "Brampton",
+            ",",
+            "currently",
+            "Susan",
+            "Fennell",
+            ",",
+            "five",
+            "elected",
+            "regional",
+            "councillors",
+            "and",
+            "five",
+            "elected",
+            "city",
+            "councillors",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 7,
+                "type": "LOC"
+            },
+            {
+                "start": 9,
+                "end": 11,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "568",
+        "tokens": [
+            "Afterwards",
+            ",",
+            "Wang",
+            "Shichong",
+            ",",
+            "seeing",
+            "no",
+            "other",
+            "choice",
+            ",",
+            "surrendered",
+            "Luoyang",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "121",
+        "tokens": [
+            "They",
+            "beat",
+            "out",
+            "Korn",
+            "and",
+            "had",
+            "amassed",
+            "over",
+            "7",
+            "million",
+            "votes",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "953",
+        "tokens": [
+            "He",
+            "began",
+            "playing",
+            "in",
+            "2001",
+            "and",
+            "has",
+            "won",
+            "tournaments",
+            "in",
+            "Walsall",
+            ",",
+            "Melbourne",
+            ",",
+            "Luton",
+            "and",
+            "London",
+            "(",
+            "where",
+            "he",
+            "won",
+            "the",
+            "£500",
+            "no",
+            "limit",
+            "hold'em",
+            "event",
+            "of",
+            "the",
+            "200",
+            "British",
+            "Open",
+            ",",
+            "defeating",
+            "Lucy",
+            "Rokach",
+            "in",
+            "the",
+            "heads-up",
+            "confrontation",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 10,
+                "end": 11,
+                "type": "LOC"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "LOC"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "LOC"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "LOC"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "type": "PER"
+            },
+            {
+                "start": 30,
+                "end": 32,
+                "type": "MISC"
+            },
+            {
+                "start": 34,
+                "end": 36,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "93",
+        "tokens": [
+            "The",
+            "album",
+            "was",
+            "produced",
+            "by",
+            "Josh",
+            "Abraham",
+            ",",
+            "whose",
+            "producing",
+            "credits",
+            "also",
+            "include",
+            "Orgy",
+            ",",
+            "Velvet",
+            "Revolver",
+            ",",
+            "and",
+            "Linkin",
+            "Park",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 7,
+                "type": "PER"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "ORG"
+            },
+            {
+                "start": 15,
+                "end": 17,
+                "type": "ORG"
+            },
+            {
+                "start": 19,
+                "end": 21,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "254",
+        "tokens": [
+            "Adilson",
+            "Tavares",
+            "Varela",
+            ",",
+            "commonly",
+            "known",
+            "as",
+            "Cabral",
+            ",",
+            "(",
+            "born",
+            "22",
+            "October",
+            "1988",
+            ")",
+            "is",
+            "a",
+            "footballer",
+            "from",
+            "Switzerland",
+            "who",
+            "currently",
+            "plays",
+            "as",
+            "midfielder",
+            "in",
+            "the",
+            "Swiss",
+            "Super",
+            "League",
+            "for",
+            "FC",
+            "Basel",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "type": "LOC"
+            },
+            {
+                "start": 27,
+                "end": 30,
+                "type": "ORG"
+            },
+            {
+                "start": 31,
+                "end": 33,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "447",
+        "tokens": [
+            "The",
+            "words",
+            "were",
+            "set",
+            "to",
+            "a",
+            "melody",
+            "by",
+            "composer",
+            "Alfredo",
+            "Keil",
+            "and",
+            "the",
+            "song",
+            "soon",
+            "became",
+            "popular",
+            "among",
+            "people",
+            "unhappy",
+            "with",
+            "what",
+            "they",
+            "considered",
+            "a",
+            "submissive",
+            "and",
+            "humiliating",
+            "attitude",
+            "by",
+            "the",
+            "Portuguese",
+            "authorities",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 9,
+                "end": 11,
+                "type": "PER"
+            },
+            {
+                "start": 31,
+                "end": 32,
+                "type": "MISC"
+            }
+        ]
+    }
+]

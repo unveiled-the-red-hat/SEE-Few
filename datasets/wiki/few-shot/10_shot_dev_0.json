@@ -1,0 +1,896 @@
+[
+    {
+        "org_id": "20",
+        "tokens": [
+            "Gaudin",
+            "attended",
+            "Crescent",
+            "City",
+            "High",
+            "School",
+            "in",
+            "Metairie",
+            ",",
+            "Louisiana",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 2,
+                "end": 6,
+                "type": "ORG"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "277",
+        "tokens": [
+            "His",
+            "book",
+            ",",
+            "A",
+            "Biblical",
+            "Case",
+            "for",
+            "an",
+            "Old",
+            "Earth",
+            "was",
+            "described",
+            "in",
+            "a",
+            "review",
+            "by",
+            "Law",
+            "Professor",
+            "David",
+            "W.",
+            "Opderbeck",
+            ",",
+            "in",
+            "the",
+            "American",
+            "Scientific",
+            "Affiliation",
+            "'s",
+            "Perspectives",
+            "on",
+            "Science",
+            "and",
+            "Christian",
+            "Faith",
+            "as",
+            "\"",
+            "succeed[ing",
+            "]",
+            "admirably",
+            "\"",
+            "in",
+            "\"",
+            "establish[ing",
+            "]",
+            "that",
+            "the",
+            "'",
+            "day-age",
+            "'",
+            "view",
+            "is",
+            "a",
+            "valid",
+            "alternative",
+            "for",
+            "Christians",
+            "who",
+            "hold",
+            "to",
+            "biblical",
+            "inerrancy",
+            "\"",
+            ",",
+            "but",
+            "as",
+            "\"",
+            "less",
+            "persuasive",
+            "\"",
+            "at",
+            "\"",
+            "argu[ing",
+            "]",
+            "for",
+            "a",
+            "concordist",
+            "understanding",
+            "of",
+            "the",
+            "Genesis",
+            "texts",
+            "and",
+            "modern",
+            "science",
+            ".",
+            "\""
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 10,
+                "type": "MISC"
+            },
+            {
+                "start": 18,
+                "end": 21,
+                "type": "PER"
+            },
+            {
+                "start": 24,
+                "end": 27,
+                "type": "ORG"
+            },
+            {
+                "start": 55,
+                "end": 56,
+                "type": "MISC"
+            },
+            {
+                "start": 79,
+                "end": 80,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "283",
+        "tokens": [
+            "On",
+            "May",
+            "7",
+            ",",
+            "2005",
+            ",",
+            "Behe",
+            "described",
+            "the",
+            "paper",
+            "in",
+            "presenting",
+            "arguments",
+            "for",
+            "irreducible",
+            "complexity",
+            "in",
+            "his",
+            "testimony",
+            "at",
+            "the",
+            "Kansas",
+            "evolution",
+            "hearings",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 7,
+                "type": "PER"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "33",
+        "tokens": [
+            "On",
+            "December",
+            "5",
+            ",",
+            "2005",
+            ",",
+            "he",
+            "was",
+            "traded",
+            "to",
+            "the",
+            "Athletics",
+            "for",
+            "a",
+            "player",
+            "to",
+            "be",
+            "named",
+            "later",
+            ",",
+            "who",
+            "later",
+            "turned",
+            "out",
+            "to",
+            "be",
+            "outfielder",
+            "Dustin",
+            "Majewski",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 11,
+                "end": 12,
+                "type": "ORG"
+            },
+            {
+                "start": 27,
+                "end": 29,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "295",
+        "tokens": [
+            "In",
+            "return",
+            "Magedson",
+            "filed",
+            "a",
+            "lawsuit",
+            "under",
+            "RICO",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "41",
+        "tokens": [
+            "The",
+            "language",
+            "is",
+            "of",
+            "the",
+            "Chamicuro",
+            "people",
+            "who",
+            "number",
+            "between",
+            "10",
+            "and",
+            "20",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 6,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "44",
+        "tokens": [
+            "A",
+            "Chamicuro",
+            "dictionary",
+            "has",
+            "been",
+            "created",
+            ",",
+            "however",
+            "no",
+            "children",
+            "can",
+            "speak",
+            "the",
+            "language",
+            "as",
+            "they",
+            "have",
+            "shifted",
+            "to",
+            "Spanish",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "47",
+        "tokens": [
+            "Changer",
+            "les",
+            "choses",
+            "(",
+            "Change",
+            "the",
+            "Things",
+            ")",
+            "is",
+            "the",
+            "official",
+            "debut",
+            "album",
+            "by",
+            "the",
+            "France",
+            "-born",
+            "singer",
+            "Nâdiy",
+            ".",
+            "The",
+            "album",
+            "was",
+            "only",
+            "released",
+            "in",
+            "France",
+            "on",
+            "November",
+            "5",
+            ",",
+            "2001",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "type": "MISC"
+            },
+            {
+                "start": 4,
+                "end": 7,
+                "type": "MISC"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "PER"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "55",
+        "tokens": [
+            "Although",
+            "he",
+            "was",
+            "unsuccessful",
+            ",",
+            "he",
+            "managed",
+            "to",
+            "increase",
+            "NFP",
+            "'s",
+            "share",
+            "of",
+            "the",
+            "votes",
+            "by",
+            "50%",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 9,
+                "end": 10,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "189",
+        "tokens": [
+            "It",
+            "specializes",
+            "in",
+            "the",
+            "works",
+            "of",
+            "Maxfield",
+            "Parrish",
+            ",",
+            "and",
+            "houses",
+            "the",
+            "collection",
+            "of",
+            "Alma",
+            "Gilbert",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 14,
+                "end": 16,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "325",
+        "tokens": [
+            "He",
+            "became",
+            "more",
+            "passionate",
+            "about",
+            "music",
+            ",",
+            "and",
+            "was",
+            "reflected",
+            "when",
+            "Budjana",
+            "moved",
+            "to",
+            "Surabaya",
+            ",",
+            "East",
+            "Java",
+            ",",
+            "where",
+            "he",
+            "took",
+            "a",
+            "classical",
+            "music",
+            "course",
+            ",",
+            "performed",
+            "with",
+            "a",
+            "band",
+            "and",
+            "participated",
+            "in",
+            "many",
+            "of",
+            "music",
+            "performances",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 11,
+                "end": 12,
+                "type": "PER"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "LOC"
+            },
+            {
+                "start": 16,
+                "end": 18,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "76",
+        "tokens": [
+            "As",
+            "a",
+            "result",
+            ",",
+            "the",
+            "two",
+            "Mara",
+            "scripts",
+            "were",
+            "Bailey",
+            "'s",
+            "final",
+            "broadcast",
+            "work",
+            "for",
+            "both",
+            "Doctor",
+            "Who",
+            "and",
+            "television",
+            "in",
+            "general",
+            "and",
+            "he",
+            "returned",
+            "to",
+            "a",
+            "career",
+            "in",
+            "academia",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 9,
+                "end": 10,
+                "type": "PER"
+            },
+            {
+                "start": 16,
+                "end": 18,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "204",
+        "tokens": [
+            "For",
+            "the",
+            "rest",
+            "of",
+            "the",
+            "year",
+            "they",
+            "toured",
+            "extensively",
+            ",",
+            "supporting",
+            "The",
+            "Cult",
+            ",",
+            "then",
+            "Julian",
+            "Cope",
+            ",",
+            "and",
+            "also",
+            "played",
+            "the",
+            "Glastonbury",
+            "Festival",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 11,
+                "end": 13,
+                "type": "ORG"
+            },
+            {
+                "start": 15,
+                "end": 17,
+                "type": "PER"
+            },
+            {
+                "start": 22,
+                "end": 24,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "337",
+        "tokens": [
+            "A",
+            "few",
+            "years",
+            "later",
+            ",",
+            "Budjana",
+            "joined",
+            "the",
+            "band",
+            "Spirit",
+            ",",
+            "which",
+            "included",
+            "Baron",
+            ",",
+            "Gigi",
+            "'s",
+            "former",
+            "guitarist",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 6,
+                "type": "PER"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "ORG"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "PER"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "209",
+        "tokens": [
+            "In",
+            "1989",
+            "they",
+            "made",
+            "two",
+            "brief",
+            "tours",
+            "of",
+            "the",
+            "United",
+            "States",
+            ",",
+            "and",
+            "appeared",
+            "at",
+            "the",
+            "Reading",
+            "Festival",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 9,
+                "end": 11,
+                "type": "LOC"
+            },
+            {
+                "start": 16,
+                "end": 18,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "216",
+        "tokens": [
+            "They",
+            "again",
+            "toured",
+            "the",
+            "UK",
+            ",",
+            "supporting",
+            "The",
+            "Mission",
+            "on",
+            "a",
+            "number",
+            "of",
+            "UK",
+            "dates",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            },
+            {
+                "start": 7,
+                "end": 9,
+                "type": "ORG"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "100",
+        "tokens": [
+            "The",
+            "track",
+            ",",
+            "owned",
+            "by",
+            "the",
+            "municipality",
+            "of",
+            "Zandvoort",
+            ",",
+            "was",
+            "not",
+            "used",
+            "for",
+            "some",
+            "time",
+            "and",
+            "part",
+            "of",
+            "the",
+            "grounds",
+            "and",
+            "approximately",
+            "half",
+            "of",
+            "the",
+            "track",
+            "was",
+            "sold",
+            "in",
+            "1987",
+            "to",
+            "Vendorado",
+            ",",
+            "a",
+            "Bungalow",
+            "park",
+            "developer",
+            "at",
+            "that",
+            "time",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 8,
+                "end": 9,
+                "type": "LOC"
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "234",
+        "tokens": [
+            "Daniel",
+            "Claudiu",
+            "Prodan",
+            "(",
+            "born",
+            "23",
+            "March",
+            "1972",
+            ")",
+            "is",
+            "a",
+            "retired",
+            "Romanian",
+            "soccer",
+            "defender",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "239",
+        "tokens": [
+            "He",
+            "scored",
+            "one",
+            "international",
+            "goal",
+            ",",
+            "against",
+            "Slovakia",
+            "in",
+            "1994",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "248",
+        "tokens": [
+            "Dark",
+            "Room",
+            "Notes",
+            "are",
+            "a",
+            "four-piece",
+            "electro",
+            "/",
+            "synthpop",
+            "band",
+            "based",
+            "in",
+            "Dublin",
+            ",",
+            "Ireland",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "type": "ORG"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "LOC"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "LOC"
+            }
+        ]
+    }
+]

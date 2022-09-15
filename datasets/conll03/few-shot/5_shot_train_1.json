@@ -1,0 +1,339 @@
+[
+    {
+        "org_id": "12384",
+        "tokens": [
+            "--",
+            "John",
+            "Gilardi",
+            ",",
+            "Frankfurt",
+            "Newsroom",
+            ",",
+            "+49",
+            "69",
+            "756525"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 6,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "12195",
+        "tokens": [
+            "\"",
+            "It",
+            "'s",
+            "definitely",
+            "a",
+            "turnabout",
+            "from",
+            "this",
+            "past",
+            "year",
+            ",",
+            "but",
+            "you",
+            "know",
+            "last",
+            "year",
+            "we",
+            "had",
+            "pretty",
+            "good",
+            "moisture",
+            "about",
+            "this",
+            "time",
+            "of",
+            "year",
+            ",",
+            "and",
+            "then",
+            "about",
+            "October",
+            "1",
+            "it",
+            "quit",
+            ",",
+            "\"",
+            "said",
+            "Mark",
+            "Hodges",
+            ",",
+            "executive",
+            "director",
+            "of",
+            "the",
+            "Oklahoma",
+            "Wheat",
+            "Commission",
+            ".",
+            "\""
+        ],
+        "entities": [
+            {
+                "start": 37,
+                "end": 39,
+                "type": "PER"
+            },
+            {
+                "start": 44,
+                "end": 47,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "10855",
+        "tokens": [
+            "LONDON",
+            "1996-08-28"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "7083",
+        "tokens": [
+            "Petrimex",
+            "Prievidza",
+            "2",
+            "FC",
+            "Rimavska",
+            "Sobota",
+            "0"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 3,
+                "end": 6,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "13037",
+        "tokens": [
+            "1.",
+            "Rolf",
+            "Sorensen",
+            "(",
+            "Denmark",
+            ")",
+            "Rabobank",
+            "22",
+            "minutes",
+            "40",
+            "seconds"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "12110",
+        "tokens": [
+            "Republican",
+            "presidential",
+            "candidate",
+            "Bob",
+            "Dole",
+            "Wednesday",
+            "accused",
+            "the",
+            "Clinton",
+            "administration",
+            "of",
+            "ignoring",
+            "drug",
+            "use",
+            "among",
+            "teenagers",
+            "and",
+            "said",
+            "if",
+            "elected",
+            "he",
+            "would",
+            "use",
+            "the",
+            "National",
+            "Guard",
+            "to",
+            "stop",
+            "drugs",
+            "from",
+            "entering",
+            "the",
+            "United",
+            "States",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 3,
+                "end": 5,
+                "type": "PER"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "PER"
+            },
+            {
+                "start": 24,
+                "end": 26,
+                "type": "ORG"
+            },
+            {
+                "start": 32,
+                "end": 34,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "4371",
+        "tokens": [
+            "VIENNA",
+            "1996-08-24"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "10202",
+        "tokens": [
+            "Toronto-based",
+            "Barrick",
+            ",",
+            "the",
+            "world",
+            "'s",
+            "third",
+            "largest",
+            "gold",
+            "producer",
+            ",",
+            "sweetened",
+            "its",
+            "July",
+            "11",
+            "bid",
+            "to",
+            "C$",
+            "30",
+            "a",
+            "share",
+            "from",
+            "C$",
+            "27",
+            "on",
+            "August",
+            "16",
+            "after",
+            "a",
+            "fresh",
+            "batch",
+            "of",
+            "drill",
+            "results",
+            "from",
+            "the",
+            "Pierina",
+            "deposit",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 1,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "MISC"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "type": "MISC"
+            },
+            {
+                "start": 36,
+                "end": 37,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "287",
+        "tokens": [
+            "Greek",
+            "socialists",
+            "give",
+            "PM",
+            "green",
+            "light",
+            "for",
+            "election",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            }
+        ]
+    }
+]

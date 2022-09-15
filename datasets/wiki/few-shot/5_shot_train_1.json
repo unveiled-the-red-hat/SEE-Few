@@ -1,0 +1,386 @@
+[
+    {
+        "org_id": "11",
+        "tokens": [
+            "The",
+            "139th",
+            "along",
+            "with",
+            "its",
+            "brigade",
+            "and",
+            "division",
+            "spent",
+            "the",
+            "next",
+            "week",
+            "marching",
+            "from",
+            "Poolesville",
+            "to",
+            "Sandy",
+            "Hook",
+            ",",
+            "Maryland",
+            "from",
+            "where",
+            "on",
+            "September",
+            "17",
+            ",",
+            "1862",
+            ",",
+            "it",
+            "was",
+            "forced",
+            "marched",
+            "to",
+            "the",
+            "Battle",
+            "of",
+            "Antietam",
+            "where",
+            "it",
+            "was",
+            "placed",
+            "in",
+            "line",
+            "of",
+            "battle",
+            "but",
+            "did",
+            "not",
+            "see",
+            "any",
+            "significant",
+            "combat",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "LOC"
+            },
+            {
+                "start": 16,
+                "end": 18,
+                "type": "LOC"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "type": "LOC"
+            },
+            {
+                "start": 34,
+                "end": 37,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "590",
+        "tokens": [
+            "With",
+            "these",
+            "documents",
+            "Pazuela",
+            "was",
+            "able",
+            "to",
+            "interrupt",
+            "Belgrano",
+            "'s",
+            "plans",
+            "and",
+            "began",
+            "his",
+            "advance",
+            "on",
+            "the",
+            "mountains",
+            "on",
+            "October",
+            "1",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "723",
+        "tokens": [
+            "The",
+            "name",
+            "Bilka",
+            "is",
+            "believed",
+            "by",
+            "many",
+            "to",
+            "be",
+            "a",
+            "mix",
+            "of",
+            "the",
+            "German",
+            "Billiges",
+            "Kaufhaus",
+            "(",
+            "low-price",
+            "department",
+            "store",
+            ")",
+            ",",
+            "which",
+            "its",
+            "founder",
+            ",",
+            "Herman",
+            "Salling",
+            "had",
+            "encountered",
+            "during",
+            "his",
+            "business",
+            "trips",
+            "to",
+            "West",
+            "Germany",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "ORG"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "MISC"
+            },
+            {
+                "start": 26,
+                "end": 28,
+                "type": "PER"
+            },
+            {
+                "start": 35,
+                "end": 37,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "308",
+        "tokens": [
+            "He",
+            "is",
+            "known",
+            "to",
+            "have",
+            "a",
+            "three-and-a-half",
+            "octave",
+            "range",
+            "voice",
+            ",",
+            "and",
+            "has",
+            "performed",
+            "with",
+            "John",
+            "Denver",
+            "on",
+            "the",
+            "song",
+            "\"",
+            "Let",
+            "Us",
+            "Begin",
+            "...",
+            "\""
+        ],
+        "entities": [
+            {
+                "start": 15,
+                "end": 17,
+                "type": "PER"
+            },
+            {
+                "start": 21,
+                "end": 25,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "22",
+        "tokens": [
+            "The",
+            "139th",
+            "supported",
+            "Sheridan",
+            "in",
+            "the",
+            "Appomattox",
+            "Campaign",
+            "and",
+            "fought",
+            "in",
+            "the",
+            "Battle",
+            "of",
+            "Sayler",
+            "'s",
+            "Creek",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "MISC"
+            },
+            {
+                "start": 12,
+                "end": 17,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "570",
+        "tokens": [
+            "The",
+            "French",
+            "Voulet-Chanoine",
+            "Mission",
+            ",",
+            "led",
+            "by",
+            "the",
+            "captains",
+            "Paul",
+            "Voulet",
+            "and",
+            "Julien",
+            "Chanoine",
+            ",",
+            "had",
+            "been",
+            "dispatched",
+            "in",
+            "1898",
+            "to",
+            "Africa",
+            "by",
+            "the",
+            "French",
+            "government",
+            "with",
+            "the",
+            "mission",
+            "to",
+            "conquer",
+            "the",
+            "territories",
+            "between",
+            "the",
+            "Niger",
+            "River",
+            "and",
+            "Lake",
+            "Chad",
+            "and",
+            "join",
+            "in",
+            "uniting",
+            "French",
+            "territories",
+            "in",
+            "West",
+            "Africa",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 2,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 9,
+                "end": 11,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "type": "PER"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "type": "LOC"
+            },
+            {
+                "start": 24,
+                "end": 26,
+                "type": "ORG"
+            },
+            {
+                "start": 35,
+                "end": 37,
+                "type": "LOC"
+            },
+            {
+                "start": 38,
+                "end": 40,
+                "type": "LOC"
+            },
+            {
+                "start": 44,
+                "end": 45,
+                "type": "MISC"
+            },
+            {
+                "start": 47,
+                "end": 49,
+                "type": "LOC"
+            }
+        ]
+    }
+]

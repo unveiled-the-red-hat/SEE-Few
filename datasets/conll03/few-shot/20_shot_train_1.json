@@ -1,0 +1,1339 @@
+[
+    {
+        "org_id": "7808",
+        "tokens": [
+            "The",
+            "Croatian",
+            "lending",
+            "rate",
+            "fell",
+            "to",
+            "8.0",
+            "percent",
+            "on",
+            "Monday",
+            "from",
+            "last",
+            "Friday",
+            "'s",
+            "9.1",
+            "percent",
+            "after",
+            "thin",
+            "demand",
+            "for",
+            "kuna",
+            "forced",
+            "bank",
+            "lenders",
+            "to",
+            "trim",
+            "their",
+            "rates",
+            "further",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "11913",
+        "tokens": [
+            "Bulgaria",
+            "has",
+            "restored",
+            "ownership",
+            "rights",
+            "to",
+            "pre-communist",
+            "private",
+            "owners",
+            "of",
+            "75",
+            "percent",
+            "of",
+            "the",
+            "arable",
+            "land",
+            "or",
+            "around",
+            "four",
+            "million",
+            "hectares",
+            ",",
+            "an",
+            "Agriculture",
+            "Ministry",
+            "official",
+            "said",
+            "on",
+            "Wednesday",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 23,
+                "end": 25,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "14090",
+        "tokens": [
+            "-",
+            "Karachi",
+            "Stock",
+            "Exchange",
+            "index",
+            "falls",
+            "by",
+            "7.84",
+            "points",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 4,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "13839",
+        "tokens": [
+            "Israeli",
+            "prison",
+            "officials",
+            "took",
+            "jailed",
+            "Islamic",
+            "militant",
+            "Hamas",
+            "founder",
+            "Sheikh",
+            "Ahmed",
+            "Yassin",
+            "to",
+            "hospital",
+            "briefly",
+            "on",
+            "Thursday",
+            "for",
+            "medical",
+            "tests",
+            ",",
+            "officials",
+            "said",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "MISC"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "ORG"
+            },
+            {
+                "start": 10,
+                "end": 12,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "13843",
+        "tokens": [
+            "The",
+            "ailing",
+            "Yassin",
+            "is",
+            "the",
+            "spiritual",
+            "leader",
+            "of",
+            "the",
+            "fundamentalist",
+            "Hamas",
+            "group",
+            "which",
+            "has",
+            "killed",
+            "scores",
+            "of",
+            "Israelis",
+            "in",
+            "suicide",
+            "attacks",
+            "aimed",
+            "at",
+            "wrecking",
+            "Israel-PLO",
+            "peace",
+            "deals",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "ORG"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "MISC"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "14875",
+        "tokens": [
+            "Austria",
+            "beat",
+            "Scotland",
+            "4-0",
+            "(",
+            "halftime",
+            "3-0",
+            ")",
+            "in",
+            "a",
+            "European",
+            "under-21",
+            "championship",
+            "match",
+            "on",
+            "Friday",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "type": "LOC"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "13598",
+        "tokens": [
+            "We",
+            "cannot",
+            "object",
+            "to",
+            "people",
+            "wanting",
+            "to",
+            "visit",
+            "Nigeria",
+            ",",
+            "\"",
+            "Ikimi",
+            "told",
+            "Reuters",
+            "by",
+            "telephone",
+            "from",
+            "the",
+            "capital",
+            "Abuja",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 8,
+                "end": 9,
+                "type": "LOC"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "PER"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "ORG"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "7077",
+        "tokens": [
+            "Inter",
+            "Bratislava",
+            "0",
+            "Slovan",
+            "Bratislava",
+            "2"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 3,
+                "end": 5,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "13606",
+        "tokens": [
+            "Nigeria",
+            "said",
+            "they",
+            "would",
+            "be",
+            "restricted",
+            "to",
+            "a",
+            "two-day",
+            "meeting",
+            "with",
+            "government",
+            "officials",
+            ",",
+            "but",
+            "the",
+            "Commonwealth",
+            "said",
+            "it",
+            "wanted",
+            "to",
+            "hold",
+            "meetings",
+            "with",
+            "people",
+            "outside",
+            "the",
+            "government",
+            "and",
+            "called",
+            "off",
+            "the",
+            "visit",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "6823",
+        "tokens": [
+            "CRICKET",
+            "-",
+            "ENGLISH",
+            "COUNTY",
+            "CHAMPIONSHIP",
+            "RESULTS",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 5,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2475",
+        "tokens": [
+            "Leading",
+            "results",
+            "in",
+            "the",
+            "Brussels"
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "9772",
+        "tokens": [
+            "A",
+            "small",
+            "number",
+            "of",
+            "Bosnians",
+            "had",
+            "also",
+            "begun",
+            "to",
+            "vote",
+            "in",
+            "Turkey",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "MISC"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "5680",
+        "tokens": [
+            "CLEVELAND",
+            "8",
+            "Milwaukee",
+            "5"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "2865",
+        "tokens": [
+            "The",
+            "blonde",
+            "Australian",
+            "opened",
+            "with",
+            "a",
+            "level",
+            "par",
+            "round",
+            "of",
+            "70",
+            "in",
+            "Akron",
+            ",",
+            "leaving",
+            "him",
+            "four",
+            "shots",
+            "adrift",
+            "of",
+            "the",
+            "leaders",
+            ",",
+            "Americans",
+            "Billy",
+            "Mayfair",
+            "and",
+            "Paul",
+            "Goydos",
+            "and",
+            "Japan",
+            "'s",
+            "Hidemichi",
+            "Tanaki",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "MISC"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "LOC"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "type": "MISC"
+            },
+            {
+                "start": 24,
+                "end": 26,
+                "type": "PER"
+            },
+            {
+                "start": 27,
+                "end": 29,
+                "type": "PER"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "type": "LOC"
+            },
+            {
+                "start": 32,
+                "end": 34,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "3121",
+        "tokens": [
+            "It",
+            "said",
+            "the",
+            "U.S.",
+            "State",
+            "Department",
+            "'s",
+            "coordinator",
+            "for",
+            "counter",
+            "terrorism",
+            ",",
+            "Philip",
+            "Wilcox",
+            ",",
+            "had",
+            "expressed",
+            "Washington",
+            "'s",
+            "support",
+            "for",
+            "the",
+            "government",
+            "when",
+            "he",
+            "visited",
+            "Colombo",
+            "this",
+            "week",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 6,
+                "type": "ORG"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "type": "PER"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "LOC"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "2363",
+        "tokens": [
+            "SOCCER",
+            "-",
+            "GERMAN",
+            "FIRST",
+            "DIVISION",
+            "SUMMARIES",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "5564",
+        "tokens": [
+            "Adelaide",
+            "14.12",
+            "(",
+            "96",
+            ")",
+            "Collingwood",
+            "24",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "14524",
+        "tokens": [
+            "The",
+            "only",
+            "other",
+            "community",
+            "is",
+            "in",
+            "the",
+            "Russian",
+            "village",
+            "of",
+            "Barentsburg",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "MISC"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "7870",
+        "tokens": [
+            "Interacciones",
+            "ups",
+            "Mexico",
+            "GDP",
+            "forecast",
+            ",",
+            "lowers",
+            "peso",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "12351",
+        "tokens": [
+            "Some",
+            "850",
+            "refugees",
+            "have",
+            "landed",
+            "in",
+            "recent",
+            "weeks",
+            "at",
+            "the",
+            "port",
+            "of",
+            "Rameswaram",
+            "in",
+            "the",
+            "southern",
+            "Indian",
+            "state",
+            "of",
+            "Tamil",
+            "Nadu",
+            ",",
+            "home",
+            "to",
+            "50",
+            "million",
+            "Tamil-speaking",
+            "people",
+            ",",
+            "port",
+            "officials",
+            "say",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 12,
+                "end": 13,
+                "type": "LOC"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "MISC"
+            },
+            {
+                "start": 19,
+                "end": 21,
+                "type": "LOC"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "2369",
+        "tokens": [
+            "St",
+            "Pauli",
+            "4",
+            "(",
+            "Driller",
+            "15th",
+            ",",
+            "Trulsen",
+            "54th",
+            ",",
+            "Springer",
+            "64th",
+            ",",
+            "Sobotzik",
+            "67th",
+            "penalty",
+            ")",
+            "Schalke",
+            "4",
+            "(",
+            "Max",
+            "11th",
+            ",",
+            "Thon",
+            "34th",
+            ",",
+            "Wilmots",
+            "38th",
+            ",",
+            "Springer",
+            "64th",
+            ")",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "PER"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "PER"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "PER"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "ORG"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "type": "PER"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "type": "PER"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "PER"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "6338",
+        "tokens": [
+            "Russian",
+            "troops",
+            "began",
+            "to",
+            "pull",
+            "out",
+            "from",
+            "southern",
+            "Chechnya",
+            "on",
+            "Sunday",
+            "under",
+            "a",
+            "ceasefire",
+            "agreement",
+            "between",
+            "Russian",
+            "security",
+            "chief",
+            "Alexander",
+            "Lebed",
+            "and",
+            "rebel",
+            "leaders",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "LOC"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "MISC"
+            },
+            {
+                "start": 19,
+                "end": 21,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "10823",
+        "tokens": [
+            "Wolverhampton",
+            "3",
+            "2",
+            "1",
+            "0",
+            "5",
+            "2",
+            "7"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "3283",
+        "tokens": [
+            "He",
+            "and",
+            "other",
+            "analysts",
+            "said",
+            "corporate",
+            "America",
+            "adopted",
+            "a",
+            "go-slow",
+            "approach",
+            "because",
+            "Microsoft",
+            "already",
+            "was",
+            "promoting",
+            "the",
+            "new",
+            "version",
+            "of",
+            "its",
+            "high-end",
+            "Windows",
+            "NT",
+            "operating",
+            "system",
+            ",",
+            "expected",
+            "to",
+            "be",
+            "available",
+            "in",
+            "stores",
+            "in",
+            "the",
+            "next",
+            "several",
+            "weeks",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 7,
+                "type": "LOC"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "ORG"
+            },
+            {
+                "start": 22,
+                "end": 24,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "4316",
+        "tokens": [
+            "Borussia",
+            "Moenchengladbach",
+            "1",
+            "(",
+            "Andersson",
+            "22nd",
+            ")",
+            "Karlsruhe",
+            "3"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "ORG"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "PER"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "1377",
+        "tokens": [
+            "Boat",
+            "passengers",
+            "rescued",
+            "off",
+            "Colombian",
+            "coast",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "10981",
+        "tokens": [
+            "Amr",
+            "Shabana",
+            "(",
+            "Egypt",
+            ")",
+            "beat",
+            "John",
+            "White",
+            "(",
+            "Australia",
+            ")",
+            "10-15",
+            "15-9"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "LOC"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "3179",
+        "tokens": [
+            "A",
+            "British",
+            "photographer",
+            "branded",
+            "a",
+            "stalker",
+            "by",
+            "Princess",
+            "Diana",
+            "has",
+            "been",
+            "forced",
+            "to",
+            "postpone",
+            "a",
+            "legal",
+            "challenge",
+            "to",
+            "a",
+            "ban",
+            "on",
+            "approaching",
+            "her",
+            "because",
+            "he",
+            "'s",
+            "been",
+            "jailed",
+            "for",
+            "criminal",
+            "damage",
+            ",",
+            "his",
+            "lawyer",
+            "said",
+            "on",
+            "Friday",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "14571",
+        "tokens": [
+            "--",
+            "John",
+            "Gilardi",
+            ",",
+            "Frankfurt",
+            "Newsroom",
+            ",",
+            "+49",
+            "69",
+            "756525"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 6,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "13424",
+        "tokens": [
+            "TENNIS",
+            "-",
+            "MARTINEZ",
+            "GETS",
+            "AGGRESSIVE",
+            "AT",
+            "U.S.",
+            "OPEN",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "13808",
+        "tokens": [
+            "\"",
+            "In",
+            "the",
+            "name",
+            "of",
+            "Jesus",
+            ",",
+            "we",
+            "want",
+            "to",
+            "bring",
+            "your",
+            "attention",
+            "to",
+            "what",
+            "is",
+            "going",
+            "on",
+            "in",
+            "the",
+            "Brazilian",
+            "countryside",
+            ",",
+            "\"",
+            "two",
+            "church",
+            "umbrella",
+            "groups",
+            "said",
+            "in",
+            "a",
+            "Letter",
+            "to",
+            "the",
+            "Brazilian",
+            "People",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 6,
+                "type": "PER"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "type": "MISC"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "8689",
+        "tokens": [
+            "Griqualand",
+            "West",
+            "-",
+            "Tries",
+            ":",
+            "Andre",
+            "Cloete",
+            ",",
+            "Leon",
+            "van",
+            "der",
+            "Wath",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "LOC"
+            },
+            {
+                "start": 5,
+                "end": 7,
+                "type": "PER"
+            },
+            {
+                "start": 8,
+                "end": 12,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "1395",
+        "tokens": [
+            "Peruvian",
+            "guerrillas",
+            "killed",
+            "one",
+            "man",
+            "and",
+            "took",
+            "eight",
+            "people",
+            "hostage",
+            "after",
+            "taking",
+            "over",
+            "a",
+            "village",
+            "in",
+            "the",
+            "country",
+            "'s",
+            "northeastern",
+            "jungle",
+            "region",
+            ",",
+            "anti-",
+            "terrorist",
+            "police",
+            "sources",
+            "said",
+            "on",
+            "Wednesday",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "6139",
+        "tokens": [
+            "Sparta",
+            "Rotterdam",
+            "2",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1",
+            "1"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "ORG"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1430 @@
+[
+    {
+        "org_id": "130",
+        "tokens": [
+            "Seven",
+            "Nobel",
+            "laureates",
+            "have",
+            "been",
+            "associated",
+            "with",
+            "the",
+            "lab",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "258",
+        "tokens": [
+            "Producers",
+            "already",
+            "working",
+            "with",
+            "the",
+            "quartet",
+            "include",
+            "Flood",
+            "and",
+            "Tom",
+            "Rixton",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 9,
+                "end": 11,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "272",
+        "tokens": [
+            "In",
+            "2004",
+            "he",
+            "co-wrote",
+            "a",
+            "controversial",
+            "paper",
+            "with",
+            "prominent",
+            "intelligent",
+            "design",
+            "proponent",
+            "Michael",
+            "Behe",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 12,
+                "end": 14,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "145",
+        "tokens": [
+            "However",
+            ",",
+            "this",
+            "closure",
+            "came",
+            "15",
+            "years",
+            "after",
+            "its",
+            "findings",
+            "were",
+            "incorporated",
+            "into",
+            "the",
+            "National",
+            "Origins",
+            "Act",
+            "(",
+            "Immigration",
+            "Act",
+            "of",
+            "1924",
+            ")",
+            ",",
+            "which",
+            "severely",
+            "reduced",
+            "the",
+            "number",
+            "of",
+            "immigrants",
+            "to",
+            "America",
+            "from",
+            "southern",
+            "and",
+            "eastern",
+            "Europe",
+            "who",
+            ",",
+            "Harry",
+            "Laughlin",
+            "testified",
+            ",",
+            "were",
+            "racially",
+            "inferior",
+            "than",
+            "the",
+            "Nordic",
+            "immigrants",
+            "from",
+            "England",
+            "and",
+            "Germany",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 14,
+                "end": 17,
+                "type": "MISC"
+            },
+            {
+                "start": 18,
+                "end": 22,
+                "type": "MISC"
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "type": "LOC"
+            },
+            {
+                "start": 37,
+                "end": 38,
+                "type": "LOC"
+            },
+            {
+                "start": 40,
+                "end": 42,
+                "type": "PER"
+            },
+            {
+                "start": 49,
+                "end": 50,
+                "type": "MISC"
+            },
+            {
+                "start": 52,
+                "end": 53,
+                "type": "LOC"
+            },
+            {
+                "start": 54,
+                "end": 55,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "19",
+        "tokens": [
+            "Chad",
+            "Edward",
+            "Gaudin",
+            "(",
+            "pronounced",
+            "go-DAN",
+            ")",
+            "(",
+            "born",
+            "March",
+            "24",
+            ",",
+            "1983",
+            "in",
+            "New",
+            "Orleans",
+            ",",
+            "Louisiana",
+            ")",
+            "is",
+            "a",
+            "right-handed",
+            "starting",
+            "pitcher",
+            "for",
+            "the",
+            "Oakland",
+            "Athletics",
+            "of",
+            "Major",
+            "League",
+            "Baseball",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 14,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "LOC"
+            },
+            {
+                "start": 26,
+                "end": 28,
+                "type": "ORG"
+            },
+            {
+                "start": 29,
+                "end": 32,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "280",
+        "tokens": [
+            "Behe",
+            "has",
+            "stated",
+            "that",
+            "the",
+            "results",
+            "of",
+            "the",
+            "paper",
+            "support",
+            "his",
+            "notion",
+            "of",
+            "irreducible",
+            "complexity",
+            ",",
+            "based",
+            "on",
+            "the",
+            "calculation",
+            "of",
+            "the",
+            "probability",
+            "of",
+            "mutations",
+            "required",
+            "for",
+            "evolution",
+            "to",
+            "succeed",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "25",
+        "tokens": [
+            "On",
+            "July",
+            "15",
+            ",",
+            "2003",
+            ",",
+            "in",
+            "his",
+            "first",
+            "start",
+            "after",
+            "getting",
+            "called",
+            "up",
+            "from",
+            "the",
+            "Class",
+            "A",
+            "California",
+            "League",
+            ",",
+            "Gaudin",
+            "took",
+            "the",
+            "mound",
+            "in",
+            "the",
+            "first",
+            "game",
+            "of",
+            "a",
+            "doubleheader",
+            "for",
+            "the",
+            "AA",
+            "Orlando",
+            "Rays",
+            "on",
+            "the",
+            "road",
+            "against",
+            "the",
+            "Jacksonville",
+            "Suns",
+            "and",
+            "threw",
+            "a",
+            "7-inning",
+            "perfect",
+            "game",
+            ",",
+            "retiring",
+            "all",
+            "21",
+            "batters",
+            "he",
+            "faced",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 16,
+                "end": 20,
+                "type": "ORG"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "type": "PER"
+            },
+            {
+                "start": 34,
+                "end": 37,
+                "type": "ORG"
+            },
+            {
+                "start": 42,
+                "end": 44,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "152",
+        "tokens": [
+            "Salvador",
+            "Luria",
+            "and",
+            "Max",
+            "Delbrüc",
+            "founded",
+            "the",
+            "Phage",
+            "Course",
+            "in",
+            "1948",
+            ",",
+            "a",
+            "course",
+            "that",
+            "trained",
+            "many",
+            "of",
+            "the",
+            "leaders",
+            "of",
+            "the",
+            "new",
+            "field",
+            "of",
+            "molecular",
+            "genetics",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 3,
+                "end": 5,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "27",
+        "tokens": [
+            "Gaudin",
+            "made",
+            "only",
+            "two",
+            "more",
+            "starts",
+            "and",
+            "posted",
+            "an",
+            "0.47",
+            "ERA",
+            "for",
+            "Orlando",
+            "before",
+            "Devil",
+            "Rays",
+            "'",
+            "Manager",
+            "Lou",
+            "Piniella",
+            "summoned",
+            "him",
+            "to",
+            "the",
+            "big",
+            "league",
+            "club",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "LOC"
+            },
+            {
+                "start": 14,
+                "end": 16,
+                "type": "ORG"
+            },
+            {
+                "start": 18,
+                "end": 20,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "164",
+        "tokens": [
+            "Connecticut",
+            "Classic",
+            "Lotto",
+            "is",
+            "one",
+            "of",
+            "the",
+            "games",
+            "offered",
+            "by",
+            "the",
+            "Connecticut",
+            "Lottery",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "type": "MISC"
+            },
+            {
+                "start": 11,
+                "end": 13,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "47",
+        "tokens": [
+            "Changer",
+            "les",
+            "choses",
+            "(",
+            "Change",
+            "the",
+            "Things",
+            ")",
+            "is",
+            "the",
+            "official",
+            "debut",
+            "album",
+            "by",
+            "the",
+            "France",
+            "-born",
+            "singer",
+            "Nâdiy",
+            ".",
+            "The",
+            "album",
+            "was",
+            "only",
+            "released",
+            "in",
+            "France",
+            "on",
+            "November",
+            "5",
+            ",",
+            "2001",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "type": "MISC"
+            },
+            {
+                "start": 4,
+                "end": 7,
+                "type": "MISC"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "PER"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "177",
+        "tokens": [
+            "The",
+            "Classic",
+            "Lotto",
+            "jackpot",
+            "was",
+            "most",
+            "recently",
+            "hit",
+            "on",
+            "June",
+            "8",
+            ",",
+            "2007",
+            ";",
+            "the",
+            "jackpot",
+            "is",
+            "almost",
+            "never",
+            "shared",
+            "by",
+            "two",
+            "or",
+            "more",
+            "tickets",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "178",
+        "tokens": [
+            "Winners",
+            "of",
+            "Classic",
+            "Lotto",
+            "(",
+            "jackpot",
+            "or",
+            "otherwise",
+            ")",
+            "have",
+            "one",
+            "year",
+            "to",
+            "claim",
+            "their",
+            "prizes",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 4,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "57",
+        "tokens": [
+            "Charlie",
+            "Gaudion",
+            "(",
+            "born",
+            "April",
+            "14",
+            ",",
+            "1904",
+            ")",
+            "was",
+            "an",
+            "Australian",
+            "rules",
+            "footballer",
+            "who",
+            "played",
+            "with",
+            "Footscray",
+            "and",
+            "North",
+            "Melbourne",
+            "in",
+            "the",
+            "VFL",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 11,
+                "end": 13,
+                "type": "ORG"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "ORG"
+            },
+            {
+                "start": 19,
+                "end": 21,
+                "type": "ORG"
+            },
+            {
+                "start": 23,
+                "end": 24,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "63",
+        "tokens": [
+            "In",
+            "both",
+            "1956",
+            "and",
+            "1957",
+            "he",
+            "coached",
+            "North",
+            "Melbourne",
+            ",",
+            "many",
+            "of",
+            "those",
+            "games",
+            "involving",
+            "his",
+            "son",
+            "Michael",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 9,
+                "type": "ORG"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "66",
+        "tokens": [
+            "It",
+            "has",
+            "been",
+            "used",
+            "as",
+            "a",
+            "political",
+            "prison",
+            "by",
+            "Germans",
+            "during",
+            "the",
+            "occupation",
+            "of",
+            "France",
+            "from",
+            "1940",
+            "to",
+            "1944",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 9,
+                "end": 10,
+                "type": "MISC"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "196",
+        "tokens": [
+            "Although",
+            "the",
+            "nearest",
+            "station",
+            "eastward",
+            "is",
+            "Bedhampton",
+            ",",
+            "there",
+            "are",
+            "no",
+            "direct",
+            "services",
+            "calling",
+            "at",
+            "both",
+            "Cosham",
+            "and",
+            "Bedhampton",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 7,
+                "type": "LOC"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "LOC"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "203",
+        "tokens": [
+            "Formed",
+            "in",
+            "1986",
+            ",",
+            "they",
+            "signed",
+            "to",
+            "independent",
+            "label",
+            "Food",
+            "later",
+            "that",
+            "year",
+            "and",
+            "their",
+            "début",
+            "single",
+            "\"",
+            "Wha",
+            "Gives",
+            "You",
+            "The",
+            "Idea",
+            "That",
+            "You",
+            "'re",
+            "So",
+            "Amazing",
+            ",",
+            "Baby",
+            "?",
+            "\"",
+            "reached",
+            "number",
+            "2",
+            "in",
+            "the",
+            "UK",
+            "Indie",
+            "Chart",
+            "in",
+            "March",
+            "1983",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 9,
+                "end": 10,
+                "type": "ORG"
+            },
+            {
+                "start": 18,
+                "end": 31,
+                "type": "MISC"
+            },
+            {
+                "start": 37,
+                "end": 38,
+                "type": "LOC"
+            },
+            {
+                "start": 38,
+                "end": 40,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "75",
+        "tokens": [
+            "New",
+            "script",
+            "editor",
+            "Eric",
+            "Saward",
+            "requested",
+            "that",
+            "Bailey",
+            "devise",
+            "another",
+            "story",
+            "idea",
+            ",",
+            "but",
+            "neither",
+            "the",
+            "submitted",
+            "outlines",
+            "for",
+            "May",
+            "Time",
+            "(",
+            "later",
+            "renamed",
+            "Manwatch",
+            ")",
+            "nor",
+            "The",
+            "Children",
+            "of",
+            "Seth",
+            "were",
+            "taken",
+            "further",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 5,
+                "type": "PER"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 19,
+                "end": 21,
+                "type": "MISC"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "type": "MISC"
+            },
+            {
+                "start": 27,
+                "end": 31,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "77",
+        "tokens": [
+            "Christopher",
+            "Penley",
+            "(",
+            "born",
+            "circa",
+            "1990",
+            "---",
+            "January",
+            "15",
+            "2006",
+            ")",
+            "was",
+            "a",
+            "15-year-old",
+            "U.S.",
+            "schoolboy",
+            "who",
+            "was",
+            "shot",
+            "by",
+            "a",
+            "SWAT",
+            "team",
+            "on",
+            "January",
+            "13",
+            ",",
+            "2006",
+            "---",
+            "and",
+            "died",
+            "of",
+            "his",
+            "injuries",
+            "---",
+            "after",
+            "he",
+            "had",
+            "briefly",
+            "taken",
+            "another",
+            "student",
+            "hostage",
+            "in",
+            "a",
+            "classroom",
+            "and",
+            "then",
+            "later",
+            "holed",
+            "himself",
+            "up",
+            "in",
+            "an",
+            "outdoor",
+            "bathroom",
+            "at",
+            "Milwee",
+            "Middle",
+            "School",
+            "in",
+            "Longwood",
+            ",",
+            "Florida",
+            ",",
+            "with",
+            "an",
+            "Airsoft",
+            "gun",
+            "painted",
+            "entirely",
+            "black",
+            "to",
+            "disguise",
+            "it",
+            "as",
+            "a",
+            "Beretta",
+            "9mm",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "LOC"
+            },
+            {
+                "start": 57,
+                "end": 60,
+                "type": "ORG"
+            },
+            {
+                "start": 61,
+                "end": 62,
+                "type": "LOC"
+            },
+            {
+                "start": 63,
+                "end": 64,
+                "type": "LOC"
+            },
+            {
+                "start": 67,
+                "end": 68,
+                "type": "MISC"
+            },
+            {
+                "start": 77,
+                "end": 79,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "332",
+        "tokens": [
+            "Squirrel",
+            "participated",
+            "in",
+            "a",
+            "number",
+            "of",
+            "national",
+            "music",
+            "events",
+            ",",
+            "including",
+            "Light",
+            "Music",
+            "Contest",
+            "in",
+            "1984",
+            "at",
+            "Teater",
+            "Terbuka",
+            ",",
+            "TIM",
+            ",",
+            "Indonesia",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 11,
+                "end": 14,
+                "type": "MISC"
+            },
+            {
+                "start": 17,
+                "end": 19,
+                "type": "ORG"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "type": "LOC"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "82",
+        "tokens": [
+            "He",
+            "was",
+            "transported",
+            "to",
+            "Orlando",
+            "Regional",
+            "Medical",
+            "Center",
+            "where",
+            "he",
+            "remained",
+            "on",
+            "life",
+            "support",
+            "for",
+            "two",
+            "days",
+            "before",
+            "succumbing",
+            "to",
+            "his",
+            "wounds",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 8,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "211",
+        "tokens": [
+            "Later",
+            "that",
+            "year",
+            "they",
+            "played",
+            "at",
+            "the",
+            "Namibian",
+            "Independence",
+            "Day",
+            "concert",
+            "to",
+            "an",
+            "audience",
+            "of",
+            "50,000",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 11,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "84",
+        "tokens": [
+            "Seminole",
+            "County",
+            "Sheriff",
+            "Don",
+            "Eslinger",
+            "said",
+            "the",
+            "boy",
+            "was",
+            "suicidal",
+            "and",
+            "would",
+            "not",
+            "respond",
+            "to",
+            "negotiators",
+            "who",
+            "tried",
+            "to",
+            "talk",
+            "him",
+            "down",
+            "in",
+            "the",
+            "bathroom",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "LOC"
+            },
+            {
+                "start": 3,
+                "end": 5,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "222",
+        "tokens": [
+            "The",
+            "partnership",
+            "went",
+            "public",
+            "in",
+            "1994",
+            ",",
+            "trading",
+            "under",
+            "the",
+            "stock",
+            "symbol",
+            "CRO",
+            "on",
+            "the",
+            "New",
+            "York",
+            "Stock",
+            "Exchange",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 15,
+                "end": 19,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "103",
+        "tokens": [
+            "One",
+            "of",
+            "the",
+            "major",
+            "events",
+            "that",
+            "is",
+            "currently",
+            "held",
+            "at",
+            "the",
+            "circuit",
+            ",",
+            "along",
+            "with",
+            "DTM",
+            "and",
+            "A1GP",
+            ",",
+            "is",
+            "the",
+            "BP",
+            "Ultimate",
+            "Masters",
+            "of",
+            "Formula",
+            "3",
+            ",",
+            "where",
+            "Formula",
+            "3",
+            "cars",
+            "of",
+            "several",
+            "national",
+            "racing",
+            "series",
+            "compete",
+            "with",
+            "each",
+            "other",
+            "(",
+            "originally",
+            "called",
+            "Marlboro",
+            "Masters",
+            ",",
+            "before",
+            "tobacco",
+            "advertising",
+            "ban",
+            ")",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 15,
+                "end": 16,
+                "type": "MISC"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "MISC"
+            },
+            {
+                "start": 21,
+                "end": 27,
+                "type": "MISC"
+            },
+            {
+                "start": 29,
+                "end": 31,
+                "type": "ORG"
+            },
+            {
+                "start": 44,
+                "end": 46,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "111",
+        "tokens": [
+            "The",
+            "current",
+            "layout",
+            "is",
+            "used",
+            "in",
+            "the",
+            "SimBin",
+            "game",
+            "RACE",
+            "07",
+            "-",
+            "Official",
+            "WTCC",
+            "Game",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "ORG"
+            },
+            {
+                "start": 9,
+                "end": 15,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "250",
+        "tokens": [
+            "Later",
+            "members",
+            "Arran",
+            "Murphy",
+            "is",
+            "from",
+            "Wicklow",
+            ",",
+            "while",
+            "newest",
+            "recruit",
+            ",",
+            "Camera",
+            "Shanahan",
+            ",",
+            "comes",
+            "from",
+            "Dublin",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "LOC"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "type": "PER"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "LOC"
+            }
+        ]
+    }
+]

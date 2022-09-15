@@ -1,0 +1,1572 @@
+[
+    {
+        "org_id": "138",
+        "tokens": [
+            "Nobel",
+            "laureate",
+            "James",
+            "D.",
+            "Watson",
+            "(",
+            "who",
+            "co-discovered",
+            "the",
+            "double",
+            "helix",
+            "structure",
+            "of",
+            "DNA",
+            "with",
+            "Francis",
+            "Crick",
+            ")",
+            "served",
+            "as",
+            "the",
+            "Laboratory",
+            "'s",
+            "Director",
+            "and",
+            "President",
+            "for",
+            "35",
+            "years",
+            ",",
+            "and",
+            "later",
+            "assumed",
+            "the",
+            "role",
+            "of",
+            "Chancellor",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 2,
+                "end": 5,
+                "type": "PER"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "MISC"
+            },
+            {
+                "start": 15,
+                "end": 17,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "284",
+        "tokens": [
+            "At",
+            "the",
+            "Kitzmiller",
+            "v.",
+            "Dover",
+            "Area",
+            "School",
+            "District",
+            "trial",
+            "later",
+            "that",
+            "year",
+            "it",
+            "was",
+            "the",
+            "one",
+            "article",
+            "referenced",
+            "by",
+            "both",
+            "Behe",
+            "and",
+            "Scott",
+            "Minnich",
+            "as",
+            "supporting",
+            "intelligent",
+            "design",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 8,
+                "type": "ORG"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "type": "PER"
+            },
+            {
+                "start": 22,
+                "end": 24,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "30",
+        "tokens": [
+            "On",
+            "December",
+            "12",
+            ",",
+            "2004",
+            ",",
+            "Gaudin",
+            "was",
+            "traded",
+            "to",
+            "the",
+            "Toronto",
+            "Blue",
+            "Jays",
+            "for",
+            "backup",
+            "catcher",
+            "Kevin",
+            "Cash",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 7,
+                "type": "PER"
+            },
+            {
+                "start": 11,
+                "end": 14,
+                "type": "ORG"
+            },
+            {
+                "start": 17,
+                "end": 19,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "160",
+        "tokens": [
+            "The",
+            "Commonwealth",
+            "Bank",
+            "Tennis",
+            "Classic",
+            "is",
+            "a",
+            "tennis",
+            "tournament",
+            "on",
+            "the",
+            "WTA",
+            "Tour",
+            "held",
+            "in",
+            "Bali",
+            ",",
+            "Indonesia",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 5,
+                "type": "MISC"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "ORG"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "38",
+        "tokens": [
+            "In",
+            "2007",
+            ",",
+            "Gaudin",
+            "was",
+            "converted",
+            "into",
+            "a",
+            "starter",
+            "again",
+            "when",
+            "veteran",
+            "Esteban",
+            "Loaiza",
+            "was",
+            "on",
+            "the",
+            "disabled",
+            "list",
+            "to",
+            "begin",
+            "the",
+            "season",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "40",
+        "tokens": [
+            "Chamicuro",
+            "is",
+            "a",
+            "critically",
+            "endangered",
+            "indigenous",
+            "American",
+            "language",
+            "spoken",
+            "by",
+            "just",
+            "a",
+            "pair",
+            "of",
+            "aboriginal",
+            "people",
+            "in",
+            "South",
+            "America",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "MISC"
+            },
+            {
+                "start": 17,
+                "end": 19,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "47",
+        "tokens": [
+            "Changer",
+            "les",
+            "choses",
+            "(",
+            "Change",
+            "the",
+            "Things",
+            ")",
+            "is",
+            "the",
+            "official",
+            "debut",
+            "album",
+            "by",
+            "the",
+            "France",
+            "-born",
+            "singer",
+            "Nâdiy",
+            ".",
+            "The",
+            "album",
+            "was",
+            "only",
+            "released",
+            "in",
+            "France",
+            "on",
+            "November",
+            "5",
+            ",",
+            "2001",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "type": "MISC"
+            },
+            {
+                "start": 4,
+                "end": 7,
+                "type": "MISC"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "PER"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "305",
+        "tokens": [
+            "In",
+            "1971",
+            ",",
+            "he",
+            "began",
+            "to",
+            "design",
+            "and",
+            "build",
+            "his",
+            "own",
+            "guitars",
+            ",",
+            "originally",
+            "bearing",
+            "the",
+            "name",
+            "Del's",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 17,
+                "end": 18,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "58",
+        "tokens": [
+            "He",
+            "was",
+            "the",
+            "father",
+            "of",
+            "North",
+            "Melbourne",
+            "player",
+            "Michael",
+            "Gaudion",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 7,
+                "type": "ORG"
+            },
+            {
+                "start": 8,
+                "end": 10,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "63",
+        "tokens": [
+            "In",
+            "both",
+            "1956",
+            "and",
+            "1957",
+            "he",
+            "coached",
+            "North",
+            "Melbourne",
+            ",",
+            "many",
+            "of",
+            "those",
+            "games",
+            "involving",
+            "his",
+            "son",
+            "Michael",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 9,
+                "type": "ORG"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "66",
+        "tokens": [
+            "It",
+            "has",
+            "been",
+            "used",
+            "as",
+            "a",
+            "political",
+            "prison",
+            "by",
+            "Germans",
+            "during",
+            "the",
+            "occupation",
+            "of",
+            "France",
+            "from",
+            "1940",
+            "to",
+            "1944",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 9,
+                "end": 10,
+                "type": "MISC"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "326",
+        "tokens": [
+            "After",
+            "graduation",
+            ",",
+            "he",
+            "went",
+            "to",
+            "Jakarta",
+            "to",
+            "pursue",
+            "a",
+            "career",
+            "as",
+            "professional",
+            "musician",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 7,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "329",
+        "tokens": [
+            "Later",
+            ",",
+            "in",
+            "1981",
+            ",",
+            "he",
+            "bought",
+            "a",
+            "\"",
+            "real",
+            "\"",
+            "electric",
+            "guitar",
+            "(",
+            "an",
+            "Aria",
+            "Pro",
+            "II",
+            ")",
+            "and",
+            "started",
+            "to",
+            "play",
+            "with",
+            "many",
+            "different",
+            "people",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 15,
+                "end": 18,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "203",
+        "tokens": [
+            "Formed",
+            "in",
+            "1986",
+            ",",
+            "they",
+            "signed",
+            "to",
+            "independent",
+            "label",
+            "Food",
+            "later",
+            "that",
+            "year",
+            "and",
+            "their",
+            "début",
+            "single",
+            "\"",
+            "Wha",
+            "Gives",
+            "You",
+            "The",
+            "Idea",
+            "That",
+            "You",
+            "'re",
+            "So",
+            "Amazing",
+            ",",
+            "Baby",
+            "?",
+            "\"",
+            "reached",
+            "number",
+            "2",
+            "in",
+            "the",
+            "UK",
+            "Indie",
+            "Chart",
+            "in",
+            "March",
+            "1983",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 9,
+                "end": 10,
+                "type": "ORG"
+            },
+            {
+                "start": 18,
+                "end": 31,
+                "type": "MISC"
+            },
+            {
+                "start": 37,
+                "end": 38,
+                "type": "LOC"
+            },
+            {
+                "start": 38,
+                "end": 40,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "204",
+        "tokens": [
+            "For",
+            "the",
+            "rest",
+            "of",
+            "the",
+            "year",
+            "they",
+            "toured",
+            "extensively",
+            ",",
+            "supporting",
+            "The",
+            "Cult",
+            ",",
+            "then",
+            "Julian",
+            "Cope",
+            ",",
+            "and",
+            "also",
+            "played",
+            "the",
+            "Glastonbury",
+            "Festival",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 11,
+                "end": 13,
+                "type": "ORG"
+            },
+            {
+                "start": 15,
+                "end": 17,
+                "type": "PER"
+            },
+            {
+                "start": 22,
+                "end": 24,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "77",
+        "tokens": [
+            "Christopher",
+            "Penley",
+            "(",
+            "born",
+            "circa",
+            "1990",
+            "---",
+            "January",
+            "15",
+            "2006",
+            ")",
+            "was",
+            "a",
+            "15-year-old",
+            "U.S.",
+            "schoolboy",
+            "who",
+            "was",
+            "shot",
+            "by",
+            "a",
+            "SWAT",
+            "team",
+            "on",
+            "January",
+            "13",
+            ",",
+            "2006",
+            "---",
+            "and",
+            "died",
+            "of",
+            "his",
+            "injuries",
+            "---",
+            "after",
+            "he",
+            "had",
+            "briefly",
+            "taken",
+            "another",
+            "student",
+            "hostage",
+            "in",
+            "a",
+            "classroom",
+            "and",
+            "then",
+            "later",
+            "holed",
+            "himself",
+            "up",
+            "in",
+            "an",
+            "outdoor",
+            "bathroom",
+            "at",
+            "Milwee",
+            "Middle",
+            "School",
+            "in",
+            "Longwood",
+            ",",
+            "Florida",
+            ",",
+            "with",
+            "an",
+            "Airsoft",
+            "gun",
+            "painted",
+            "entirely",
+            "black",
+            "to",
+            "disguise",
+            "it",
+            "as",
+            "a",
+            "Beretta",
+            "9mm",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "LOC"
+            },
+            {
+                "start": 57,
+                "end": 60,
+                "type": "ORG"
+            },
+            {
+                "start": 61,
+                "end": 62,
+                "type": "LOC"
+            },
+            {
+                "start": 63,
+                "end": 64,
+                "type": "LOC"
+            },
+            {
+                "start": 67,
+                "end": 68,
+                "type": "MISC"
+            },
+            {
+                "start": 77,
+                "end": 79,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "336",
+        "tokens": [
+            "Although",
+            "Jack",
+            "provided",
+            "Budjana",
+            "with",
+            "opportunities",
+            "in",
+            "his",
+            "Indonesian",
+            "music",
+            "career",
+            ",",
+            "it",
+            "was",
+            "Indra",
+            "who",
+            "first",
+            "asked",
+            "him",
+            "to",
+            "became",
+            "a",
+            "session",
+            "player",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "MISC"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "338",
+        "tokens": [
+            "With",
+            "Budjana",
+            ",",
+            "Spirit",
+            "released",
+            "one",
+            "self-titled",
+            "album",
+            ",",
+            "before",
+            "Budjana",
+            "decided",
+            "to",
+            "leave",
+            "the",
+            "band",
+            "and",
+            "joined",
+            "Java",
+            "Jazz",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "PER"
+            },
+            {
+                "start": 18,
+                "end": 20,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "339",
+        "tokens": [
+            "He",
+            "also",
+            "sat",
+            "in",
+            "with",
+            "many",
+            "other",
+            "bands",
+            "---",
+            "including",
+            "the",
+            "Jimmy",
+            "Manopo",
+            "Band",
+            ",",
+            "Erwin",
+            "Gutawa",
+            ",",
+            "Elfa",
+            "'s",
+            "Big",
+            "Band",
+            "and",
+            "Twilite",
+            "Orchestra",
+            "---",
+            "and",
+            "participated",
+            "in",
+            "the",
+            "North",
+            "Sea",
+            "Jazz",
+            "Festival",
+            ",",
+            "a",
+            "world",
+            "jazz",
+            "convention",
+            "in",
+            "Den",
+            "Haag",
+            ",",
+            "the",
+            "Netherlands",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 11,
+                "end": 14,
+                "type": "ORG"
+            },
+            {
+                "start": 15,
+                "end": 17,
+                "type": "ORG"
+            },
+            {
+                "start": 18,
+                "end": 22,
+                "type": "ORG"
+            },
+            {
+                "start": 23,
+                "end": 25,
+                "type": "ORG"
+            },
+            {
+                "start": 30,
+                "end": 34,
+                "type": "MISC"
+            },
+            {
+                "start": 40,
+                "end": 42,
+                "type": "LOC"
+            },
+            {
+                "start": 44,
+                "end": 45,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "215",
+        "tokens": [
+            "In",
+            "1997",
+            "they",
+            "released",
+            "Fucked",
+            "By",
+            "Rock",
+            "-",
+            "a",
+            "collection",
+            "of",
+            "previously",
+            "unreleased",
+            "material",
+            ",",
+            "demo",
+            "versions",
+            ",",
+            "and",
+            "live",
+            "tracks",
+            ",",
+            "and",
+            "an",
+            "EP",
+            "of",
+            "new",
+            "material",
+            "13th",
+            "Floor",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 7,
+                "type": "MISC"
+            },
+            {
+                "start": 28,
+                "end": 30,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "88",
+        "tokens": [
+            "The",
+            "Florida",
+            "Department",
+            "of",
+            "Law",
+            "Enforcement",
+            "investigated",
+            "the",
+            "shooting",
+            "and",
+            "found",
+            "it",
+            "entirely",
+            "justified",
+            ",",
+            "as",
+            "Penley",
+            "pointed",
+            "a",
+            "weapon",
+            "at",
+            "the",
+            "deputy",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 6,
+                "type": "ORG"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "217",
+        "tokens": [
+            "They",
+            "started",
+            "recording",
+            "material",
+            "for",
+            "a",
+            "new",
+            "album",
+            ",",
+            "but",
+            "the",
+            "departure",
+            "of",
+            "Anderson",
+            "to",
+            "work",
+            "abroad",
+            "meant",
+            "the",
+            "end",
+            "of",
+            "the",
+            "band",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 13,
+                "end": 14,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "92",
+        "tokens": [
+            "The",
+            "youth",
+            "center",
+            "the",
+            "Adolescent",
+            "Life",
+            "Coaching",
+            "Center",
+            "(",
+            "adolescentlifecoaching.com",
+            ")",
+            "opened",
+            "in",
+            "honor",
+            "of",
+            "Christopher",
+            "Penley",
+            "'s",
+            "memory",
+            "and",
+            "to",
+            "give",
+            "a",
+            "place",
+            "for",
+            "the",
+            "voice",
+            "of",
+            "youth",
+            "to",
+            "be",
+            "heard",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 8,
+                "type": "ORG"
+            },
+            {
+                "start": 15,
+                "end": 17,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "93",
+        "tokens": [
+            "Circuit",
+            "Park",
+            "Zandvoort",
+            "is",
+            "a",
+            "motorsport",
+            "race",
+            "track",
+            "located",
+            "in",
+            "the",
+            "dunes",
+            "near",
+            "the",
+            "town",
+            "of",
+            "Zandvoort",
+            ",",
+            "in",
+            "the",
+            "Netherlands",
+            ",",
+            "near",
+            "the",
+            "North",
+            "Sea",
+            "coast",
+            "line",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "type": "LOC"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "LOC"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "type": "LOC"
+            },
+            {
+                "start": 24,
+                "end": 26,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "223",
+        "tokens": [
+            "It",
+            "filed",
+            "for",
+            "Chapter",
+            "11",
+            "bankruptcy",
+            "in",
+            "June",
+            "2003",
+            ",",
+            "with",
+            "its",
+            "remaining",
+            "assets",
+            ",",
+            "520,000",
+            "acres",
+            "(",
+            "2,100",
+            "km²",
+            ")",
+            "in",
+            "Washingto",
+            "and",
+            "Oregon",
+            ",",
+            "taken",
+            "over",
+            "by",
+            "creditors",
+            "in",
+            "Decembe",
+            "2004",
+            ",",
+            "who",
+            "formed",
+            "Cascade",
+            "Timberlands",
+            ",",
+            "LLC",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 5,
+                "type": "MISC"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "type": "LOC"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "type": "LOC"
+            },
+            {
+                "start": 36,
+                "end": 38,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "227",
+        "tokens": [
+            "Dancemania",
+            "is",
+            "a",
+            "series",
+            "of",
+            "remix",
+            "compilation",
+            "albums",
+            "by",
+            "i-DANCE",
+            "(",
+            "formerly",
+            "Intercord",
+            "Japan",
+            ",",
+            "owned",
+            "by",
+            "Toshiba-EMI",
+            ")",
+            "in",
+            "Japan",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "ORG"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "type": "ORG"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "ORG"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "103",
+        "tokens": [
+            "One",
+            "of",
+            "the",
+            "major",
+            "events",
+            "that",
+            "is",
+            "currently",
+            "held",
+            "at",
+            "the",
+            "circuit",
+            ",",
+            "along",
+            "with",
+            "DTM",
+            "and",
+            "A1GP",
+            ",",
+            "is",
+            "the",
+            "BP",
+            "Ultimate",
+            "Masters",
+            "of",
+            "Formula",
+            "3",
+            ",",
+            "where",
+            "Formula",
+            "3",
+            "cars",
+            "of",
+            "several",
+            "national",
+            "racing",
+            "series",
+            "compete",
+            "with",
+            "each",
+            "other",
+            "(",
+            "originally",
+            "called",
+            "Marlboro",
+            "Masters",
+            ",",
+            "before",
+            "tobacco",
+            "advertising",
+            "ban",
+            ")",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 15,
+                "end": 16,
+                "type": "MISC"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "MISC"
+            },
+            {
+                "start": 21,
+                "end": 27,
+                "type": "MISC"
+            },
+            {
+                "start": 29,
+                "end": 31,
+                "type": "ORG"
+            },
+            {
+                "start": 44,
+                "end": 46,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "234",
+        "tokens": [
+            "Daniel",
+            "Claudiu",
+            "Prodan",
+            "(",
+            "born",
+            "23",
+            "March",
+            "1972",
+            ")",
+            "is",
+            "a",
+            "retired",
+            "Romanian",
+            "soccer",
+            "defender",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "110",
+        "tokens": [
+            "This",
+            "was",
+            "later",
+            "converted",
+            "to",
+            "NASCAR",
+            "4",
+            ",",
+            "NASCAR",
+            "2002",
+            ",",
+            "2003",
+            "and",
+            "other",
+            "simulations",
+            "using",
+            "a",
+            "converter",
+            "from",
+            "website",
+            "'",
+            "The",
+            "Pits",
+            "'",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 7,
+                "type": "MISC"
+            },
+            {
+                "start": 8,
+                "end": 10,
+                "type": "MISC"
+            },
+            {
+                "start": 21,
+                "end": 23,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "115",
+        "tokens": [
+            "For",
+            "other",
+            "uses",
+            "see",
+            "Clarence",
+            "Dock",
+            "(",
+            "disambiguation",
+            ")"
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 6,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "123",
+        "tokens": [
+            "Clinical",
+            "Hospital",
+            "Mostar",
+            "(",
+            "Croatian",
+            "Klinička",
+            "bolnica",
+            "Mostar",
+            ")",
+            "is",
+            "the",
+            "largest",
+            "hospital",
+            "in",
+            "Mostar",
+            ",",
+            "Bosnia",
+            "and",
+            "Herzegovina",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "type": "ORG"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "MISC"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "LOC"
+            },
+            {
+                "start": 16,
+                "end": 19,
+                "type": "LOC"
+            }
+        ]
+    }
+]

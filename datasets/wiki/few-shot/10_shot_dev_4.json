@@ -1,0 +1,632 @@
+[
+    {
+        "org_id": "256",
+        "tokens": [
+            "With",
+            "the",
+            "release",
+            "of",
+            "their",
+            "debut",
+            "EP",
+            ",",
+            "Dead",
+            "Start",
+            "Program",
+            "on",
+            "October",
+            "12",
+            "2007",
+            ",",
+            "the",
+            "band",
+            "embarked",
+            "on",
+            "a",
+            "nationwide",
+            "tour",
+            "which",
+            "began",
+            "with",
+            "gigs",
+            "at",
+            "Cyprus",
+            "Avenue",
+            "in",
+            "Cork",
+            "on",
+            "October",
+            "9",
+            ",",
+            "Spirit",
+            "Store",
+            "in",
+            "Dundalk",
+            "on",
+            "October",
+            "10",
+            ",",
+            "Tower",
+            "Records",
+            "(",
+            "2pm",
+            ")",
+            "/",
+            "Crawdaddy",
+            "in",
+            "Dublin",
+            "on",
+            "Saturday",
+            "October",
+            "13",
+            "and",
+            "Roisin",
+            "Dubh",
+            "in",
+            "Galway",
+            "on",
+            "Thursday",
+            "October",
+            "18",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 8,
+                "end": 11,
+                "type": "MISC"
+            },
+            {
+                "start": 28,
+                "end": 30,
+                "type": "ORG"
+            },
+            {
+                "start": 31,
+                "end": 32,
+                "type": "LOC"
+            },
+            {
+                "start": 36,
+                "end": 38,
+                "type": "ORG"
+            },
+            {
+                "start": 39,
+                "end": 40,
+                "type": "LOC"
+            },
+            {
+                "start": 44,
+                "end": 46,
+                "type": "ORG"
+            },
+            {
+                "start": 50,
+                "end": 51,
+                "type": "ORG"
+            },
+            {
+                "start": 52,
+                "end": 53,
+                "type": "LOC"
+            },
+            {
+                "start": 58,
+                "end": 60,
+                "type": "ORG"
+            },
+            {
+                "start": 61,
+                "end": 62,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "66",
+        "tokens": [
+            "It",
+            "has",
+            "been",
+            "used",
+            "as",
+            "a",
+            "political",
+            "prison",
+            "by",
+            "Germans",
+            "during",
+            "the",
+            "occupation",
+            "of",
+            "France",
+            "from",
+            "1940",
+            "to",
+            "1944",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 9,
+                "end": 10,
+                "type": "MISC"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "68",
+        "tokens": [
+            "The",
+            "Christian",
+            "Democratic",
+            "Party",
+            "of",
+            "Timor",
+            "(",
+            "Partido",
+            "Democrata-Cristã",
+            "de",
+            "Timor",
+            ")",
+            "is",
+            "a",
+            "center-right",
+            "political",
+            "party",
+            "in",
+            "Eas",
+            "Timor",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "LOC"
+            },
+            {
+                "start": 7,
+                "end": 11,
+                "type": "ORG"
+            },
+            {
+                "start": 18,
+                "end": 20,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "36",
+        "tokens": [
+            "In",
+            "his",
+            "first",
+            "season",
+            "as",
+            "an",
+            "Athletic",
+            ",",
+            "he",
+            "posted",
+            "various",
+            "career",
+            "highs",
+            "and",
+            "his",
+            "ERA",
+            "(",
+            "3.09",
+            ")",
+            "and",
+            "opponents",
+            "batting",
+            "average",
+            "were",
+            "the",
+            "lowest",
+            "of",
+            "his",
+            "career",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 6,
+                "end": 7,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "75",
+        "tokens": [
+            "New",
+            "script",
+            "editor",
+            "Eric",
+            "Saward",
+            "requested",
+            "that",
+            "Bailey",
+            "devise",
+            "another",
+            "story",
+            "idea",
+            ",",
+            "but",
+            "neither",
+            "the",
+            "submitted",
+            "outlines",
+            "for",
+            "May",
+            "Time",
+            "(",
+            "later",
+            "renamed",
+            "Manwatch",
+            ")",
+            "nor",
+            "The",
+            "Children",
+            "of",
+            "Seth",
+            "were",
+            "taken",
+            "further",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 5,
+                "type": "PER"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "PER"
+            },
+            {
+                "start": 19,
+                "end": 21,
+                "type": "MISC"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "type": "MISC"
+            },
+            {
+                "start": 27,
+                "end": 31,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "238",
+        "tokens": [
+            "Prodan",
+            "got",
+            "54",
+            "caps",
+            "for",
+            "the",
+            "national",
+            "team",
+            "between",
+            "1992",
+            "and",
+            "1999",
+            ",",
+            "and",
+            "was",
+            "in",
+            "the",
+            "squad",
+            "for",
+            "the",
+            "1994",
+            "World",
+            "Cup",
+            "and",
+            "Euro",
+            "1996",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 21,
+                "end": 23,
+                "type": "MISC"
+            },
+            {
+                "start": 24,
+                "end": 26,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "145",
+        "tokens": [
+            "However",
+            ",",
+            "this",
+            "closure",
+            "came",
+            "15",
+            "years",
+            "after",
+            "its",
+            "findings",
+            "were",
+            "incorporated",
+            "into",
+            "the",
+            "National",
+            "Origins",
+            "Act",
+            "(",
+            "Immigration",
+            "Act",
+            "of",
+            "1924",
+            ")",
+            ",",
+            "which",
+            "severely",
+            "reduced",
+            "the",
+            "number",
+            "of",
+            "immigrants",
+            "to",
+            "America",
+            "from",
+            "southern",
+            "and",
+            "eastern",
+            "Europe",
+            "who",
+            ",",
+            "Harry",
+            "Laughlin",
+            "testified",
+            ",",
+            "were",
+            "racially",
+            "inferior",
+            "than",
+            "the",
+            "Nordic",
+            "immigrants",
+            "from",
+            "England",
+            "and",
+            "Germany",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 14,
+                "end": 17,
+                "type": "MISC"
+            },
+            {
+                "start": 18,
+                "end": 22,
+                "type": "MISC"
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "type": "LOC"
+            },
+            {
+                "start": 37,
+                "end": 38,
+                "type": "LOC"
+            },
+            {
+                "start": 40,
+                "end": 42,
+                "type": "PER"
+            },
+            {
+                "start": 49,
+                "end": 50,
+                "type": "MISC"
+            },
+            {
+                "start": 52,
+                "end": 53,
+                "type": "LOC"
+            },
+            {
+                "start": 54,
+                "end": 55,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "307",
+        "tokens": [
+            "The",
+            "Langejans",
+            "Dualette",
+            "is",
+            "a",
+            "two",
+            "sided",
+            "guitar",
+            "which",
+            "was",
+            "custom",
+            "made",
+            "for",
+            "Thom",
+            "Bresh",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "MISC"
+            },
+            {
+                "start": 13,
+                "end": 15,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "27",
+        "tokens": [
+            "Gaudin",
+            "made",
+            "only",
+            "two",
+            "more",
+            "starts",
+            "and",
+            "posted",
+            "an",
+            "0.47",
+            "ERA",
+            "for",
+            "Orlando",
+            "before",
+            "Devil",
+            "Rays",
+            "'",
+            "Manager",
+            "Lou",
+            "Piniella",
+            "summoned",
+            "him",
+            "to",
+            "the",
+            "big",
+            "league",
+            "club",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "LOC"
+            },
+            {
+                "start": 14,
+                "end": 16,
+                "type": "ORG"
+            },
+            {
+                "start": 18,
+                "end": 20,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "318",
+        "tokens": [
+            "Budjana",
+            "'s",
+            "style",
+            "changed",
+            "dramatically",
+            "to",
+            "jazz",
+            "as",
+            "he",
+            "got",
+            "to",
+            "know",
+            "John",
+            "McLaughlin",
+            ",",
+            "Pat",
+            "Metheny",
+            ",",
+            "Jeff",
+            "Beck",
+            ",",
+            "John",
+            "Abercrombie",
+            ",",
+            "Chick",
+            "Corea",
+            "and",
+            "Weather",
+            "Report",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "type": "PER"
+            },
+            {
+                "start": 15,
+                "end": 17,
+                "type": "PER"
+            },
+            {
+                "start": 18,
+                "end": 20,
+                "type": "PER"
+            },
+            {
+                "start": 21,
+                "end": 23,
+                "type": "PER"
+            },
+            {
+                "start": 24,
+                "end": 26,
+                "type": "PER"
+            },
+            {
+                "start": 27,
+                "end": 29,
+                "type": "ORG"
+            }
+        ]
+    }
+]

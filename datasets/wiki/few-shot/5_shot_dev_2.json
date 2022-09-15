@@ -1,0 +1,406 @@
+[
+    {
+        "org_id": "64",
+        "tokens": [
+            "The",
+            "Cherche-Midi",
+            "prison",
+            "was",
+            "a",
+            "prison",
+            "in",
+            "Paris",
+            ",",
+            "France",
+            ",",
+            "that",
+            "has",
+            "been",
+            "closed",
+            "down",
+            "and",
+            "the",
+            "builing",
+            "destroyed",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "LOC"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "38",
+        "tokens": [
+            "In",
+            "2007",
+            ",",
+            "Gaudin",
+            "was",
+            "converted",
+            "into",
+            "a",
+            "starter",
+            "again",
+            "when",
+            "veteran",
+            "Esteban",
+            "Loaiza",
+            "was",
+            "on",
+            "the",
+            "disabled",
+            "list",
+            "to",
+            "begin",
+            "the",
+            "season",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "331",
+        "tokens": [
+            "In",
+            "1980",
+            ",",
+            "Budjana",
+            "started",
+            "Squirrel",
+            ",",
+            "his",
+            "first",
+            "jazz",
+            "band",
+            ",",
+            "with",
+            "his",
+            "schoolmates",
+            "in",
+            "Surabaya",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "type": "ORG"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "76",
+        "tokens": [
+            "As",
+            "a",
+            "result",
+            ",",
+            "the",
+            "two",
+            "Mara",
+            "scripts",
+            "were",
+            "Bailey",
+            "'s",
+            "final",
+            "broadcast",
+            "work",
+            "for",
+            "both",
+            "Doctor",
+            "Who",
+            "and",
+            "television",
+            "in",
+            "general",
+            "and",
+            "he",
+            "returned",
+            "to",
+            "a",
+            "career",
+            "in",
+            "academia",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 9,
+                "end": 10,
+                "type": "PER"
+            },
+            {
+                "start": 16,
+                "end": 18,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "178",
+        "tokens": [
+            "Winners",
+            "of",
+            "Classic",
+            "Lotto",
+            "(",
+            "jackpot",
+            "or",
+            "otherwise",
+            ")",
+            "have",
+            "one",
+            "year",
+            "to",
+            "claim",
+            "their",
+            "prizes",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 4,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "114",
+        "tokens": [
+            "She",
+            "had",
+            "a",
+            "relationship",
+            "with",
+            "Frédéric",
+            "Diefenthal",
+            ",",
+            "a",
+            "French",
+            "actor",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 7,
+                "type": "PER"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "147",
+        "tokens": [
+            "The",
+            "first",
+            "of",
+            "the",
+            "annual",
+            "Cold",
+            "Spring",
+            "Harbor",
+            "Laboratory",
+            "Symposium",
+            "on",
+            "Quantitative",
+            "Biology",
+            "was",
+            "held",
+            "in",
+            "1934",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 10,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "338",
+        "tokens": [
+            "With",
+            "Budjana",
+            ",",
+            "Spirit",
+            "released",
+            "one",
+            "self-titled",
+            "album",
+            ",",
+            "before",
+            "Budjana",
+            "decided",
+            "to",
+            "leave",
+            "the",
+            "band",
+            "and",
+            "joined",
+            "Java",
+            "Jazz",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "PER"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "ORG"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "PER"
+            },
+            {
+                "start": 18,
+                "end": 20,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "58",
+        "tokens": [
+            "He",
+            "was",
+            "the",
+            "father",
+            "of",
+            "North",
+            "Melbourne",
+            "player",
+            "Michael",
+            "Gaudion",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 7,
+                "type": "ORG"
+            },
+            {
+                "start": 8,
+                "end": 10,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "223",
+        "tokens": [
+            "It",
+            "filed",
+            "for",
+            "Chapter",
+            "11",
+            "bankruptcy",
+            "in",
+            "June",
+            "2003",
+            ",",
+            "with",
+            "its",
+            "remaining",
+            "assets",
+            ",",
+            "520,000",
+            "acres",
+            "(",
+            "2,100",
+            "km²",
+            ")",
+            "in",
+            "Washingto",
+            "and",
+            "Oregon",
+            ",",
+            "taken",
+            "over",
+            "by",
+            "creditors",
+            "in",
+            "Decembe",
+            "2004",
+            ",",
+            "who",
+            "formed",
+            "Cascade",
+            "Timberlands",
+            ",",
+            "LLC",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 5,
+                "type": "MISC"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "type": "LOC"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "type": "LOC"
+            },
+            {
+                "start": 36,
+                "end": 38,
+                "type": "ORG"
+            }
+        ]
+    }
+]

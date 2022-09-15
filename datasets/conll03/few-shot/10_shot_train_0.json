@@ -1,0 +1,818 @@
+[
+    {
+        "org_id": "1792",
+        "tokens": [
+            "News",
+            "said",
+            "dramatically",
+            "lower",
+            "earnings",
+            "from",
+            "the",
+            "British",
+            "arm",
+            "of",
+            "its",
+            "Harper-Collins",
+            "publishing",
+            "division",
+            "more",
+            "than",
+            "offset",
+            "healthy",
+            "results",
+            "from",
+            "its",
+            "U.S.",
+            "operation",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "MISC"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "ORG"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "3970",
+        "tokens": [
+            "TORONTO",
+            "1996-08-23"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "12675",
+        "tokens": [
+            "--",
+            "State",
+            "National",
+            "Bank",
+            "of",
+            "Greece",
+            "will",
+            "start",
+            "real",
+            "auction",
+            "programme",
+            "September",
+            "9",
+            "to",
+            "lighten",
+            "up",
+            "on",
+            "its",
+            "real",
+            "estate",
+            "holdings"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 6,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "14597",
+        "tokens": [
+            "Commenting",
+            "on",
+            "the",
+            "continued",
+            "struggle",
+            "to",
+            "get",
+            "control",
+            "of",
+            "German",
+            "piston",
+            "maker",
+            "Kolbenschmidt",
+            ",",
+            "which",
+            "has",
+            "been",
+            "hampered",
+            "by",
+            "regulatory",
+            "obstacles",
+            ",",
+            "Hope",
+            "said",
+            "T&N",
+            "'s",
+            "confidence",
+            "\"",
+            "continues",
+            "to",
+            "improve",
+            "\"",
+            "that",
+            "it",
+            "may",
+            "eventually",
+            "be",
+            "able",
+            "to",
+            "proceed",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 9,
+                "end": 10,
+                "type": "MISC"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "ORG"
+            },
+            {
+                "start": 22,
+                "end": 23,
+                "type": "PER"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "3462",
+        "tokens": [
+            "South",
+            "Korean",
+            "students",
+            "throw",
+            "\"",
+            "irreplaceable",
+            "\"",
+            "rocks",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "5383",
+        "tokens": [
+            "The",
+            "weather",
+            "delayed",
+            "the",
+            "resumption",
+            "for",
+            "over",
+            "an",
+            "hour",
+            ",",
+            "the",
+            "umpires",
+            "finally",
+            "announcing",
+            "play",
+            "would",
+            "start",
+            "again",
+            "at",
+            "1445",
+            "local",
+            "time",
+            "(",
+            "1345",
+            "GMT",
+            ")",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 24,
+                "end": 25,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "4621",
+        "tokens": [
+            "With",
+            "Democrats",
+            "gathering",
+            "in",
+            "Chicago",
+            "to",
+            "start",
+            "a",
+            "convention",
+            "on",
+            "Monday",
+            "to",
+            "nominate",
+            "him",
+            "for",
+            "a",
+            "second",
+            "term",
+            "as",
+            "president",
+            ",",
+            "Clinton",
+            "plans",
+            "a",
+            "steady",
+            "parade",
+            "of",
+            "events",
+            "designed",
+            "to",
+            "highlight",
+            "his",
+            "leadership",
+            "and",
+            "dim",
+            "the",
+            "glow",
+            "of",
+            "the",
+            "just-concluded",
+            "Republican",
+            "conclave",
+            "that",
+            "gave",
+            "a",
+            "boost",
+            "to",
+            "rival",
+            "Bob",
+            "Dole",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "type": "MISC"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "type": "PER"
+            },
+            {
+                "start": 40,
+                "end": 41,
+                "type": "MISC"
+            },
+            {
+                "start": 48,
+                "end": 50,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "13074",
+        "tokens": [
+            "Olympic",
+            "sprint",
+            "championship",
+            "(",
+            "three-man",
+            "teams",
+            ")",
+            ":"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "1438",
+        "tokens": [
+            "A",
+            "West",
+            "Bank",
+            "bookseller",
+            "charged",
+            "on",
+            "Thursday",
+            "that",
+            "the",
+            "Palestinian",
+            "Information",
+            "Ministry",
+            "has",
+            "forced",
+            "him",
+            "to",
+            "sign",
+            "an",
+            "undertaking",
+            "not",
+            "to",
+            "distribute",
+            "books",
+            "written",
+            "by",
+            "critics",
+            "of",
+            "Israeli-PLO",
+            "self-rule",
+            "deals",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "LOC"
+            },
+            {
+                "start": 9,
+                "end": 12,
+                "type": "ORG"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "5022",
+        "tokens": [
+            "2.",
+            "Tim",
+            "Forsyth",
+            "(",
+            "Australia",
+            ")",
+            "2.30"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "4016",
+        "tokens": [
+            "Vojvodina",
+            "2",
+            "2",
+            "0",
+            "0",
+            "4",
+            "1",
+            "6"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "4145",
+        "tokens": [
+            "BASEBALL",
+            "-",
+            "MAJOR",
+            "LEAGUE",
+            "RESULTS",
+            "FRIDAY",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 4,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "7218",
+        "tokens": [
+            "Botafogo",
+            "striker",
+            "Tulio",
+            ",",
+            "who",
+            "was",
+            "overlooked",
+            "by",
+            "Zagalo",
+            "for",
+            "the",
+            "tour",
+            "which",
+            "also",
+            "features",
+            "a",
+            "game",
+            "away",
+            "to",
+            "the",
+            "Netherlands",
+            "on",
+            "Sunday",
+            ",",
+            "scored",
+            "his",
+            "third",
+            "goal",
+            "in",
+            "three",
+            "games",
+            "as",
+            "the",
+            "defending",
+            "champions",
+            "beat",
+            "Bahia",
+            "2-1",
+            "away",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 2,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "type": "PER"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "type": "LOC"
+            },
+            {
+                "start": 36,
+                "end": 37,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "4791",
+        "tokens": [
+            "On",
+            "the",
+            "back",
+            "nine",
+            "Mickelson",
+            "began",
+            "driving",
+            "erratically",
+            ",",
+            "and",
+            "poor",
+            "tee",
+            "shots",
+            "resulted",
+            "in",
+            "bogeys",
+            "on",
+            "the",
+            ",",
+            "eighth",
+            ",",
+            "12th",
+            "and",
+            "13th",
+            "holes",
+            ",",
+            "bringing",
+            "Mickelson",
+            "back",
+            "to",
+            "four",
+            "under",
+            "par",
+            ",",
+            "tied",
+            "with",
+            "Mayfair",
+            ",",
+            "who",
+            "had",
+            "parred",
+            "14",
+            "straight",
+            "holes",
+            "after",
+            "the",
+            "birdie",
+            "on",
+            "no.2",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "PER"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "type": "PER"
+            },
+            {
+                "start": 36,
+                "end": 37,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "1090",
+        "tokens": [
+            "\"",
+            "This",
+            "is",
+            "our",
+            "first",
+            "decision",
+            "in",
+            "federal",
+            "distrct",
+            "court",
+            "regarding",
+            "a",
+            "dispute",
+            "with",
+            "Medicare",
+            ",",
+            "\"",
+            "Gildea",
+            "said",
+            ".",
+            "\""
+        ],
+        "entities": [
+            {
+                "start": 14,
+                "end": 15,
+                "type": "MISC"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "5063",
+        "tokens": [
+            "16.",
+            "Jos",
+            "Verstappen",
+            "(",
+            "Netherland",
+            ")",
+            "Arrows",
+            "11"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "9549",
+        "tokens": [
+            "TALLINN",
+            "1996-08-27"
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "11854",
+        "tokens": [
+            "Nigeria",
+            "is",
+            "under",
+            "fire",
+            "from",
+            "many",
+            "Western",
+            "countries",
+            "for",
+            "human",
+            "rights",
+            "abuses",
+            "and",
+            "lack",
+            "of",
+            "democracy",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "LOC"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "13171",
+        "tokens": [
+            "10.",
+            "Jans",
+            "Koerts",
+            "(",
+            "Netherlands",
+            ")",
+            "Palmans",
+            "34"
+        ],
+        "entities": [
+            {
+                "start": 1,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "type": "LOC"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "11253",
+        "tokens": [
+            "Milan",
+            "'s",
+            "new",
+            "Uruguayan",
+            "coach",
+            "Oscar",
+            "Tabarez",
+            "avoided",
+            "the",
+            "nightmare",
+            "of",
+            "defeat",
+            "but",
+            "faces",
+            "a",
+            "replay",
+            "at",
+            "home",
+            "next",
+            "Sunday",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "ORG"
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "type": "MISC"
+            },
+            {
+                "start": 5,
+                "end": 7,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "1278",
+        "tokens": [
+            "Conte",
+            "seized",
+            "power",
+            "in",
+            "1984",
+            "after",
+            "the",
+            "death",
+            "of",
+            "veteran",
+            "Marxist",
+            "leader",
+            "Ahmed",
+            "Sekou",
+            "Toure",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "type": "PER"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "type": "MISC"
+            },
+            {
+                "start": 12,
+                "end": 15,
+                "type": "PER"
+            }
+        ]
+    }
+]

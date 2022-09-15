@@ -1,0 +1,49 @@
+{
+    "entities": {
+        "None": {
+            "short": "None",
+            "verbose": "No Entity",
+            "template": "is not an entity."
+        },
+        "Hours": {
+            "short": "Hours",
+            "verbose": "Hours",
+            "template": "is a time."
+        },
+        "Rating": {
+            "short": "Rating",
+            "verbose": "Rating",
+            "template": "is the rating."
+        },
+        "Amenity": {
+            "short": "Amenity",
+            "verbose": "Amenity",
+            "template": "is an amenity."
+        },
+        "Price": {
+            "short": "Price",
+            "verbose": "Price",
+            "template": "is the price."
+        },
+        "Dish": {
+            "short": "Dish",
+            "verbose": "Dish",
+            "template": "is a dish."
+        },
+        "Location": {
+            "short": "Location",
+            "verbose": "Location",
+            "template": "is a location."
+        },
+        "Cuisine": {
+            "short": "Cuisine",
+            "verbose": "Cuisine",
+            "template": "is a cuisine."
+        },
+        "Restaurant_Name": {
+            "short": "Restaurant_Name",
+            "verbose": "Restaurant_Name",
+            "template": "is a restaurant name."
+        }
+    }
+}

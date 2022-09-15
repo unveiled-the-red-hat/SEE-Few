@@ -1,0 +1,858 @@
+[
+    {
+        "org_id": "224",
+        "tokens": [
+            "Dahvin",
+            "\"",
+            "DaHv",
+            "\"",
+            "Daniels",
+            "(",
+            "born",
+            "August",
+            "23",
+            ",",
+            "1993",
+            ")",
+            "in",
+            "Danvers",
+            ",",
+            "Massachusetts",
+            "is",
+            "an",
+            "American",
+            "rapper",
+            "and",
+            "singer",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 5,
+                "type": "PER"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "type": "LOC"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "type": "LOC"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "103",
+        "tokens": [
+            "One",
+            "of",
+            "the",
+            "major",
+            "events",
+            "that",
+            "is",
+            "currently",
+            "held",
+            "at",
+            "the",
+            "circuit",
+            ",",
+            "along",
+            "with",
+            "DTM",
+            "and",
+            "A1GP",
+            ",",
+            "is",
+            "the",
+            "BP",
+            "Ultimate",
+            "Masters",
+            "of",
+            "Formula",
+            "3",
+            ",",
+            "where",
+            "Formula",
+            "3",
+            "cars",
+            "of",
+            "several",
+            "national",
+            "racing",
+            "series",
+            "compete",
+            "with",
+            "each",
+            "other",
+            "(",
+            "originally",
+            "called",
+            "Marlboro",
+            "Masters",
+            ",",
+            "before",
+            "tobacco",
+            "advertising",
+            "ban",
+            ")",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 15,
+                "end": 16,
+                "type": "MISC"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "MISC"
+            },
+            {
+                "start": 21,
+                "end": 27,
+                "type": "MISC"
+            },
+            {
+                "start": 29,
+                "end": 31,
+                "type": "ORG"
+            },
+            {
+                "start": 44,
+                "end": 46,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "72",
+        "tokens": [
+            "This",
+            "script",
+            "drew",
+            "heavily",
+            "on",
+            "his",
+            "own",
+            "Buddhist",
+            "faith",
+            "and",
+            "incorporated",
+            "classic",
+            "Buddhist",
+            "terms",
+            "such",
+            "as",
+            "dukkha",
+            ",",
+            "panna",
+            ",",
+            "karuna",
+            ",",
+            "devaloka",
+            "and",
+            "Mara",
+            "---",
+            "indeed",
+            ",",
+            "\"",
+            "the",
+            "Mara",
+            "\"",
+            "was",
+            "the",
+            "name",
+            "of",
+            "the",
+            "villain",
+            "of",
+            "the",
+            "piece",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "MISC"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "135",
+        "tokens": [
+            "In",
+            "1944",
+            "Barbara",
+            "McClintock",
+            "discovered",
+            "at",
+            "CSHL",
+            "transposons",
+            "(",
+            "\"",
+            "jumping",
+            "genes",
+            "\"",
+            ")",
+            ",",
+            "for",
+            "which",
+            "she",
+            "received",
+            "the",
+            "1983",
+            "Nobel",
+            "Prize",
+            "in",
+            "Physiology",
+            "or",
+            "Medicine",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 2,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "type": "ORG"
+            },
+            {
+                "start": 21,
+                "end": 23,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "234",
+        "tokens": [
+            "Daniel",
+            "Claudiu",
+            "Prodan",
+            "(",
+            "born",
+            "23",
+            "March",
+            "1972",
+            ")",
+            "is",
+            "a",
+            "retired",
+            "Romanian",
+            "soccer",
+            "defender",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "type": "PER"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "139",
+        "tokens": [
+            "In",
+            "October",
+            "2007",
+            "Watson",
+            "resigned",
+            "as",
+            "a",
+            "result",
+            "of",
+            "controversial",
+            "remarks",
+            "about",
+            "race",
+            "made",
+            "to",
+            "The",
+            "Sunday",
+            "Times",
+            "in",
+            "the",
+            "U.K",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 4,
+                "type": "PER"
+            },
+            {
+                "start": 15,
+                "end": 18,
+                "type": "ORG"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "type": "LOC"
+            }
+        ]
+    },
+    {
+        "org_id": "330",
+        "tokens": [
+            "Slowly",
+            ",",
+            "his",
+            "musical",
+            "style",
+            "changed",
+            "from",
+            "pop",
+            "rock",
+            "to",
+            "jazz",
+            ",",
+            "as",
+            "he",
+            "started",
+            "to",
+            "incorporate",
+            "influences",
+            "from",
+            "John",
+            "McLaughlin",
+            "of",
+            "the",
+            "Mahavishnu",
+            "Orchestra",
+            ",",
+            "Chick",
+            "Corea",
+            ",",
+            "Yes",
+            ",",
+            "Gentle",
+            "Giant",
+            ",",
+            "Kansas",
+            ",",
+            "Tangerine",
+            "Dream",
+            ",",
+            "American",
+            "Garage",
+            ",",
+            "Bright",
+            "Size",
+            "Life",
+            ",",
+            "Pat",
+            "Metheny",
+            "and",
+            "Allan",
+            "Holdsworth",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 19,
+                "end": 21,
+                "type": "PER"
+            },
+            {
+                "start": 23,
+                "end": 25,
+                "type": "ORG"
+            },
+            {
+                "start": 26,
+                "end": 28,
+                "type": "PER"
+            },
+            {
+                "start": 29,
+                "end": 30,
+                "type": "ORG"
+            },
+            {
+                "start": 31,
+                "end": 33,
+                "type": "ORG"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "type": "ORG"
+            },
+            {
+                "start": 36,
+                "end": 38,
+                "type": "ORG"
+            },
+            {
+                "start": 39,
+                "end": 41,
+                "type": "ORG"
+            },
+            {
+                "start": 42,
+                "end": 45,
+                "type": "ORG"
+            },
+            {
+                "start": 46,
+                "end": 48,
+                "type": "PER"
+            },
+            {
+                "start": 49,
+                "end": 51,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "45",
+        "tokens": [
+            "There",
+            "is",
+            "controversy",
+            "in",
+            "regard",
+            "to",
+            "whether",
+            "Aguano",
+            "is",
+            "the",
+            "same",
+            "language",
+            ",",
+            "which",
+            "one",
+            "study",
+            "(",
+            "Ruhlen",
+            "1987",
+            ")",
+            "says",
+            "it",
+            "is",
+            ",",
+            "but",
+            "the",
+            "Chamicuros",
+            "dispute",
+            "this",
+            "(",
+            "Wise",
+            ",",
+            "1987",
+            ")",
+            ",",
+            "although",
+            "this",
+            "may",
+            "be",
+            "for",
+            "cultural",
+            "reasons",
+            "and",
+            "the",
+            "languages",
+            "may",
+            "actually",
+            "be",
+            "intelligible",
+            "but",
+            "the",
+            "different",
+            "peoples",
+            "do",
+            "not",
+            "relate",
+            "to",
+            "one",
+            "another",
+            "and",
+            "maintain",
+            "different",
+            "names",
+            "and",
+            "connotations",
+            "between",
+            "their",
+            "language",
+            "or",
+            "languages",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "type": "MISC"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "type": "PER"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "type": "MISC"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "237",
+        "tokens": [
+            "From",
+            "1998",
+            "to",
+            "2000",
+            "Prodan",
+            "played",
+            "in",
+            "Scotland",
+            "with",
+            "Rangers",
+            "but",
+            "made",
+            "no",
+            "first",
+            "team",
+            "appearances",
+            "due",
+            "to",
+            "a",
+            "serious",
+            "knee",
+            "injury",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 5,
+                "type": "PER"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "type": "LOC"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "type": "ORG"
+            }
+        ]
+    },
+    {
+        "org_id": "147",
+        "tokens": [
+            "The",
+            "first",
+            "of",
+            "the",
+            "annual",
+            "Cold",
+            "Spring",
+            "Harbor",
+            "Laboratory",
+            "Symposium",
+            "on",
+            "Quantitative",
+            "Biology",
+            "was",
+            "held",
+            "in",
+            "1934",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 5,
+                "end": 10,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "277",
+        "tokens": [
+            "His",
+            "book",
+            ",",
+            "A",
+            "Biblical",
+            "Case",
+            "for",
+            "an",
+            "Old",
+            "Earth",
+            "was",
+            "described",
+            "in",
+            "a",
+            "review",
+            "by",
+            "Law",
+            "Professor",
+            "David",
+            "W.",
+            "Opderbeck",
+            ",",
+            "in",
+            "the",
+            "American",
+            "Scientific",
+            "Affiliation",
+            "'s",
+            "Perspectives",
+            "on",
+            "Science",
+            "and",
+            "Christian",
+            "Faith",
+            "as",
+            "\"",
+            "succeed[ing",
+            "]",
+            "admirably",
+            "\"",
+            "in",
+            "\"",
+            "establish[ing",
+            "]",
+            "that",
+            "the",
+            "'",
+            "day-age",
+            "'",
+            "view",
+            "is",
+            "a",
+            "valid",
+            "alternative",
+            "for",
+            "Christians",
+            "who",
+            "hold",
+            "to",
+            "biblical",
+            "inerrancy",
+            "\"",
+            ",",
+            "but",
+            "as",
+            "\"",
+            "less",
+            "persuasive",
+            "\"",
+            "at",
+            "\"",
+            "argu[ing",
+            "]",
+            "for",
+            "a",
+            "concordist",
+            "understanding",
+            "of",
+            "the",
+            "Genesis",
+            "texts",
+            "and",
+            "modern",
+            "science",
+            ".",
+            "\""
+        ],
+        "entities": [
+            {
+                "start": 3,
+                "end": 10,
+                "type": "MISC"
+            },
+            {
+                "start": 18,
+                "end": 21,
+                "type": "PER"
+            },
+            {
+                "start": 24,
+                "end": 27,
+                "type": "ORG"
+            },
+            {
+                "start": 55,
+                "end": 56,
+                "type": "MISC"
+            },
+            {
+                "start": 79,
+                "end": 80,
+                "type": "MISC"
+            }
+        ]
+    },
+    {
+        "org_id": "92",
+        "tokens": [
+            "The",
+            "youth",
+            "center",
+            "the",
+            "Adolescent",
+            "Life",
+            "Coaching",
+            "Center",
+            "(",
+            "adolescentlifecoaching.com",
+            ")",
+            "opened",
+            "in",
+            "honor",
+            "of",
+            "Christopher",
+            "Penley",
+            "'s",
+            "memory",
+            "and",
+            "to",
+            "give",
+            "a",
+            "place",
+            "for",
+            "the",
+            "voice",
+            "of",
+            "youth",
+            "to",
+            "be",
+            "heard",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 4,
+                "end": 8,
+                "type": "ORG"
+            },
+            {
+                "start": 15,
+                "end": 17,
+                "type": "PER"
+            }
+        ]
+    },
+    {
+        "org_id": "221",
+        "tokens": [
+            "It",
+            "also",
+            "held",
+            "several",
+            "sawmills",
+            "(",
+            "including",
+            "one",
+            "in",
+            "Gilchrist",
+            ",",
+            "Oregon",
+            ")",
+            ",",
+            "a",
+            "wood",
+            "chip",
+            "plant",
+            ",",
+            "and",
+            "lumberyards",
+            "in",
+            "the",
+            "Pacific",
+            "Northwest",
+            ",",
+            "with",
+            "wholesale",
+            "marketing",
+            "and",
+            "sales",
+            "office",
+            "in",
+            "states",
+            "such",
+            "as",
+            "California",
+            ",",
+            "Utah",
+            ",",
+            "and",
+            "Arizona",
+            "."
+        ],
+        "entities": [
+            {
+                "start": 9,
+                "end": 10,
+                "type": "LOC"
+            },
+            {
+                "start": 11,
+                "end": 12,
+                "type": "LOC"
+            },
+            {
+                "start": 23,
+                "end": 25,
+                "type": "LOC"
+            },
+            {
+                "start": 36,
+                "end": 37,
+                "type": "LOC"
+            },
+            {
+                "start": 38,
+                "end": 39,
+                "type": "LOC"
+            },
+            {
+                "start": 41,
+                "end": 42,
+                "type": "LOC"
+            }
+        ]
+    }
+]
