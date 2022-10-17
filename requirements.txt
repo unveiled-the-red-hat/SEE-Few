@@ -2,3 +2,4 @@ tokenizers==0.9.4
 torch==1.7.1
 tqdm==4.62.3
 transformers==4.2.1
+six==1.15.0
