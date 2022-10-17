@@ -1,6 +1,6 @@
 import torch
 from torch import nn as nn
-from transformers import BertTokenizer, BertModel, BertPreTrainedModel, AutoConfig
+from transformers import BertTokenizer, BertModel, BertPreTrainedModel
 from utils import common
 
 

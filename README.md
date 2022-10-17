@@ -15,9 +15,11 @@ conda activate see-few
 pip install -r requirements.txt
 ```
 
+
 ## Data
 
 To make the experimental results more convincing and credible, we randomly sample 5 different groups of training sets and validation sets for each K. All the datasets have been uploaded to [datasets](./datasets/). 
+
 
 ## Train
 
@@ -25,13 +27,16 @@ To make the experimental results more convincing and credible, we randomly sampl
 bash scripts/run_conll.sh
 ```
 
+
 ## Acknowledgements
 
 We thank the authors for sharing their codes of [Locate and Label](https://github.com/tricktreat/locate-and-label), [StructShot](https://github.com/asappresearch/structshot), [TemplateNER](https://github.com/Nealcly/templateNER) and [BaselineCode](https://github.com/few-shot-NER-benchmark/BaselineCode). 
 
 
 ## Contact
+
 If you have any questions, please feel free to email `yangzeng@seu.edu.cn`. 
+
 
 ## Citation
 

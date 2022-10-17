@@ -1,12 +1,6 @@
 import json
 from collections import OrderedDict
-from logging import Logger
-import os
-from typing import Iterable, List
-import numpy as np
-import string
-from torch.utils import data
-
+from typing import List
 from tqdm import tqdm
 from transformers import BertTokenizer
 from utils.entities import EntityType, Entity, Document, Token

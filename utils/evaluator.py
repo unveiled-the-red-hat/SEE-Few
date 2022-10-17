@@ -1,17 +1,8 @@
-from enum import unique
-from .entities import EntityType, LabelSpan, Token, Document, TokenSpan
-import json
-import os
-import warnings
-from typing import List, OrderedDict, Tuple, Dict
-
-import torch
+from .entities import LabelSpan, Token, Document
+from typing import List, OrderedDict, Tuple
 from sklearn.metrics import precision_recall_fscore_support as prfs
-from transformers import AutoTokenizer
 from utils import common
-import jinja2
-import math
-from utils.data_loader import Dataset, NerDataProcessor
+from utils.data_loader import Dataset
 
 
 class Evaluator:
